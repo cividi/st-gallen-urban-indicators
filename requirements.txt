@@ -1,0 +1,2 @@
+scrapy
+frictionless[json,s3,sql]
