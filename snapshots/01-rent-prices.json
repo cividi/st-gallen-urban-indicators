@@ -17740,16 +17740,31 @@
       "mediatype": "application/vnd.simplestyle-extended"
     },
     {
+      "name": "wms-street-day-noise",
+      "path": "https://wms.geo.admin.ch",
+      "mediatype": "application/vnd.wms",
+      "parameters": {
+        "format": "image/png",
+        "transparent": true,
+        "layers": "ch.bafu.laerm-strassenlaerm_tag",
+        "opacity": 0.5
+      }
+    },
+    {
       "name": "mapbox-background",
-      "path": "mapbox://styles/gemeindescan/ck6rp249516tg1iqkmt48o4pz",
+      "path": "mapbox://styles/gemeindescan/ckc4sha4310d21iszp8ri17u2",
       "mediatype": "application/vnd.mapbox-vector-tile"
     }
   ],
   "name": "01-rent-prices",
   "sources": [
     {
-      "path": "https://homegate.ch",
+      "url": "https://homegate.ch",
       "title": "Homegate"
+    },
+    {
+      "title": "Karte: Mapbox, \u00a9 OpenStreetMap",
+      "url": "https://www.openstreetmap.org/copyright"
     }
   ],
   "views": [
@@ -17757,6 +17772,7 @@
       "name": "mapview",
       "resources": [
         "mapbox-background",
+        "wms-street-day-noise",
         "data"
       ],
       "spec": {
@@ -17764,6 +17780,74 @@
         "bounds": [
           "geo:47.39515506820663,9.291516279706524",
           "geo:47.45307355684985,9.435247605270359"
+        ],
+        "legend": [
+          {
+            "fillColor": "#0028b8",
+            "fillOpacity": 0.8,
+            "strokeColor": "#ffffff",
+            "strokeOpacity": 0.9,
+            "strokeWidth": 1.5,
+            "size": 1,
+            "shape": "circle",
+            "primary": true,
+            "label": "0-10 CHF/qm"
+          },
+          {
+            "fillColor": "#455db5",
+            "fillOpacity": 0.8,
+            "strokeColor": "#ffffff",
+            "strokeOpacity": 0.9,
+            "strokeWidth": 1.5,
+            "size": 1,
+            "shape": "circle",
+            "primary": true,
+            "label": "10-14 CHF/qm"
+          },
+          {
+            "fillColor": "#8a93b2",
+            "fillOpacity": 0.8,
+            "strokeColor": "#ffffff",
+            "strokeOpacity": 0.9,
+            "strokeWidth": 1.5,
+            "size": 1,
+            "shape": "circle",
+            "primary": true,
+            "label": "14-18 CHF/qm"
+          },
+          {
+            "fillColor": "#bfa98f",
+            "fillOpacity": 0.8,
+            "strokeColor": "#ffffff",
+            "strokeOpacity": 0.9,
+            "strokeWidth": 1.5,
+            "size": 1,
+            "shape": "circle",
+            "primary": true,
+            "label": "18-22 CHF/qm"
+          },
+          {
+            "fillColor": "#df9848",
+            "fillOpacity": 0.8,
+            "strokeColor": "#ffffff",
+            "strokeOpacity": 0.9,
+            "strokeWidth": 1.5,
+            "size": 1,
+            "shape": "circle",
+            "primary": true,
+            "label": "22-24 CHF/qm"
+          },
+          {
+            "fillColor": "#ff8800",
+            "fillOpacity": 0.8,
+            "strokeColor": "#ffffff",
+            "strokeOpacity": 0.9,
+            "strokeWidth": 1.5,
+            "size": 1,
+            "shape": "circle",
+            "primary": true,
+            "label": "24-34 CHF/qm"
+          }
         ]
       },
       "specType": "gemeindescanSnapshot"
