@@ -1,8 +1,8 @@
 on:
   push:
-    # paths:
-    #   - 'snapshots/**.json'
-    #   - 'snapshots/dfour.yaml'
+    paths:
+      - 'snapshots/**.json'
+      - 'snapshots/dfour.yaml'
     branches:
       - "main"
   workflow_dispatch:
