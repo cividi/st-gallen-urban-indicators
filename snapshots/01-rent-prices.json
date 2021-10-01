@@ -17778,9 +17778,11 @@
       "spec": {
         "attribution": "",
         "bounds": [
-          "geo:47.39515506820663,9.291516279706524",
-          "geo:47.45307355684985,9.435247605270359"
+          "geo:47.40515506820663,9.321516279706524",
+          "geo:47.44307355684985,9.395247605270359"
         ],
+        "title": "Mietpreise und L\u00e4rmimmissionen Tag",
+        "description": "Mietpreise Stadt St. Gallen, Sample: Ende September 2021 und L\u00e4rm Immissionen Strasse Tag.",
         "legend": [
           {
             "fillColor": "#0028b8",
