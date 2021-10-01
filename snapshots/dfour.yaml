@@ -1,0 +1,6 @@
+0SF96:
+  endpoint: https://sandbox.dfour.space
+  snapshots:
+    outline-map:
+      bfsNumber: 3203
+      topic: Perimeter
