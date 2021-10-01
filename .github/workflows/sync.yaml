@@ -21,6 +21,6 @@ jobs:
           dfour_password: ${{ secrets.DFOUR_PASSWORD }}
           dfour_workspace: ${{ secrets.DFOUR_WORKSPACE }}
           folder: snapshots
-      # For committing downloaded snapshots back
-      # - name: push
-      #   uses: actions-x/commit@v2
+      For committing downloaded snapshots back
+      - name: push
+        uses: actions-x/commit@v2
