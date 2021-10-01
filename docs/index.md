@@ -10,4 +10,6 @@ dfour Workspace: https://sandbox.dfour.space/de/0SF96/M3JDL6/
 
 ## Rent prices
 
-<iframe src="https://sandbox.dfour.space/CY3JZI/" width="100%" height="450px" frameborder=0></iframe>
+<iframe src="https://sandbox.dfour.space/CY3JZI/" width="100%" height="650px" frameborder=0></iframe>
+
+<iframe src="https://sandbox.dfour.space/PQL0R6/" width="100%" height="650px" frameborder=0></iframe>
