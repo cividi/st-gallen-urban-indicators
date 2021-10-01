@@ -7,3 +7,7 @@
     01-rent-prices:
       bfsNumber: 3203
       topic: Rent
+    02-rent-bauzonen:
+      bfsNumber: 3203
+      topic: Rent
+
