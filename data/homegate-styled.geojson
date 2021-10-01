@@ -23,12 +23,12 @@
         "EGID": 10701670,
         "price_per_sqm": "18.928571428571427",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -60,12 +60,12 @@
         "EGID": 23636930,
         "price_per_sqm": "18.316831683168317",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -97,12 +97,12 @@
         "EGID": null,
         "price_per_sqm": "8.666666666666666",
         "cat": "a",
-        "fill": null,
+        "fillColor": "#0028b8",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -128,12 +128,12 @@
         "EGID": 10708890,
         "price_per_sqm": "17.77777777777778",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -165,12 +165,12 @@
         "EGID": 10758601,
         "price_per_sqm": "20.867346938775512",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -202,12 +202,12 @@
         "EGID": 10706370,
         "price_per_sqm": "13.360655737704919",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -239,12 +239,12 @@
         "EGID": 10714660,
         "price_per_sqm": "18.625",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -276,12 +276,12 @@
         "EGID": 10749450,
         "price_per_sqm": "17.464788732394368",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -313,12 +313,12 @@
         "EGID": 10715370,
         "price_per_sqm": "19.390243902439025",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -350,12 +350,12 @@
         "EGID": 10687630,
         "price_per_sqm": "33.90243902439025",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -387,12 +387,12 @@
         "EGID": 10689440,
         "price_per_sqm": "10.721649484536082",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -424,12 +424,12 @@
         "EGID": 10695560,
         "price_per_sqm": "24.791666666666668",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -461,12 +461,12 @@
         "EGID": 10769530,
         "price_per_sqm": "18.289473684210527",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -498,12 +498,12 @@
         "EGID": 10767630,
         "price_per_sqm": "21.147540983606557",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -535,12 +535,12 @@
         "EGID": 10769480,
         "price_per_sqm": "20.15625",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -572,12 +572,12 @@
         "EGID": 10762550,
         "price_per_sqm": "15.866666666666667",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -609,12 +609,12 @@
         "EGID": 10766400,
         "price_per_sqm": "18.11320754716981",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -646,12 +646,12 @@
         "EGID": 10734980,
         "price_per_sqm": "21.666666666666668",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -683,12 +683,12 @@
         "EGID": 10766260,
         "price_per_sqm": "23.4",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -720,12 +720,12 @@
         "EGID": 10751320,
         "price_per_sqm": "15.441176470588236",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -757,12 +757,12 @@
         "EGID": 1902091980,
         "price_per_sqm": "20.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -794,12 +794,12 @@
         "EGID": 10690790,
         "price_per_sqm": "16.923076923076923",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -831,12 +831,12 @@
         "EGID": null,
         "price_per_sqm": "12.74390243902439",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -862,12 +862,12 @@
         "EGID": 1915489930,
         "price_per_sqm": "16.363636363636363",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -899,12 +899,12 @@
         "EGID": 1915489850,
         "price_per_sqm": "15.777777777777779",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -936,12 +936,12 @@
         "EGID": 1600062520,
         "price_per_sqm": "17.875",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -973,12 +973,12 @@
         "EGID": null,
         "price_per_sqm": "17.263157894736842",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -1004,12 +1004,12 @@
         "EGID": 10771190,
         "price_per_sqm": "18.166666666666668",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1041,12 +1041,12 @@
         "EGID": 10768530,
         "price_per_sqm": "16.363636363636363",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1078,12 +1078,12 @@
         "EGID": 23638233,
         "price_per_sqm": "20.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1115,12 +1115,12 @@
         "EGID": 10771060,
         "price_per_sqm": "13.72340425531915",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1152,12 +1152,12 @@
         "EGID": 23642020,
         "price_per_sqm": "16.93548387096774",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1189,12 +1189,12 @@
         "EGID": 10769520,
         "price_per_sqm": "18.68421052631579",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1226,12 +1226,12 @@
         "EGID": 1904256990,
         "price_per_sqm": "17.532467532467532",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1263,12 +1263,12 @@
         "EGID": 23630590,
         "price_per_sqm": "17.17391304347826",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1300,12 +1300,12 @@
         "EGID": 10752120,
         "price_per_sqm": "12.891566265060241",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1337,12 +1337,12 @@
         "EGID": 10767630,
         "price_per_sqm": "22.885245901639344",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1374,12 +1374,12 @@
         "EGID": null,
         "price_per_sqm": "26.333333333333332",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -1405,12 +1405,12 @@
         "EGID": 10769540,
         "price_per_sqm": "18.42105263157895",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1442,12 +1442,12 @@
         "EGID": 10761980,
         "price_per_sqm": "23.75",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1479,12 +1479,12 @@
         "EGID": 1915489770,
         "price_per_sqm": "16.363636363636363",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1516,12 +1516,12 @@
         "EGID": null,
         "price_per_sqm": "16.666666666666668",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -1547,12 +1547,12 @@
         "EGID": 10698600,
         "price_per_sqm": "13.709677419354838",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1584,12 +1584,12 @@
         "EGID": 10723130,
         "price_per_sqm": "32.69230769230769",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1621,12 +1621,12 @@
         "EGID": null,
         "price_per_sqm": "20.666666666666668",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -1652,12 +1652,12 @@
         "EGID": 10689930,
         "price_per_sqm": "16.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1689,12 +1689,12 @@
         "EGID": 1900947150,
         "price_per_sqm": "12.573099415204679",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1726,12 +1726,12 @@
         "EGID": 10771300,
         "price_per_sqm": "17.789473684210527",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1763,12 +1763,12 @@
         "EGID": 10696410,
         "price_per_sqm": "16.75",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1800,12 +1800,12 @@
         "EGID": 10767470,
         "price_per_sqm": "11.134751773049645",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1837,12 +1837,12 @@
         "EGID": null,
         "price_per_sqm": "17.59493670886076",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -1868,12 +1868,12 @@
         "EGID": 23638231,
         "price_per_sqm": "18.571428571428573",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1905,12 +1905,12 @@
         "EGID": 10771140,
         "price_per_sqm": "14.660194174757281",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1942,12 +1942,12 @@
         "EGID": 10766560,
         "price_per_sqm": "14.181818181818182",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -1979,12 +1979,12 @@
         "EGID": 1906996690,
         "price_per_sqm": "15.625",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2016,12 +2016,12 @@
         "EGID": 10734980,
         "price_per_sqm": "18.91304347826087",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2053,12 +2053,12 @@
         "EGID": 1918237390,
         "price_per_sqm": "27.1875",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2090,12 +2090,12 @@
         "EGID": 10759130,
         "price_per_sqm": "14.416666666666666",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2127,12 +2127,12 @@
         "EGID": 10748120,
         "price_per_sqm": "15.621052631578948",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2164,12 +2164,12 @@
         "EGID": null,
         "price_per_sqm": "19.41176470588235",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -2195,12 +2195,12 @@
         "EGID": 10729390,
         "price_per_sqm": "22.22222222222222",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2232,12 +2232,12 @@
         "EGID": 10760350,
         "price_per_sqm": "17.45614035087719",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2269,12 +2269,12 @@
         "EGID": 10710510,
         "price_per_sqm": "23.69047619047619",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2306,12 +2306,12 @@
         "EGID": 10760350,
         "price_per_sqm": "13.362068965517242",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2343,12 +2343,12 @@
         "EGID": null,
         "price_per_sqm": "22.894736842105264",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -2374,12 +2374,12 @@
         "EGID": null,
         "price_per_sqm": "15.74468085106383",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -2405,12 +2405,12 @@
         "EGID": 10710500,
         "price_per_sqm": "23.571428571428573",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2442,12 +2442,12 @@
         "EGID": null,
         "price_per_sqm": "16.80851063829787",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -2473,12 +2473,12 @@
         "EGID": 1904256940,
         "price_per_sqm": "15.869565217391305",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2510,12 +2510,12 @@
         "EGID": 10769120,
         "price_per_sqm": "12.814814814814815",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2547,12 +2547,12 @@
         "EGID": 10730850,
         "price_per_sqm": "23.333333333333332",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2584,12 +2584,12 @@
         "EGID": 10766590,
         "price_per_sqm": "13.766666666666667",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2621,12 +2621,12 @@
         "EGID": 23638242,
         "price_per_sqm": "20.375",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2658,12 +2658,12 @@
         "EGID": 23631110,
         "price_per_sqm": "25.0",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2695,12 +2695,12 @@
         "EGID": 1918620820,
         "price_per_sqm": "22.61904761904762",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2732,12 +2732,12 @@
         "EGID": 10698430,
         "price_per_sqm": "13.176470588235293",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2769,12 +2769,12 @@
         "EGID": 10735510,
         "price_per_sqm": "31.428571428571427",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2806,12 +2806,12 @@
         "EGID": 10728480,
         "price_per_sqm": "21.11111111111111",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2843,12 +2843,12 @@
         "EGID": 10709970,
         "price_per_sqm": "15.789473684210526",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2880,12 +2880,12 @@
         "EGID": null,
         "price_per_sqm": "23.333333333333332",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -2911,12 +2911,12 @@
         "EGID": 10712430,
         "price_per_sqm": "24.75",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2948,12 +2948,12 @@
         "EGID": 10732940,
         "price_per_sqm": "14.516129032258064",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -2985,12 +2985,12 @@
         "EGID": 10702180,
         "price_per_sqm": "12.857142857142858",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3022,12 +3022,12 @@
         "EGID": null,
         "price_per_sqm": "18.47457627118644",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -3053,12 +3053,12 @@
         "EGID": null,
         "price_per_sqm": "26.38888888888889",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -3084,12 +3084,12 @@
         "EGID": 10761580,
         "price_per_sqm": "20.22222222222222",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3121,12 +3121,12 @@
         "EGID": 10703200,
         "price_per_sqm": "14.25",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3158,12 +3158,12 @@
         "EGID": 10755360,
         "price_per_sqm": "14.053763440860216",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3195,12 +3195,12 @@
         "EGID": 23635070,
         "price_per_sqm": "13.72340425531915",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3232,12 +3232,12 @@
         "EGID": 10755360,
         "price_per_sqm": "13.775510204081632",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3269,12 +3269,12 @@
         "EGID": 23635030,
         "price_per_sqm": "13.36734693877551",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3306,12 +3306,12 @@
         "EGID": 23635060,
         "price_per_sqm": "13.29896907216495",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3343,12 +3343,12 @@
         "EGID": 10717230,
         "price_per_sqm": "20.58823529411765",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3380,12 +3380,12 @@
         "EGID": 10735220,
         "price_per_sqm": "25.106382978723403",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3417,12 +3417,12 @@
         "EGID": 10704250,
         "price_per_sqm": "19.34426229508197",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3454,12 +3454,12 @@
         "EGID": 10717420,
         "price_per_sqm": "12.67605633802817",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3491,12 +3491,12 @@
         "EGID": null,
         "price_per_sqm": "11.2",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -3522,12 +3522,12 @@
         "EGID": 10733400,
         "price_per_sqm": "20.892857142857142",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3559,12 +3559,12 @@
         "EGID": 10735530,
         "price_per_sqm": "24.46808510638298",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3596,12 +3596,12 @@
         "EGID": 10729150,
         "price_per_sqm": "25.76923076923077",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3633,12 +3633,12 @@
         "EGID": 10760060,
         "price_per_sqm": "22.0",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3670,12 +3670,12 @@
         "EGID": 10703560,
         "price_per_sqm": "16.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3707,12 +3707,12 @@
         "EGID": 10703560,
         "price_per_sqm": "16.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3744,12 +3744,12 @@
         "EGID": 10702640,
         "price_per_sqm": "23.75",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3781,12 +3781,12 @@
         "EGID": 1902092420,
         "price_per_sqm": "14.895833333333334",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3818,12 +3818,12 @@
         "EGID": 10752110,
         "price_per_sqm": "18.307692307692307",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3855,12 +3855,12 @@
         "EGID": 10747610,
         "price_per_sqm": "14.56",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3892,12 +3892,12 @@
         "EGID": 1904853922,
         "price_per_sqm": "16.65671641791045",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3929,12 +3929,12 @@
         "EGID": 10747600,
         "price_per_sqm": "14.487179487179487",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -3966,12 +3966,12 @@
         "EGID": 1915218710,
         "price_per_sqm": "18.818897637795274",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4003,12 +4003,12 @@
         "EGID": 10747460,
         "price_per_sqm": "18.384615384615383",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4040,12 +4040,12 @@
         "EGID": null,
         "price_per_sqm": "21.2",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -4071,12 +4071,12 @@
         "EGID": null,
         "price_per_sqm": "19.09090909090909",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -4102,12 +4102,12 @@
         "EGID": null,
         "price_per_sqm": "25.625",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -4133,12 +4133,12 @@
         "EGID": 10736390,
         "price_per_sqm": "13.64864864864865",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4170,12 +4170,12 @@
         "EGID": 10711910,
         "price_per_sqm": "23.91304347826087",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4207,12 +4207,12 @@
         "EGID": 10759670,
         "price_per_sqm": "16.229508196721312",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4244,12 +4244,12 @@
         "EGID": 10713180,
         "price_per_sqm": "19.181818181818183",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4281,12 +4281,12 @@
         "EGID": 10759630,
         "price_per_sqm": "16.216216216216218",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4318,12 +4318,12 @@
         "EGID": 10760630,
         "price_per_sqm": "17.142857142857142",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4355,12 +4355,12 @@
         "EGID": 1907643510,
         "price_per_sqm": "21.971830985915492",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4392,12 +4392,12 @@
         "EGID": 10747620,
         "price_per_sqm": "14.027777777777779",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4429,12 +4429,12 @@
         "EGID": 27175190,
         "price_per_sqm": "14.9",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4466,12 +4466,12 @@
         "EGID": 10721750,
         "price_per_sqm": "20.384615384615383",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4503,12 +4503,12 @@
         "EGID": 10755390,
         "price_per_sqm": "18.043478260869566",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4540,12 +4540,12 @@
         "EGID": 23635060,
         "price_per_sqm": "13.51063829787234",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4577,12 +4577,12 @@
         "EGID": null,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -4608,12 +4608,12 @@
         "EGID": 27175190,
         "price_per_sqm": "13.5",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4645,12 +4645,12 @@
         "EGID": 10701680,
         "price_per_sqm": "12.588235294117647",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4682,12 +4682,12 @@
         "EGID": 10755280,
         "price_per_sqm": "18.333333333333332",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4719,12 +4719,12 @@
         "EGID": 10755380,
         "price_per_sqm": "18.333333333333332",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4756,12 +4756,12 @@
         "EGID": null,
         "price_per_sqm": "21.4",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -4787,12 +4787,12 @@
         "EGID": null,
         "price_per_sqm": "19.814814814814813",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -4818,12 +4818,12 @@
         "EGID": 10736920,
         "price_per_sqm": "18.5",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4855,12 +4855,12 @@
         "EGID": 1907643900,
         "price_per_sqm": "18.3",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4892,12 +4892,12 @@
         "EGID": 10736920,
         "price_per_sqm": "18.333333333333332",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4929,12 +4929,12 @@
         "EGID": null,
         "price_per_sqm": "20.535714285714285",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -4960,12 +4960,12 @@
         "EGID": 10702940,
         "price_per_sqm": "16.153846153846153",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -4997,12 +4997,12 @@
         "EGID": 10726580,
         "price_per_sqm": "23.125",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5034,12 +5034,12 @@
         "EGID": 10703560,
         "price_per_sqm": "15.671641791044776",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5071,12 +5071,12 @@
         "EGID": 10734630,
         "price_per_sqm": "30.0",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5108,12 +5108,12 @@
         "EGID": 10699230,
         "price_per_sqm": "20.754716981132077",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5145,12 +5145,12 @@
         "EGID": 10761550,
         "price_per_sqm": "18.38235294117647",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5182,12 +5182,12 @@
         "EGID": null,
         "price_per_sqm": "20.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -5213,12 +5213,12 @@
         "EGID": 10765420,
         "price_per_sqm": "14.383561643835616",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5250,12 +5250,12 @@
         "EGID": 10751540,
         "price_per_sqm": "18.11764705882353",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5287,12 +5287,12 @@
         "EGID": 10736080,
         "price_per_sqm": "13.5",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5324,12 +5324,12 @@
         "EGID": 10751660,
         "price_per_sqm": "16.170212765957448",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5361,12 +5361,12 @@
         "EGID": 23633900,
         "price_per_sqm": "17.63888888888889",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5398,12 +5398,12 @@
         "EGID": 10748520,
         "price_per_sqm": "16.753246753246753",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5435,12 +5435,12 @@
         "EGID": 10752010,
         "price_per_sqm": "14.939759036144578",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5472,12 +5472,12 @@
         "EGID": 10752570,
         "price_per_sqm": "15.768292682926829",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5509,12 +5509,12 @@
         "EGID": null,
         "price_per_sqm": "16.363636363636363",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -5540,12 +5540,12 @@
         "EGID": 1906076140,
         "price_per_sqm": "16.727272727272727",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5577,12 +5577,12 @@
         "EGID": 10765350,
         "price_per_sqm": "12.882882882882884",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5614,12 +5614,12 @@
         "EGID": 10771120,
         "price_per_sqm": "14.5",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5651,12 +5651,12 @@
         "EGID": 1902123520,
         "price_per_sqm": "16.833333333333332",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5688,12 +5688,12 @@
         "EGID": 1915697540,
         "price_per_sqm": "17.272727272727273",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5725,12 +5725,12 @@
         "EGID": 10765130,
         "price_per_sqm": "14.607843137254902",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5762,12 +5762,12 @@
         "EGID": null,
         "price_per_sqm": "15.466666666666667",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -5793,12 +5793,12 @@
         "EGID": 10699250,
         "price_per_sqm": "28.88888888888889",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5830,12 +5830,12 @@
         "EGID": 10760630,
         "price_per_sqm": "18.571428571428573",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5867,12 +5867,12 @@
         "EGID": 10762250,
         "price_per_sqm": "18.46153846153846",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5904,12 +5904,12 @@
         "EGID": 10726155,
         "price_per_sqm": "17.46031746031746",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5941,12 +5941,12 @@
         "EGID": 10761560,
         "price_per_sqm": "18.840579710144926",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -5978,12 +5978,12 @@
         "EGID": 10760060,
         "price_per_sqm": "16.285714285714285",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6015,12 +6015,12 @@
         "EGID": 10734080,
         "price_per_sqm": "13.875",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6052,12 +6052,12 @@
         "EGID": 10716520,
         "price_per_sqm": "18.28125",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6089,12 +6089,12 @@
         "EGID": null,
         "price_per_sqm": "17.2",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -6120,12 +6120,12 @@
         "EGID": 10728480,
         "price_per_sqm": "14.266666666666667",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6157,12 +6157,12 @@
         "EGID": null,
         "price_per_sqm": "14.722222222222221",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -6188,12 +6188,12 @@
         "EGID": 10736920,
         "price_per_sqm": "18.833333333333332",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6225,12 +6225,12 @@
         "EGID": 10735180,
         "price_per_sqm": "17.2",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6262,12 +6262,12 @@
         "EGID": 10767470,
         "price_per_sqm": "11.951219512195122",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6299,12 +6299,12 @@
         "EGID": null,
         "price_per_sqm": "17.46031746031746",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -6330,12 +6330,12 @@
         "EGID": 10736520,
         "price_per_sqm": "14.383561643835616",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6367,12 +6367,12 @@
         "EGID": 10767610,
         "price_per_sqm": "19.0989010989011",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6404,12 +6404,12 @@
         "EGID": 10699280,
         "price_per_sqm": "20.846153846153847",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6441,12 +6441,12 @@
         "EGID": null,
         "price_per_sqm": "16.428571428571427",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -6472,12 +6472,12 @@
         "EGID": 10734430,
         "price_per_sqm": "18.493150684931507",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6509,12 +6509,12 @@
         "EGID": 10710650,
         "price_per_sqm": "21.454545454545453",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6546,12 +6546,12 @@
         "EGID": null,
         "price_per_sqm": "16.338028169014084",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -6577,12 +6577,12 @@
         "EGID": null,
         "price_per_sqm": "12.64367816091954",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -6608,12 +6608,12 @@
         "EGID": 10711270,
         "price_per_sqm": "16.417910447761194",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6645,12 +6645,12 @@
         "EGID": 10702030,
         "price_per_sqm": "15.714285714285714",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6682,12 +6682,12 @@
         "EGID": 10704500,
         "price_per_sqm": "17.866666666666667",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6719,12 +6719,12 @@
         "EGID": 10724290,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6756,12 +6756,12 @@
         "EGID": 1911229510,
         "price_per_sqm": "18.09917355371901",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6793,12 +6793,12 @@
         "EGID": 23630710,
         "price_per_sqm": "20.90909090909091",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6830,12 +6830,12 @@
         "EGID": 1915489840,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6867,12 +6867,12 @@
         "EGID": 1905267650,
         "price_per_sqm": "17.67676767676768",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6904,12 +6904,12 @@
         "EGID": 1900947190,
         "price_per_sqm": "13.664596273291925",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6941,12 +6941,12 @@
         "EGID": 10716830,
         "price_per_sqm": "18.533333333333335",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -6978,12 +6978,12 @@
         "EGID": 10761100,
         "price_per_sqm": "13.218390804597702",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7015,12 +7015,12 @@
         "EGID": null,
         "price_per_sqm": "13.255813953488373",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -7046,12 +7046,12 @@
         "EGID": 10760830,
         "price_per_sqm": "16.951219512195124",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7083,12 +7083,12 @@
         "EGID": 10758090,
         "price_per_sqm": "14.625",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7120,12 +7120,12 @@
         "EGID": 10734210,
         "price_per_sqm": "15.789473684210526",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7157,12 +7157,12 @@
         "EGID": null,
         "price_per_sqm": "21.964285714285715",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -7188,12 +7188,12 @@
         "EGID": 10697390,
         "price_per_sqm": "21.153846153846153",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7225,12 +7225,12 @@
         "EGID": 10717070,
         "price_per_sqm": "14.634146341463415",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7262,12 +7262,12 @@
         "EGID": 10762250,
         "price_per_sqm": "16.125",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7299,12 +7299,12 @@
         "EGID": 10702640,
         "price_per_sqm": "11.73469387755102",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7336,12 +7336,12 @@
         "EGID": 10702190,
         "price_per_sqm": "15.333333333333334",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7373,12 +7373,12 @@
         "EGID": 10732940,
         "price_per_sqm": "14.935064935064934",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7410,12 +7410,12 @@
         "EGID": 10762030,
         "price_per_sqm": "19.855072463768117",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7447,12 +7447,12 @@
         "EGID": 1912889750,
         "price_per_sqm": "17.1875",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7484,12 +7484,12 @@
         "EGID": 1905267670,
         "price_per_sqm": "17.346938775510203",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7521,12 +7521,12 @@
         "EGID": 10697460,
         "price_per_sqm": "16.11764705882353",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7558,12 +7558,12 @@
         "EGID": 10695680,
         "price_per_sqm": "13.559322033898304",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7595,12 +7595,12 @@
         "EGID": 10732940,
         "price_per_sqm": "14.935064935064934",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7632,12 +7632,12 @@
         "EGID": 1906083180,
         "price_per_sqm": "16.630434782608695",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7669,12 +7669,12 @@
         "EGID": 10697150,
         "price_per_sqm": "16.666666666666668",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7706,12 +7706,12 @@
         "EGID": 1918237380,
         "price_per_sqm": "19.677419354838708",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7743,12 +7743,12 @@
         "EGID": 10734390,
         "price_per_sqm": "21.428571428571427",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7780,12 +7780,12 @@
         "EGID": 1915489870,
         "price_per_sqm": "16.477272727272727",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7817,12 +7817,12 @@
         "EGID": null,
         "price_per_sqm": "22.03125",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -7848,12 +7848,12 @@
         "EGID": 10757430,
         "price_per_sqm": "14.35897435897436",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7885,12 +7885,12 @@
         "EGID": 10708460,
         "price_per_sqm": "17.5",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7922,12 +7922,12 @@
         "EGID": 10757410,
         "price_per_sqm": "14.35897435897436",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7959,12 +7959,12 @@
         "EGID": 10703560,
         "price_per_sqm": "16.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -7996,12 +7996,12 @@
         "EGID": null,
         "price_per_sqm": "19.841269841269842",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -8027,12 +8027,12 @@
         "EGID": 10761740,
         "price_per_sqm": "17.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8064,12 +8064,12 @@
         "EGID": null,
         "price_per_sqm": "18.852459016393443",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -8095,12 +8095,12 @@
         "EGID": 10697390,
         "price_per_sqm": "21.384615384615383",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8132,12 +8132,12 @@
         "EGID": 10729090,
         "price_per_sqm": "14.444444444444445",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8169,12 +8169,12 @@
         "EGID": 10761120,
         "price_per_sqm": "14.691358024691358",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8206,12 +8206,12 @@
         "EGID": null,
         "price_per_sqm": "14.875",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -8237,12 +8237,12 @@
         "EGID": 10708460,
         "price_per_sqm": "17.375",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8274,12 +8274,12 @@
         "EGID": 10711270,
         "price_per_sqm": "16.865671641791046",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8311,12 +8311,12 @@
         "EGID": 10734980,
         "price_per_sqm": "17.571428571428573",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8348,12 +8348,12 @@
         "EGID": 10718210,
         "price_per_sqm": "12.666666666666666",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8385,12 +8385,12 @@
         "EGID": 10721620,
         "price_per_sqm": "19.77777777777778",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8422,12 +8422,12 @@
         "EGID": 10710500,
         "price_per_sqm": "18.69047619047619",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8459,12 +8459,12 @@
         "EGID": 10730300,
         "price_per_sqm": "17.285714285714285",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8496,12 +8496,12 @@
         "EGID": 10721630,
         "price_per_sqm": "17.8",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8533,12 +8533,12 @@
         "EGID": 10703810,
         "price_per_sqm": "19.866666666666667",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8570,12 +8570,12 @@
         "EGID": 10729390,
         "price_per_sqm": "18.170731707317074",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8607,12 +8607,12 @@
         "EGID": 10729150,
         "price_per_sqm": "23.272727272727273",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8644,12 +8644,12 @@
         "EGID": 10711270,
         "price_per_sqm": "13.409090909090908",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8681,12 +8681,12 @@
         "EGID": 10703460,
         "price_per_sqm": "19.733333333333334",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8718,12 +8718,12 @@
         "EGID": null,
         "price_per_sqm": "14.65",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -8749,12 +8749,12 @@
         "EGID": 10702250,
         "price_per_sqm": "15.051546391752577",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8786,12 +8786,12 @@
         "EGID": null,
         "price_per_sqm": "19.863013698630137",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -8817,12 +8817,12 @@
         "EGID": 10729470,
         "price_per_sqm": "17.105882352941176",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8854,12 +8854,12 @@
         "EGID": 10711270,
         "price_per_sqm": "15.576923076923077",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8891,12 +8891,12 @@
         "EGID": 10716440,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8928,12 +8928,12 @@
         "EGID": 10762270,
         "price_per_sqm": "13.166666666666666",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -8965,12 +8965,12 @@
         "EGID": 10721620,
         "price_per_sqm": "17.8",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9002,12 +9002,12 @@
         "EGID": 10717240,
         "price_per_sqm": "14.777777777777779",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9039,12 +9039,12 @@
         "EGID": null,
         "price_per_sqm": "9.428571428571429",
         "cat": "a",
-        "fill": null,
+        "fillColor": "#0028b8",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -9070,12 +9070,12 @@
         "EGID": 10722770,
         "price_per_sqm": "10.75",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9107,12 +9107,12 @@
         "EGID": null,
         "price_per_sqm": "15.222222222222221",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -9138,12 +9138,12 @@
         "EGID": 10710170,
         "price_per_sqm": "13.267326732673267",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9175,12 +9175,12 @@
         "EGID": 23641003,
         "price_per_sqm": "14.4",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9212,12 +9212,12 @@
         "EGID": 10734080,
         "price_per_sqm": "15.662650602409638",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9249,12 +9249,12 @@
         "EGID": 10704690,
         "price_per_sqm": "17.375",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9286,12 +9286,12 @@
         "EGID": 10701780,
         "price_per_sqm": "12.9",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9323,12 +9323,12 @@
         "EGID": 10735210,
         "price_per_sqm": "17.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9360,12 +9360,12 @@
         "EGID": 10757490,
         "price_per_sqm": "15.176470588235293",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9397,12 +9397,12 @@
         "EGID": 10729150,
         "price_per_sqm": "19.642857142857142",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9434,12 +9434,12 @@
         "EGID": 10697800,
         "price_per_sqm": "17.790697674418606",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9471,12 +9471,12 @@
         "EGID": 10761920,
         "price_per_sqm": "17.078651685393258",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9508,12 +9508,12 @@
         "EGID": 10734060,
         "price_per_sqm": "15.662650602409638",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9545,12 +9545,12 @@
         "EGID": null,
         "price_per_sqm": "14.444444444444445",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -9576,12 +9576,12 @@
         "EGID": 10734800,
         "price_per_sqm": "20.555555555555557",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9613,12 +9613,12 @@
         "EGID": 10761220,
         "price_per_sqm": "14.95",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9650,12 +9650,12 @@
         "EGID": 10750350,
         "price_per_sqm": "21.5",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9687,12 +9687,12 @@
         "EGID": 10701700,
         "price_per_sqm": "12.818181818181818",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9724,12 +9724,12 @@
         "EGID": 1918620820,
         "price_per_sqm": "18.81578947368421",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9761,12 +9761,12 @@
         "EGID": 10725440,
         "price_per_sqm": "21.025641025641026",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9798,12 +9798,12 @@
         "EGID": 23635901,
         "price_per_sqm": "21.470588235294116",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9835,12 +9835,12 @@
         "EGID": 1901927380,
         "price_per_sqm": "20.895522388059703",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9872,12 +9872,12 @@
         "EGID": 10701700,
         "price_per_sqm": "12.818181818181818",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9909,12 +9909,12 @@
         "EGID": 10736630,
         "price_per_sqm": "20.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9946,12 +9946,12 @@
         "EGID": 10730810,
         "price_per_sqm": "14.5",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -9983,12 +9983,12 @@
         "EGID": 10711800,
         "price_per_sqm": "21.466666666666665",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10020,12 +10020,12 @@
         "EGID": 23636860,
         "price_per_sqm": "19.736842105263158",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10057,12 +10057,12 @@
         "EGID": 10702190,
         "price_per_sqm": "16.1",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10094,12 +10094,12 @@
         "EGID": 10702790,
         "price_per_sqm": "15.841584158415841",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10131,12 +10131,12 @@
         "EGID": 10723870,
         "price_per_sqm": "9.642857142857142",
         "cat": "a",
-        "fill": null,
+        "fillColor": "#0028b8",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10168,12 +10168,12 @@
         "EGID": 10715980,
         "price_per_sqm": "18.39080459770115",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10205,12 +10205,12 @@
         "EGID": 10727680,
         "price_per_sqm": "24.09090909090909",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10242,12 +10242,12 @@
         "EGID": 10727680,
         "price_per_sqm": "24.09090909090909",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10279,12 +10279,12 @@
         "EGID": 10759100,
         "price_per_sqm": "15.454545454545455",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10316,12 +10316,12 @@
         "EGID": 10726260,
         "price_per_sqm": "17.375",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10353,12 +10353,12 @@
         "EGID": 10751210,
         "price_per_sqm": "22.5",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10390,12 +10390,12 @@
         "EGID": 10734360,
         "price_per_sqm": "12.636363636363637",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10427,12 +10427,12 @@
         "EGID": 17163510,
         "price_per_sqm": "14.845360824742269",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10464,12 +10464,12 @@
         "EGID": 1904260280,
         "price_per_sqm": "18.658536585365855",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10501,12 +10501,12 @@
         "EGID": null,
         "price_per_sqm": "13.157894736842104",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -10532,12 +10532,12 @@
         "EGID": 10758680,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10569,12 +10569,12 @@
         "EGID": 90035270,
         "price_per_sqm": "17.45",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10606,12 +10606,12 @@
         "EGID": null,
         "price_per_sqm": "16.333333333333332",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -10637,12 +10637,12 @@
         "EGID": 10722450,
         "price_per_sqm": "15.306122448979592",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10674,12 +10674,12 @@
         "EGID": 10759500,
         "price_per_sqm": "15.777777777777779",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10711,12 +10711,12 @@
         "EGID": 10702930,
         "price_per_sqm": "12.173913043478262",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10748,12 +10748,12 @@
         "EGID": 10758750,
         "price_per_sqm": "19.761904761904763",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10785,12 +10785,12 @@
         "EGID": 10734290,
         "price_per_sqm": "15.865384615384615",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10822,12 +10822,12 @@
         "EGID": null,
         "price_per_sqm": "13.524590163934427",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -10853,12 +10853,12 @@
         "EGID": null,
         "price_per_sqm": "17.621951219512194",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -10884,12 +10884,12 @@
         "EGID": 10749990,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10921,12 +10921,12 @@
         "EGID": 10752340,
         "price_per_sqm": "14.418604651162791",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10958,12 +10958,12 @@
         "EGID": 10755360,
         "price_per_sqm": "15.584415584415584",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -10995,12 +10995,12 @@
         "EGID": 1904853920,
         "price_per_sqm": "16.53488372093023",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11032,12 +11032,12 @@
         "EGID": 10749990,
         "price_per_sqm": "15.394736842105264",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11069,12 +11069,12 @@
         "EGID": 10753350,
         "price_per_sqm": "21.076923076923077",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11106,12 +11106,12 @@
         "EGID": 1600001094,
         "price_per_sqm": "16.08108108108108",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11143,12 +11143,12 @@
         "EGID": 10726630,
         "price_per_sqm": "17.22222222222222",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11180,12 +11180,12 @@
         "EGID": 10755290,
         "price_per_sqm": "19.285714285714285",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11217,12 +11217,12 @@
         "EGID": 23633900,
         "price_per_sqm": "16.93548387096774",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11254,12 +11254,12 @@
         "EGID": 23635030,
         "price_per_sqm": "14.155844155844155",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11291,12 +11291,12 @@
         "EGID": null,
         "price_per_sqm": "17.027522935779817",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -11322,12 +11322,12 @@
         "EGID": 10726220,
         "price_per_sqm": "24.264705882352942",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11359,12 +11359,12 @@
         "EGID": 10704470,
         "price_per_sqm": "16.846846846846848",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11396,12 +11396,12 @@
         "EGID": 10704660,
         "price_per_sqm": "16.972727272727273",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11433,12 +11433,12 @@
         "EGID": 23646010,
         "price_per_sqm": "18.3",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11470,12 +11470,12 @@
         "EGID": 10736390,
         "price_per_sqm": "14.018691588785046",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11507,12 +11507,12 @@
         "EGID": null,
         "price_per_sqm": "18.823529411764707",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -11538,12 +11538,12 @@
         "EGID": 10719840,
         "price_per_sqm": "17.05263157894737",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11575,12 +11575,12 @@
         "EGID": 10720900,
         "price_per_sqm": "17.821782178217823",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11612,12 +11612,12 @@
         "EGID": 10762960,
         "price_per_sqm": "18.823529411764707",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11649,12 +11649,12 @@
         "EGID": 10713190,
         "price_per_sqm": "14.23076923076923",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11686,12 +11686,12 @@
         "EGID": 10719840,
         "price_per_sqm": "17.666666666666668",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11723,12 +11723,12 @@
         "EGID": 1907266510,
         "price_per_sqm": "23.246753246753247",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11760,12 +11760,12 @@
         "EGID": 10697850,
         "price_per_sqm": "14.24",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11797,12 +11797,12 @@
         "EGID": 10735380,
         "price_per_sqm": "20.58823529411765",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11834,12 +11834,12 @@
         "EGID": 10704530,
         "price_per_sqm": "14.32",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11871,12 +11871,12 @@
         "EGID": 10747610,
         "price_per_sqm": "14.805194805194805",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11908,12 +11908,12 @@
         "EGID": null,
         "price_per_sqm": "15.283018867924529",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -11939,12 +11939,12 @@
         "EGID": 10749680,
         "price_per_sqm": "18.94736842105263",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -11976,12 +11976,12 @@
         "EGID": 10751640,
         "price_per_sqm": "17.54385964912281",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12013,12 +12013,12 @@
         "EGID": 10751790,
         "price_per_sqm": "14.342105263157896",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12050,12 +12050,12 @@
         "EGID": null,
         "price_per_sqm": "16.621951219512194",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -12081,12 +12081,12 @@
         "EGID": 23633480,
         "price_per_sqm": "21.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12118,12 +12118,12 @@
         "EGID": 10727680,
         "price_per_sqm": "21.95876288659794",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12155,12 +12155,12 @@
         "EGID": null,
         "price_per_sqm": "15.2",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -12186,12 +12186,12 @@
         "EGID": 10721630,
         "price_per_sqm": "19.9",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12223,12 +12223,12 @@
         "EGID": 1918237390,
         "price_per_sqm": "18.229166666666668",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12260,12 +12260,12 @@
         "EGID": 1907644100,
         "price_per_sqm": "21.86046511627907",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12297,12 +12297,12 @@
         "EGID": 10712710,
         "price_per_sqm": "16.96078431372549",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12334,12 +12334,12 @@
         "EGID": 1918237380,
         "price_per_sqm": "18.020833333333332",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12371,12 +12371,12 @@
         "EGID": null,
         "price_per_sqm": "12.137931034482758",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -12402,12 +12402,12 @@
         "EGID": 10724850,
         "price_per_sqm": "15.217391304347826",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12439,12 +12439,12 @@
         "EGID": 1913235900,
         "price_per_sqm": "19.384615384615383",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12476,12 +12476,12 @@
         "EGID": 1918237360,
         "price_per_sqm": "18.172043010752688",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12513,12 +12513,12 @@
         "EGID": 10698170,
         "price_per_sqm": "17.97979797979798",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12550,12 +12550,12 @@
         "EGID": 10702190,
         "price_per_sqm": "19.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12587,12 +12587,12 @@
         "EGID": 4000005130,
         "price_per_sqm": "18.9",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12624,12 +12624,12 @@
         "EGID": 10726155,
         "price_per_sqm": "20.77777777777778",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12661,12 +12661,12 @@
         "EGID": 10699230,
         "price_per_sqm": "15.84",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12698,12 +12698,12 @@
         "EGID": 23636560,
         "price_per_sqm": "22.4",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12735,12 +12735,12 @@
         "EGID": 10766520,
         "price_per_sqm": "18.31081081081081",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12772,12 +12772,12 @@
         "EGID": 10725530,
         "price_per_sqm": "18.571428571428573",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12809,12 +12809,12 @@
         "EGID": 1600075850,
         "price_per_sqm": "16.258503401360546",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12846,12 +12846,12 @@
         "EGID": 10734630,
         "price_per_sqm": "21.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12883,12 +12883,12 @@
         "EGID": 10734630,
         "price_per_sqm": "21.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12920,12 +12920,12 @@
         "EGID": 1600134630,
         "price_per_sqm": "18.103448275862068",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12957,12 +12957,12 @@
         "EGID": 1907266530,
         "price_per_sqm": "28.352941176470587",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -12994,12 +12994,12 @@
         "EGID": 10711700,
         "price_per_sqm": "18.23076923076923",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13031,12 +13031,12 @@
         "EGID": 10699250,
         "price_per_sqm": "19.024390243902438",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13068,12 +13068,12 @@
         "EGID": 1916457320,
         "price_per_sqm": "17.142857142857142",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13105,12 +13105,12 @@
         "EGID": 10727870,
         "price_per_sqm": "27.857142857142858",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13142,12 +13142,12 @@
         "EGID": 10727870,
         "price_per_sqm": "27.142857142857142",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13179,12 +13179,12 @@
         "EGID": 10721430,
         "price_per_sqm": "14.142857142857142",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13216,12 +13216,12 @@
         "EGID": null,
         "price_per_sqm": "17.38053097345133",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -13247,12 +13247,12 @@
         "EGID": 1904260290,
         "price_per_sqm": "11.5527950310559",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13284,12 +13284,12 @@
         "EGID": 10699250,
         "price_per_sqm": "17.804878048780488",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13321,12 +13321,12 @@
         "EGID": 1903574880,
         "price_per_sqm": "17.532467532467532",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13358,12 +13358,12 @@
         "EGID": 23642010,
         "price_per_sqm": "18.424657534246574",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13395,12 +13395,12 @@
         "EGID": 1600062525,
         "price_per_sqm": "17.75",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13432,12 +13432,12 @@
         "EGID": 10770960,
         "price_per_sqm": "13.75",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13469,12 +13469,12 @@
         "EGID": 1905267700,
         "price_per_sqm": "19.43661971830986",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13506,12 +13506,12 @@
         "EGID": 10703330,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13543,12 +13543,12 @@
         "EGID": 1916714740,
         "price_per_sqm": "18.767123287671232",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13580,12 +13580,12 @@
         "EGID": 10760280,
         "price_per_sqm": "17.972972972972972",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13617,12 +13617,12 @@
         "EGID": 10758810,
         "price_per_sqm": "16.438356164383563",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13654,12 +13654,12 @@
         "EGID": null,
         "price_per_sqm": "15.214285714285714",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -13685,12 +13685,12 @@
         "EGID": 10721620,
         "price_per_sqm": "17.8",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13722,12 +13722,12 @@
         "EGID": 10734350,
         "price_per_sqm": "8.181818181818182",
         "cat": "a",
-        "fill": null,
+        "fillColor": "#0028b8",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13759,12 +13759,12 @@
         "EGID": 10726650,
         "price_per_sqm": "27.6",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13796,12 +13796,12 @@
         "EGID": null,
         "price_per_sqm": "13.785714285714286",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -13827,12 +13827,12 @@
         "EGID": 10696620,
         "price_per_sqm": "17.125",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13864,12 +13864,12 @@
         "EGID": null,
         "price_per_sqm": "30.0",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -13895,7 +13895,7 @@
         "EGID": null,
         "price_per_sqm": "90.0",
         "cat": null,
-        "fill": null,
+        "fillColor": null,
         "fillOpacity": null,
         "color": null,
         "weight": null,
@@ -13926,12 +13926,12 @@
         "EGID": 23637320,
         "price_per_sqm": "22.307692307692307",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -13963,12 +13963,12 @@
         "EGID": null,
         "price_per_sqm": "17.529411764705884",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -13994,12 +13994,12 @@
         "EGID": 10760560,
         "price_per_sqm": "17.5",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14031,12 +14031,12 @@
         "EGID": 10703330,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14068,12 +14068,12 @@
         "EGID": 23637250,
         "price_per_sqm": "20.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14105,12 +14105,12 @@
         "EGID": 10695560,
         "price_per_sqm": "21.311475409836067",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14142,12 +14142,12 @@
         "EGID": 1600103770,
         "price_per_sqm": "18.714285714285715",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14179,12 +14179,12 @@
         "EGID": 10715810,
         "price_per_sqm": "16.352941176470587",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14216,12 +14216,12 @@
         "EGID": 10695620,
         "price_per_sqm": "25.660377358490567",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14253,12 +14253,12 @@
         "EGID": 10752100,
         "price_per_sqm": "16.923076923076923",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14290,12 +14290,12 @@
         "EGID": 10695560,
         "price_per_sqm": "24.791666666666668",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14327,12 +14327,12 @@
         "EGID": 23631760,
         "price_per_sqm": "17.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14364,12 +14364,12 @@
         "EGID": 23631760,
         "price_per_sqm": "17.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14401,12 +14401,12 @@
         "EGID": 10751360,
         "price_per_sqm": "15.220588235294118",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14438,12 +14438,12 @@
         "EGID": 10754810,
         "price_per_sqm": "18.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14475,12 +14475,12 @@
         "EGID": 10749990,
         "price_per_sqm": "14.705882352941176",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14512,12 +14512,12 @@
         "EGID": 10749800,
         "price_per_sqm": "19.25",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14549,12 +14549,12 @@
         "EGID": 10751360,
         "price_per_sqm": "13.333333333333334",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14586,12 +14586,12 @@
         "EGID": 10753040,
         "price_per_sqm": "16.666666666666668",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14623,12 +14623,12 @@
         "EGID": 10748620,
         "price_per_sqm": "12.285714285714286",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14660,12 +14660,12 @@
         "EGID": 17163520,
         "price_per_sqm": "20.625",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14697,12 +14697,12 @@
         "EGID": 10749370,
         "price_per_sqm": "21.1",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14734,12 +14734,12 @@
         "EGID": 1918620820,
         "price_per_sqm": "26.666666666666668",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14771,12 +14771,12 @@
         "EGID": 10762030,
         "price_per_sqm": "29.0",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14808,12 +14808,12 @@
         "EGID": null,
         "price_per_sqm": "33.91304347826087",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -14839,12 +14839,12 @@
         "EGID": 10703230,
         "price_per_sqm": "16.666666666666668",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14876,12 +14876,12 @@
         "EGID": 10705660,
         "price_per_sqm": "14.64406779661017",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14913,12 +14913,12 @@
         "EGID": 10703780,
         "price_per_sqm": "25.166666666666668",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -14950,12 +14950,12 @@
         "EGID": null,
         "price_per_sqm": "30.0",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -14981,12 +14981,12 @@
         "EGID": 10761980,
         "price_per_sqm": "21.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15018,12 +15018,12 @@
         "EGID": 10701840,
         "price_per_sqm": "24.333333333333332",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15055,12 +15055,12 @@
         "EGID": 10734790,
         "price_per_sqm": "20.735294117647058",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15092,12 +15092,12 @@
         "EGID": 10716340,
         "price_per_sqm": "20.285714285714285",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15129,12 +15129,12 @@
         "EGID": 10762270,
         "price_per_sqm": "16.046511627906977",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15166,12 +15166,12 @@
         "EGID": null,
         "price_per_sqm": "21.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -15197,12 +15197,12 @@
         "EGID": 10767600,
         "price_per_sqm": "19.791208791208792",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15234,12 +15234,12 @@
         "EGID": 10695700,
         "price_per_sqm": "12.75",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15271,12 +15271,12 @@
         "EGID": 10767630,
         "price_per_sqm": "18.516483516483518",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15308,12 +15308,12 @@
         "EGID": 10766530,
         "price_per_sqm": "18.10126582278481",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15345,12 +15345,12 @@
         "EGID": 1915697530,
         "price_per_sqm": "16.931818181818183",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15382,12 +15382,12 @@
         "EGID": 10695620,
         "price_per_sqm": "23.431372549019606",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15419,12 +15419,12 @@
         "EGID": 10696620,
         "price_per_sqm": "21.4",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15456,12 +15456,12 @@
         "EGID": 10695560,
         "price_per_sqm": "28.68421052631579",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15493,12 +15493,12 @@
         "EGID": null,
         "price_per_sqm": "15.23076923076923",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -15524,12 +15524,12 @@
         "EGID": null,
         "price_per_sqm": "15.846153846153847",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -15555,12 +15555,12 @@
         "EGID": 10691740,
         "price_per_sqm": "20.638297872340427",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15592,12 +15592,12 @@
         "EGID": 10695620,
         "price_per_sqm": "28.81578947368421",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15629,12 +15629,12 @@
         "EGID": null,
         "price_per_sqm": "17.09090909090909",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -15660,12 +15660,12 @@
         "EGID": 10694490,
         "price_per_sqm": "18.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15697,12 +15697,12 @@
         "EGID": 10695620,
         "price_per_sqm": "30.689655172413794",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15734,12 +15734,12 @@
         "EGID": null,
         "price_per_sqm": "15.75",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -15765,12 +15765,12 @@
         "EGID": 1916990340,
         "price_per_sqm": "8.726415094339623",
         "cat": "a",
-        "fill": null,
+        "fillColor": "#0028b8",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15802,12 +15802,12 @@
         "EGID": 1902559290,
         "price_per_sqm": "19.404761904761905",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15839,12 +15839,12 @@
         "EGID": 1902559080,
         "price_per_sqm": "17.282608695652176",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15876,12 +15876,12 @@
         "EGID": 1902092590,
         "price_per_sqm": "17.25",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15913,12 +15913,12 @@
         "EGID": 1912890110,
         "price_per_sqm": "23.59375",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15950,12 +15950,12 @@
         "EGID": 10688130,
         "price_per_sqm": "15.0625",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -15987,12 +15987,12 @@
         "EGID": null,
         "price_per_sqm": "16.060606060606062",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16018,12 +16018,12 @@
         "EGID": 10750300,
         "price_per_sqm": "10.666666666666666",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16055,12 +16055,12 @@
         "EGID": 10750150,
         "price_per_sqm": "26.166666666666668",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16092,12 +16092,12 @@
         "EGID": 10755380,
         "price_per_sqm": "31.666666666666668",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16129,12 +16129,12 @@
         "EGID": 10751660,
         "price_per_sqm": "16.857142857142858",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16166,12 +16166,12 @@
         "EGID": 10755540,
         "price_per_sqm": "16.666666666666668",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16203,12 +16203,12 @@
         "EGID": 10755280,
         "price_per_sqm": "31.708333333333332",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16240,12 +16240,12 @@
         "EGID": 1915218710,
         "price_per_sqm": "23.88888888888889",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16277,12 +16277,12 @@
         "EGID": 4984560,
         "price_per_sqm": "17.123287671232877",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16314,12 +16314,12 @@
         "EGID": 4984560,
         "price_per_sqm": "17.532467532467532",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16351,12 +16351,12 @@
         "EGID": null,
         "price_per_sqm": "17.636363636363637",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16382,12 +16382,12 @@
         "EGID": null,
         "price_per_sqm": "9.818181818181818",
         "cat": "a",
-        "fill": null,
+        "fillColor": "#0028b8",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16413,12 +16413,12 @@
         "EGID": null,
         "price_per_sqm": "8.411214953271028",
         "cat": "a",
-        "fill": null,
+        "fillColor": "#0028b8",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16444,12 +16444,12 @@
         "EGID": null,
         "price_per_sqm": "15.0",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16475,12 +16475,12 @@
         "EGID": 10715370,
         "price_per_sqm": "19.23076923076923",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16512,12 +16512,12 @@
         "EGID": 1914286710,
         "price_per_sqm": "22.533333333333335",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16549,12 +16549,12 @@
         "EGID": null,
         "price_per_sqm": "19.571428571428573",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16580,12 +16580,12 @@
         "EGID": null,
         "price_per_sqm": "21.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16611,12 +16611,12 @@
         "EGID": null,
         "price_per_sqm": "23.917525773195877",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16642,12 +16642,12 @@
         "EGID": null,
         "price_per_sqm": "15.56701030927835",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16673,12 +16673,12 @@
         "EGID": 1901280130,
         "price_per_sqm": "14.63768115942029",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16710,12 +16710,12 @@
         "EGID": null,
         "price_per_sqm": "26.8",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16741,12 +16741,12 @@
         "EGID": null,
         "price_per_sqm": "24.333333333333332",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16772,12 +16772,12 @@
         "EGID": null,
         "price_per_sqm": "25.454545454545453",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16803,12 +16803,12 @@
         "EGID": null,
         "price_per_sqm": "21.846153846153847",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16834,12 +16834,12 @@
         "EGID": 10719230,
         "price_per_sqm": "18.75",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16871,12 +16871,12 @@
         "EGID": 10740060,
         "price_per_sqm": "17.8",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16908,12 +16908,12 @@
         "EGID": null,
         "price_per_sqm": "15.873015873015873",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": ""
     },
@@ -16939,12 +16939,12 @@
         "EGID": 10764040,
         "price_per_sqm": "20.2",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -16976,12 +16976,12 @@
         "EGID": 10744370,
         "price_per_sqm": "20.0",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17013,12 +17013,12 @@
         "EGID": 10743630,
         "price_per_sqm": "18.11965811965812",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17050,12 +17050,12 @@
         "EGID": 10742970,
         "price_per_sqm": "13.65079365079365",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17087,12 +17087,12 @@
         "EGID": 10746360,
         "price_per_sqm": "19.759036144578314",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17124,12 +17124,12 @@
         "EGID": 10746330,
         "price_per_sqm": "14.15929203539823",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17161,12 +17161,12 @@
         "EGID": 10732570,
         "price_per_sqm": "16.095238095238095",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17198,12 +17198,12 @@
         "EGID": 10743180,
         "price_per_sqm": "14.947368421052632",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17235,12 +17235,12 @@
         "EGID": 10744370,
         "price_per_sqm": "16.923076923076923",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17272,12 +17272,12 @@
         "EGID": 10746340,
         "price_per_sqm": "17.032967032967033",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17309,12 +17309,12 @@
         "EGID": 10744370,
         "price_per_sqm": "27.5",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17346,12 +17346,12 @@
         "EGID": 10698170,
         "price_per_sqm": "27.5",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17383,12 +17383,12 @@
         "EGID": 10762260,
         "price_per_sqm": "20.3125",
         "cat": "d",
-        "fill": null,
+        "fillColor": "#bfa98f",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17420,12 +17420,12 @@
         "EGID": 10744580,
         "price_per_sqm": "8.409090909090908",
         "cat": "a",
-        "fill": null,
+        "fillColor": "#0028b8",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17457,12 +17457,12 @@
         "EGID": 10743150,
         "price_per_sqm": "16.79245283018868",
         "cat": "c",
-        "fill": null,
+        "fillColor": "#8a93b2",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17494,12 +17494,12 @@
         "EGID": 10726650,
         "price_per_sqm": "27.6",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17531,12 +17531,12 @@
         "EGID": 10698430,
         "price_per_sqm": "10.76923076923077",
         "cat": "b",
-        "fill": null,
+        "fillColor": "#455db5",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17568,12 +17568,12 @@
         "EGID": 10758601,
         "price_per_sqm": "22.26027397260274",
         "cat": "e",
-        "fill": null,
+        "fillColor": "#df9848",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
@@ -17605,12 +17605,12 @@
         "EGID": 10736630,
         "price_per_sqm": "26.951219512195124",
         "cat": "f",
-        "fill": null,
+        "fillColor": "#ff8800",
         "fillOpacity": "0.8",
         "color": "#ffffff",
         "weight": "1.5",
         "opacity": "0.9",
-        "radius": 65
+        "radius": 45
       },
       "geometry": {
         "type": "Point",
