@@ -4,6 +4,9 @@
     outline-map:
       bfsNumber: 3203
       topic: Perimeter
+    00-bach-areal:
+      bfsNumber: 3203
+      topic: Perimeter
     01-rent-prices:
       bfsNumber: 3203
       topic: Rent
