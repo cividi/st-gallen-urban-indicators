@@ -21,11 +21,11 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: scrape data
-        with:
+        run: cd src && scrapy crawl homegate_flats
+        env:
           POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
           POSTGRES_HOST: ${{ secrets.POSTGRES_HOST }}
           POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
           POSTGRES_PASS: ${{ secrets.POSTGRES_PASS }}
           POSTGRES_PORT: ${{ secrets.POSTGRES_PORT }}
           POSTGRES_SCHEMA: ${{ secrets.POSTGRES_SCHEMA }}
-        run: cd src && scrapy crawl homegate_flats
