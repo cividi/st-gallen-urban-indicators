@@ -1,2 +1,4 @@
 scrapy
 frictionless[json,s3,sql]
+sqlalchemy
+psycopg2
