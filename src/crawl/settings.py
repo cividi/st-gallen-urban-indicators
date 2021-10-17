@@ -7,6 +7,9 @@ ROBOTSTXT_OBEY = True
 ITEM_PIPELINES = {
     "crawl.pipelines.HomegatePipeline": 300
 }
+DOWNLOADER_MIDDLEWARES = {
+    'crawl.middlewares.CrawlDownloaderMiddleware': 543,
+}
 DATABASE = {
     "drivername": "postgresql",
     "host": os.environ["POSTGRES_HOST"],
@@ -17,5 +20,6 @@ DATABASE = {
 }
 DATABASE_PG_SCHEMA = os.environ["POSTGRES_SCHEMA"]
 LOG_LEVEL = "INFO"
-DOWNLOAD_DELAY = 1
+DOWNLOAD_DELAY = 1.5
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15"
+WORKER_MAX_TASKS_PER_CHILD=1

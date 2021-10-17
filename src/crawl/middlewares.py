@@ -1,4 +1,8 @@
 from scrapy import signals
+from scrapy.exceptions import IgnoreRequest
+from sqlalchemy.orm.session import sessionmaker
+
+from crawl.models import Items, create_items_table, db_connect
 
 
 class CrawlSpiderMiddleware:
@@ -53,6 +57,11 @@ class CrawlDownloaderMiddleware:
     # scrapy acts as if the downloader middleware does not modify the
     # passed objects.
 
+    def __init__(self):
+        engine = db_connect()
+        create_items_table(engine)
+        self.Session = sessionmaker(bind=engine)
+
     @classmethod
     def from_crawler(cls, crawler):
         # This method is used by Scrapy to create your spiders.
@@ -70,6 +79,23 @@ class CrawlDownloaderMiddleware:
         # - or return a Request object
         # - or raise IgnoreRequest: process_exception() methods of
         #   installed downloader middleware will be called
+
+        if request.url.find("rent/") != -1 and request.url.find("matching-list") == -1:
+            flat_id = int(request.url[request.url.find("rent/")+5:])
+            session = self.Session()
+
+            item_exists = None
+
+            try:
+                item_exists = session.query(Items).filter_by(id = flat_id).one_or_none()
+            except:
+                pass
+            finally:
+                session.close()
+            
+            if item_exists:
+                raise IgnoreRequest()
+
         return None
 
     def process_response(self, request, response, spider):
