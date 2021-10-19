@@ -38,3 +38,16 @@ class Items(DeclarativeBase):
     lng = Column("lng", Float)
     wkt = Column("wkt", String)
     egid = Column("egid", Integer)
+
+class Addresses(DeclarativeBase):
+    __tablename__ = "addresses"
+    __table_args__ = { "schema": settings.DATABASE_PG_SCHEMA }
+
+    egid = Column("BDG_EGID", BigInteger, primary_key=True)
+    streetname = Column("STN_LABEL", String)
+    housenumber = Column("ADR_NUMBER", String)
+    zipcode = Column("ZIP_LABEL", String)
+    easting = Column("ADR_EASTING", Integer)
+    northing = Column("ADR_NORTHING", Integer)
+    address_string = Column("ADR_STRING", String)
+    geom = Column("_geom", String)
