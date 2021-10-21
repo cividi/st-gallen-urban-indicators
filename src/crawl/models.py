@@ -2,7 +2,7 @@ from sqlalchemy import Column, Integer, String, create_engine
 from sqlalchemy.engine.base import Engine
 from sqlalchemy.engine.url import URL
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.sql.sqltypes import BigInteger, DateTime, Float
+from sqlalchemy.sql.sqltypes import BigInteger, DateTime, Float, Date
 
 from crawl import settings
 
@@ -51,3 +51,34 @@ class Addresses(DeclarativeBase):
     northing = Column("ADR_NORTHING", Integer)
     address_string = Column("ADR_STRING", String)
     geom = Column("_geom", String)
+
+class GWR_WHG(DeclarativeBase):
+    __tablename__ = "gwr_whg"
+    __table_args__ = { "schema": settings.DATABASE_PG_SCHEMA }
+
+    egid = Column("EGID", Integer, primary_key=True)
+    edid = Column("EDID", Integer)
+    egaid = Column("EGAID", Integer)
+    ewid = Column("EWID", Integer)
+    whgnr = Column("WHGNR", String)
+    weinr = Column("WEINR", String)
+    wbauj = Column("WBAUJ", Integer)
+    wabbj = Column("WABBJ", String)
+    wazim = Column("WAZIM", Integer)
+    wstwk = Column("WSTWK", Integer)
+    wmehrg = Column("WMEHRG", Integer)
+    wbez = Column("WBEZ", String)
+    wgbanmerkung = Column("WGBANMERKUNG", String)
+    wkche = Column("WKCHE", Integer)
+    warea = Column("WAREA", Integer)
+    wstat = Column("WSTAT", Integer)
+    wnart = Column("WNART", String)
+    wnartsce = Column("WNARTSCE", String)
+    wnartdat = Column("WNARTDAT", Date)
+    wnartkom = Column("WNARTKOM", String)
+    wpershw = Column("WPERSHW", String)
+    wpersnw = Column("WPERSNW", String)
+    werstbelegdat = Column("WERSTBELEGDAT", Date)
+    wletztbelegdat = Column("WLETZTBELEGDAT", Date)
+    create = Column("Create_Date", Date)
+    modified = Column("Update_Date", Date)

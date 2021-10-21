@@ -1,0 +1,100 @@
+{
+    "name": "01-rent-heatmap",
+    "version": "1.0.0",
+    "format": "geojson",
+    "licenses": [{
+        "url": "https://opendefinition.org/licenses/odc-by",
+        "type": "ODC-BY-1.0",
+        "title": "Open Data Commons Attribution License"
+    }],
+    "keywords": [""],
+    "views": [{
+        "name": "mapview",
+        "specType": "gemeindescanSnapshot",
+        "spec": {
+            "title": "Inserate Mietmarkt",
+            "description": "Anzahl Inserate auf homegate.ch für Apartments in der Stadt St. Gallen seit dem 12. Oktober 2021.",
+            "attribution": "homegate.ch",
+            "bounds": [
+                "geo:47.41525506820663,9.352516279706524",
+                "geo:47.43317355684985,9.396247605270359"
+              ],
+            "legend": [
+                {
+                    "label": "Einzelne Inserate",
+                    "size": 1,
+                    "shape": "circle",
+                    "primary": true,
+                    "fillColor": "#4169e1",
+                    "fillOpacity": 0.55,
+                    "strokeColor": "#ffffff",
+                    "strokeWidth": 0,
+                    "strokeOpacity": 0
+                },
+                {
+                    "label": "",
+                    "size": 1,
+                    "shape": "circle",
+                    "primary": true,
+                    "fillColor": "#4169e1",
+                    "fillOpacity": 0.55,
+                    "strokeColor": "#00ffff",
+                    "strokeWidth": 0,
+                    "strokeOpacity": 0
+                },
+                {
+                    "label": "",
+                    "size": 1,
+                    "shape": "circle",
+                    "primary": true,
+                    "fillColor": "#00ff00",
+                    "fillOpacity": 0.55,
+                    "strokeColor": "#ffffff",
+                    "strokeWidth": 0,
+                    "strokeOpacity": 0
+                },
+                {
+                    "label": "",
+                    "size": 1,
+                    "shape": "circle",
+                    "primary": true,
+                    "fillColor": "#ffff00",
+                    "fillOpacity": 0.55,
+                    "strokeColor": "#ffffff",
+                    "strokeWidth": 0,
+                    "strokeOpacity": 0
+                },
+                {
+                    "label": "Viele Inserate",
+                    "size": 1,
+                    "shape": "circle",
+                    "primary": true,
+                    "fillColor": "#ff0000",
+                    "fillOpacity": 0.55,
+                    "strokeColor": "#ffffff",
+                    "strokeWidth": 0,
+                    "strokeOpacity": 0
+                }
+            ]
+        },
+        "resources": ["mapbox-background"]
+    }],
+    "sources": [
+        {
+            "url": "https://homegate.ch",
+            "title": "Homegate"
+        },
+        {
+            "url": "https://www.openstreetmap.org/copyright",
+            "title": "Karte: Mapbox, © OpenStreetMap"
+        }
+    ],
+    "resources": [
+    {
+        "name": "mapbox-background",
+        "mediatype": "application/vnd.mapbox-vector-tile",
+        "licenses": [],
+        "path": "mapbox://styles/gemeindescan/ckv149z5z2f2u14mtc1tdulhw"
+    }],
+    "contributors": []
+}
