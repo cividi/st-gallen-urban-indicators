@@ -1798,6 +1798,52 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001437299,
+        "object_ref": "8904.32.0401",
+        "category": "rent",
+        "date": "2021-10-21T20:35:30",
+        "flatType": null,
+        "floor": "5",
+        "rent": 1690,
+        "rent_add": 280,
+        "rent_net": 1410,
+        "rooms": null,
+        "area": 109,
+        "year_built": 1995,
+        "street_number": "Brauerstrasse 79a",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.4423408508301",
+        "lng": "9.40994739532471",
+        "egid": 23630570,
+        "gwr_wazim": 5,
+        "gwr_warea": 109,
+        "gwr_wstwk": 3105,
+        "gwr_warea_delta": "0.0",
+        "price_per_sqm": "15.504587155963304",
+        "price_per_room": "338.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Anzahl Zimmer: 5<br>Fl\u00e4che: 109 qm<br>Stockwerk: 5<br>Miete: 1690 CHF/Monat<br>Miete/qm: 15.50 CHF/Monat<br>Miete/Zimmer: 338.00 CHF/Monat<br>Nebenkosten: 280 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.409947395324707,
+          47.44234085083008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001430350,
         "object_ref": "TG2303.TG2303.TG2303",
         "category": "rent",

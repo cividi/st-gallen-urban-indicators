@@ -90,7 +90,7 @@ enriched = transform(
 
 ### 3. Classify and Style data
 
-res = Resource("src/data/price-monitoring.csv")
+res = Resource("data/price-monitoring.csv")
 
 categories_flat = [
     { "from": 1, "to": 3, "cat": "S"},
@@ -132,7 +132,7 @@ def color_mapping(value, mapping, key):
 
 
 styled = transform(
-    "src/data/price-monitoring.csv",
+    "data/price-monitoring.csv",
     steps=[
         steps.row_filter(formula="area is not ''"),
         steps.row_filter(formula="gwr_warea is not ''"),

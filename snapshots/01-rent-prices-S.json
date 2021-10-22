@@ -4839,6 +4839,144 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001439654,
+              "object_ref": "10254.1.1006.3",
+              "category": "rent",
+              "date": "2021-10-21T20:35:20",
+              "flatType": null,
+              "floor": "2",
+              "rent": 890,
+              "rent_add": 120,
+              "rent_net": 770,
+              "rooms": null,
+              "area": 60,
+              "year_built": null,
+              "street_number": "Brauerstrasse 5",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4337387084961",
+              "lng": "9.39980602264404",
+              "egid": 10762270,
+              "gwr_wazim": 2,
+              "gwr_warea": 40,
+              "gwr_wstwk": 3102,
+              "gwr_warea_delta": "0.5",
+              "price_per_sqm": "14.833333333333334",
+              "price_per_room": "445.0",
+              "flat_cat": "S",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 2<br>Miete: 890 CHF/Monat<br>Miete/qm: 14.83 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.399806022644043,
+                47.433738708496094
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001439759,
+              "object_ref": "2091-2011.903169.7e16adaf-326b-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2021-10-21T20:35:40",
+              "flatType": null,
+              "floor": "1",
+              "rent": 980,
+              "rent_add": 150,
+              "rent_net": 830,
+              "rooms": null,
+              "area": 48,
+              "year_built": null,
+              "street_number": "Feldlistrasse 19",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4223251342773",
+              "lng": "9.35517120361328",
+              "egid": 10706270,
+              "gwr_wazim": 2,
+              "gwr_warea": 47,
+              "gwr_wstwk": 3101,
+              "gwr_warea_delta": "0.0212765957446808",
+              "price_per_sqm": "20.416666666666668",
+              "price_per_room": "490.0",
+              "flat_cat": "S",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 47 qm<br>Stockwerk: 1<br>Miete: 980 CHF/Monat<br>Miete/qm: 20.42 CHF/Monat<br>Miete/Zimmer: 490.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.355171203613281,
+                47.422325134277344
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001434755,
+              "object_ref": "5640.01.0001",
+              "category": "rent",
+              "date": "2021-10-21T20:36:02",
+              "flatType": null,
+              "floor": "GF",
+              "rent": 1370,
+              "rent_add": 240,
+              "rent_net": 1130,
+              "rooms": null,
+              "area": 71,
+              "year_built": 1928,
+              "street_number": "Ackerstrasse 1",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4280204772949",
+              "lng": "9.38988304138184",
+              "egid": 10737140,
+              "gwr_wazim": 2,
+              "gwr_warea": 71,
+              "gwr_wstwk": 3100,
+              "gwr_warea_delta": "0.0",
+              "price_per_sqm": "19.295774647887324",
+              "price_per_room": "685.0",
+              "flat_cat": "S",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 71 qm<br>Stockwerk: 0<br>Miete: 1370 CHF/Monat<br>Miete/qm: 19.30 CHF/Monat<br>Miete/Zimmer: 685.00 CHF/Monat<br>Nebenkosten: 240 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.389883041381836,
+                47.42802047729492
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001434318,
               "object_ref": "6519.01.0403",
               "category": "rent",
@@ -5063,6 +5201,52 @@
               "coordinates": [
                 9.359917640686035,
                 47.42229080200195
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001440543,
+              "object_ref": "6102.01.0004",
+              "category": "rent",
+              "date": "2021-10-22T00:44:38",
+              "flatType": null,
+              "floor": "GF",
+              "rent": 750,
+              "rent_add": 80,
+              "rent_net": 670,
+              "rooms": null,
+              "area": 27,
+              "year_built": 1920,
+              "street_number": "Burgstrasse 80",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4170188903809",
+              "lng": "9.35645389556885",
+              "egid": 10701840,
+              "gwr_wazim": 2,
+              "gwr_warea": 32,
+              "gwr_wstwk": 3100,
+              "gwr_warea_delta": "0.15625",
+              "price_per_sqm": "27.77777777777778",
+              "price_per_room": "375.0",
+              "flat_cat": "S",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 32 qm<br>Stockwerk: 0<br>Miete: 750 CHF/Monat<br>Miete/qm: 27.78 CHF/Monat<br>Miete/Zimmer: 375.00 CHF/Monat<br>Nebenkosten: 80 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.356453895568848,
+                47.41701889038086
               ]
             }
           },
