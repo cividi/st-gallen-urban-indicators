@@ -23,6 +23,10 @@ In broad strokes the collection and analysis of rent prices follows the followin
 
 Python frameworks and libraries used: [scrapy](https://docs.scrapy.org/en/latest/index.html), [frictionless-py](https://framework.frictionlessdata.io), [sqlalchemy](https://docs.sqlalchemy.org/en/14/)
 
+### Data
+
+The data can be found in [`data/price-monitoring.csv`](data/price-monitoring.csv).
+
 ### Developer
 
 Basic setup

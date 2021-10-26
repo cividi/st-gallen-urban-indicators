@@ -25,7 +25,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 43,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0930232558139534",
+        "match_accuracy": "0.0930232558139534",
         "price_per_sqm": "25.106382978723403",
         "price_per_room": "590.0",
         "flat_cat": "S",
@@ -37,7 +37,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 43 qm<br>Stockwerk: 0<br>Miete: 1180 CHF/Monat<br>Miete/qm: 25.11 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+        "description": "Miete: 1180 CHF/Monat<br>Miete/qm: 25.11 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 40,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.5",
+        "match_accuracy": "0.5",
         "price_per_sqm": "13.166666666666666",
         "price_per_room": "395.0",
         "flat_cat": "S",
@@ -83,7 +83,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 1<br>Miete: 790 CHF/Monat<br>Miete/qm: 13.17 CHF/Monat<br>Miete/Zimmer: 395.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 790 CHF/Monat<br>Miete/qm: 13.17 CHF/Monat<br>Miete/Zimmer: 395.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "20.22222222222222",
         "price_per_room": "455.0",
         "flat_cat": "S",
@@ -129,7 +129,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 1<br>Miete: 910 CHF/Monat<br>Miete/qm: 20.22 CHF/Monat<br>Miete/Zimmer: 455.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 910 CHF/Monat<br>Miete/qm: 20.22 CHF/Monat<br>Miete/Zimmer: 455.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -163,7 +163,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 48,
         "gwr_wstwk": 3107,
-        "gwr_warea_delta": "0.0416666666666667",
+        "match_accuracy": "0.0416666666666667",
         "price_per_sqm": "21.4",
         "price_per_room": "535.0",
         "flat_cat": "S",
@@ -175,7 +175,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 48 qm<br>Stockwerk: 7<br>Miete: 1070 CHF/Monat<br>Miete/qm: 21.40 CHF/Monat<br>Miete/Zimmer: 535.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1070 CHF/Monat<br>Miete/qm: 21.40 CHF/Monat<br>Miete/Zimmer: 535.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -209,7 +209,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 30,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.2",
+        "match_accuracy": "0.2",
         "price_per_sqm": "31.666666666666668",
         "price_per_room": "760.0",
         "flat_cat": "S",
@@ -221,7 +221,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 30 qm<br>Stockwerk: 2<br>Miete: 760 CHF/Monat<br>Miete/qm: 31.67 CHF/Monat<br>Miete/Zimmer: 760.00 CHF/Monat<br>Nebenkosten: 60 CHF/Monat"
+        "description": "Miete: 760 CHF/Monat<br>Miete/qm: 31.67 CHF/Monat<br>Miete/Zimmer: 760.00 CHF/Monat<br>Nebenkosten: 60 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -255,7 +255,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 60,
         "gwr_wstwk": 3105,
-        "gwr_warea_delta": "0.0833333333333334",
+        "match_accuracy": "0.0833333333333334",
         "price_per_sqm": "21.454545454545453",
         "price_per_room": "590.0",
         "flat_cat": "S",
@@ -267,7 +267,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 60 qm<br>Stockwerk: 5<br>Miete: 1180 CHF/Monat<br>Miete/qm: 21.45 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1180 CHF/Monat<br>Miete/qm: 21.45 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -301,7 +301,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 77,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "14.805194805194805",
         "price_per_room": "570.0",
         "flat_cat": "S",
@@ -313,7 +313,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 77 qm<br>Stockwerk: 2<br>Miete: 1140 CHF/Monat<br>Miete/qm: 14.81 CHF/Monat<br>Miete/Zimmer: 570.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1140 CHF/Monat<br>Miete/qm: 14.81 CHF/Monat<br>Miete/Zimmer: 570.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -347,7 +347,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 40,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.3",
+        "match_accuracy": "0.3",
         "price_per_sqm": "20.384615384615383",
         "price_per_room": "530.0",
         "flat_cat": "S",
@@ -359,7 +359,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 3<br>Miete: 1060 CHF/Monat<br>Miete/qm: 20.38 CHF/Monat<br>Miete/Zimmer: 530.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1060 CHF/Monat<br>Miete/qm: 20.38 CHF/Monat<br>Miete/Zimmer: 530.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -393,7 +393,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 60,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "12.666666666666666",
         "price_per_room": "380.0",
         "flat_cat": "S",
@@ -405,7 +405,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 60 qm<br>Stockwerk: 3<br>Miete: 760 CHF/Monat<br>Miete/qm: 12.67 CHF/Monat<br>Miete/Zimmer: 380.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 760 CHF/Monat<br>Miete/qm: 12.67 CHF/Monat<br>Miete/Zimmer: 380.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +439,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 50,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "17.8",
         "price_per_room": "445.0",
         "flat_cat": "S",
@@ -451,7 +451,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 50 qm<br>Stockwerk: 2<br>Miete: 890 CHF/Monat<br>Miete/qm: 17.80 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 890 CHF/Monat<br>Miete/qm: 17.80 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -485,7 +485,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 60,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0333333333333333",
+        "match_accuracy": "0.0333333333333333",
         "price_per_sqm": "13.362068965517242",
         "price_per_room": "387.5",
         "flat_cat": "S",
@@ -497,7 +497,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 60 qm<br>Stockwerk: 0<br>Miete: 775 CHF/Monat<br>Miete/qm: 13.36 CHF/Monat<br>Miete/Zimmer: 387.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 775 CHF/Monat<br>Miete/qm: 13.36 CHF/Monat<br>Miete/Zimmer: 387.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 35,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.0285714285714285",
+        "match_accuracy": "0.0285714285714285",
         "price_per_sqm": "20.555555555555557",
         "price_per_room": "740.0",
         "flat_cat": "S",
@@ -543,7 +543,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 35 qm<br>Stockwerk: 4<br>Miete: 740 CHF/Monat<br>Miete/qm: 20.56 CHF/Monat<br>Miete/Zimmer: 740.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 740 CHF/Monat<br>Miete/qm: 20.56 CHF/Monat<br>Miete/Zimmer: 740.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -577,7 +577,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 101,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "18.316831683168317",
         "price_per_room": "925.0",
         "flat_cat": "S",
@@ -589,7 +589,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 101 qm<br>Stockwerk: 4<br>Miete: 1850 CHF/Monat<br>Miete/qm: 18.32 CHF/Monat<br>Miete/Zimmer: 925.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1850 CHF/Monat<br>Miete/qm: 18.32 CHF/Monat<br>Miete/Zimmer: 925.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -623,7 +623,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3105,
-        "gwr_warea_delta": "0.0666666666666667",
+        "match_accuracy": "0.0666666666666667",
         "price_per_sqm": "23.69047619047619",
         "price_per_room": "497.5",
         "flat_cat": "S",
@@ -635,7 +635,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 5<br>Miete: 995 CHF/Monat<br>Miete/qm: 23.69 CHF/Monat<br>Miete/Zimmer: 497.50 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+        "description": "Miete: 995 CHF/Monat<br>Miete/qm: 23.69 CHF/Monat<br>Miete/Zimmer: 497.50 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -669,7 +669,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 65,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0307692307692308",
+        "match_accuracy": "0.0307692307692308",
         "price_per_sqm": "20.317460317460316",
         "price_per_room": "640.0",
         "flat_cat": "S",
@@ -681,7 +681,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 65 qm<br>Stockwerk: 3<br>Miete: 1280 CHF/Monat<br>Miete/qm: 20.32 CHF/Monat<br>Miete/Zimmer: 640.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+        "description": "Miete: 1280 CHF/Monat<br>Miete/qm: 20.32 CHF/Monat<br>Miete/Zimmer: 640.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -715,7 +715,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 50,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "20.2",
         "price_per_room": "505.0",
         "flat_cat": "S",
@@ -727,7 +727,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 50 qm<br>Stockwerk: 2<br>Miete: 1010 CHF/Monat<br>Miete/qm: 20.20 CHF/Monat<br>Miete/Zimmer: 505.00 CHF/Monat<br>Nebenkosten: 135 CHF/Monat"
+        "description": "Miete: 1010 CHF/Monat<br>Miete/qm: 20.20 CHF/Monat<br>Miete/Zimmer: 505.00 CHF/Monat<br>Nebenkosten: 135 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -761,7 +761,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 75,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.106666666666667",
+        "match_accuracy": "0.106666666666667",
         "price_per_sqm": "20.895522388059703",
         "price_per_room": "700.0",
         "flat_cat": "S",
@@ -773,7 +773,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 75 qm<br>Stockwerk: 0<br>Miete: 1400 CHF/Monat<br>Miete/qm: 20.90 CHF/Monat<br>Miete/Zimmer: 700.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1400 CHF/Monat<br>Miete/qm: 20.90 CHF/Monat<br>Miete/Zimmer: 700.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -807,7 +807,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 52,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.230769230769231",
+        "match_accuracy": "0.230769230769231",
         "price_per_sqm": "23.75",
         "price_per_room": "475.0",
         "flat_cat": "S",
@@ -819,7 +819,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 52 qm<br>Stockwerk: 1<br>Miete: 950 CHF/Monat<br>Miete/qm: 23.75 CHF/Monat<br>Miete/Zimmer: 475.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+        "description": "Miete: 950 CHF/Monat<br>Miete/qm: 23.75 CHF/Monat<br>Miete/Zimmer: 475.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -853,7 +853,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 70,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "18.714285714285715",
         "price_per_room": "655.0",
         "flat_cat": "S",
@@ -865,7 +865,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 70 qm<br>Stockwerk: 2<br>Miete: 1310 CHF/Monat<br>Miete/qm: 18.71 CHF/Monat<br>Miete/Zimmer: 655.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1310 CHF/Monat<br>Miete/qm: 18.71 CHF/Monat<br>Miete/Zimmer: 655.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -899,7 +899,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 58,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "20.0",
         "price_per_room": "580.0",
         "flat_cat": "S",
@@ -911,7 +911,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 58 qm<br>Stockwerk: 2<br>Miete: 1160 CHF/Monat<br>Miete/qm: 20.00 CHF/Monat<br>Miete/Zimmer: 580.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1160 CHF/Monat<br>Miete/qm: 20.00 CHF/Monat<br>Miete/Zimmer: 580.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -945,7 +945,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 72,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.111111111111111",
+        "match_accuracy": "0.111111111111111",
         "price_per_sqm": "17.875",
         "price_per_room": "715.0",
         "flat_cat": "S",
@@ -957,7 +957,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 72 qm<br>Stockwerk: 2<br>Miete: 1430 CHF/Monat<br>Miete/qm: 17.88 CHF/Monat<br>Miete/Zimmer: 715.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1430 CHF/Monat<br>Miete/qm: 17.88 CHF/Monat<br>Miete/Zimmer: 715.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -991,7 +991,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 30,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "29.0",
         "price_per_room": "435.0",
         "flat_cat": "S",
@@ -1003,7 +1003,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 30 qm<br>Stockwerk: 1<br>Miete: 870 CHF/Monat<br>Miete/qm: 29.00 CHF/Monat<br>Miete/Zimmer: 435.00 CHF/Monat<br>Nebenkosten: 80 CHF/Monat"
+        "description": "Miete: 870 CHF/Monat<br>Miete/qm: 29.00 CHF/Monat<br>Miete/Zimmer: 435.00 CHF/Monat<br>Nebenkosten: 80 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1037,7 +1037,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 63,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0476190476190477",
+        "match_accuracy": "0.0476190476190477",
         "price_per_sqm": "24.333333333333332",
         "price_per_room": "730.0",
         "flat_cat": "S",
@@ -1049,7 +1049,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 63 qm<br>Stockwerk: 3<br>Miete: 1460 CHF/Monat<br>Miete/qm: 24.33 CHF/Monat<br>Miete/Zimmer: 730.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1460 CHF/Monat<br>Miete/qm: 24.33 CHF/Monat<br>Miete/Zimmer: 730.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1083,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 73,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "18.767123287671232",
         "price_per_room": "685.0",
         "flat_cat": "S",
@@ -1095,7 +1095,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 73 qm<br>Stockwerk: 1<br>Miete: 1370 CHF/Monat<br>Miete/qm: 18.77 CHF/Monat<br>Miete/Zimmer: 685.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1370 CHF/Monat<br>Miete/qm: 18.77 CHF/Monat<br>Miete/Zimmer: 685.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1129,7 +1129,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 55,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0363636363636364",
+        "match_accuracy": "0.0363636363636364",
         "price_per_sqm": "17.54385964912281",
         "price_per_room": "500.0",
         "flat_cat": "S",
@@ -1141,7 +1141,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 55 qm<br>Stockwerk: 1<br>Miete: 1000 CHF/Monat<br>Miete/qm: 17.54 CHF/Monat<br>Miete/Zimmer: 500.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1000 CHF/Monat<br>Miete/qm: 17.54 CHF/Monat<br>Miete/Zimmer: 500.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1175,7 +1175,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 49,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.326530612244898",
+        "match_accuracy": "0.326530612244898",
         "price_per_sqm": "10.76923076923077",
         "price_per_room": "350.0",
         "flat_cat": "S",
@@ -1187,7 +1187,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 49 qm<br>Stockwerk: 3<br>Miete: 700 CHF/Monat<br>Miete/qm: 10.77 CHF/Monat<br>Miete/Zimmer: 350.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 700 CHF/Monat<br>Miete/qm: 10.77 CHF/Monat<br>Miete/Zimmer: 350.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1221,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 60,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.05",
+        "match_accuracy": "0.05",
         "price_per_sqm": "17.45614035087719",
         "price_per_room": "497.5",
         "flat_cat": "S",
@@ -1233,7 +1233,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 60 qm<br>Stockwerk: 0<br>Miete: 995 CHF/Monat<br>Miete/qm: 17.46 CHF/Monat<br>Miete/Zimmer: 497.50 CHF/Monat<br>Nebenkosten: 220 CHF/Monat"
+        "description": "Miete: 995 CHF/Monat<br>Miete/qm: 17.46 CHF/Monat<br>Miete/Zimmer: 497.50 CHF/Monat<br>Nebenkosten: 220 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1267,7 +1267,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.177777777777778",
+        "match_accuracy": "0.177777777777778",
         "price_per_sqm": "16.79245283018868",
         "price_per_room": "445.0",
         "flat_cat": "S",
@@ -1279,7 +1279,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 3<br>Miete: 890 CHF/Monat<br>Miete/qm: 16.79 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 890 CHF/Monat<br>Miete/qm: 16.79 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1313,7 +1313,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.111111111111111",
+        "match_accuracy": "0.111111111111111",
         "price_per_sqm": "21.1",
         "price_per_room": "527.5",
         "flat_cat": "S",
@@ -1325,7 +1325,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 2<br>Miete: 1055 CHF/Monat<br>Miete/qm: 21.10 CHF/Monat<br>Miete/Zimmer: 527.50 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+        "description": "Miete: 1055 CHF/Monat<br>Miete/qm: 21.10 CHF/Monat<br>Miete/Zimmer: 527.50 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1359,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 38,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "28.68421052631579",
         "price_per_room": "545.0",
         "flat_cat": "S",
@@ -1371,7 +1371,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 38 qm<br>Stockwerk: 0<br>Miete: 1090 CHF/Monat<br>Miete/qm: 28.68 CHF/Monat<br>Miete/Zimmer: 545.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1090 CHF/Monat<br>Miete/qm: 28.68 CHF/Monat<br>Miete/Zimmer: 545.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1405,7 +1405,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 91,
         "gwr_wstwk": 3105,
-        "gwr_warea_delta": "0.098901098901099",
+        "match_accuracy": "0.098901098901099",
         "price_per_sqm": "14.5",
         "price_per_room": "725.0",
         "flat_cat": "S",
@@ -1417,7 +1417,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 91 qm<br>Stockwerk: 5<br>Miete: 1450 CHF/Monat<br>Miete/qm: 14.50 CHF/Monat<br>Miete/Zimmer: 725.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1450 CHF/Monat<br>Miete/qm: 14.50 CHF/Monat<br>Miete/Zimmer: 725.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1451,7 +1451,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 40,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.125",
+        "match_accuracy": "0.125",
         "price_per_sqm": "22.22222222222222",
         "price_per_room": "500.0",
         "flat_cat": "S",
@@ -1463,7 +1463,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 0<br>Miete: 1000 CHF/Monat<br>Miete/qm: 22.22 CHF/Monat<br>Miete/Zimmer: 500.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
+        "description": "Miete: 1000 CHF/Monat<br>Miete/qm: 22.22 CHF/Monat<br>Miete/Zimmer: 500.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1497,7 +1497,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 30,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.2",
+        "match_accuracy": "0.2",
         "price_per_sqm": "31.708333333333332",
         "price_per_room": "761.0",
         "flat_cat": "S",
@@ -1509,7 +1509,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 30 qm<br>Stockwerk: 2<br>Miete: 761 CHF/Monat<br>Miete/qm: 31.71 CHF/Monat<br>Miete/Zimmer: 761.00 CHF/Monat<br>Nebenkosten: 60 CHF/Monat"
+        "description": "Miete: 761 CHF/Monat<br>Miete/qm: 31.71 CHF/Monat<br>Miete/Zimmer: 761.00 CHF/Monat<br>Nebenkosten: 60 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1543,7 +1543,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 52,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.230769230769231",
+        "match_accuracy": "0.230769230769231",
         "price_per_sqm": "21.0",
         "price_per_room": "420.0",
         "flat_cat": "S",
@@ -1555,7 +1555,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 52 qm<br>Stockwerk: 4<br>Miete: 840 CHF/Monat<br>Miete/qm: 21.00 CHF/Monat<br>Miete/Zimmer: 420.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+        "description": "Miete: 840 CHF/Monat<br>Miete/qm: 21.00 CHF/Monat<br>Miete/Zimmer: 420.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1589,7 +1589,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 65,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0923076923076922",
+        "match_accuracy": "0.0923076923076922",
         "price_per_sqm": "19.43661971830986",
         "price_per_room": "690.0",
         "flat_cat": "S",
@@ -1601,7 +1601,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 65 qm<br>Stockwerk: 2<br>Miete: 1380 CHF/Monat<br>Miete/qm: 19.44 CHF/Monat<br>Miete/Zimmer: 690.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1380 CHF/Monat<br>Miete/qm: 19.44 CHF/Monat<br>Miete/Zimmer: 690.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1635,7 +1635,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0666666666666667",
+        "match_accuracy": "0.0666666666666667",
         "price_per_sqm": "23.571428571428573",
         "price_per_room": "495.0",
         "flat_cat": "S",
@@ -1647,7 +1647,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 0<br>Miete: 990 CHF/Monat<br>Miete/qm: 23.57 CHF/Monat<br>Miete/Zimmer: 495.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+        "description": "Miete: 990 CHF/Monat<br>Miete/qm: 23.57 CHF/Monat<br>Miete/Zimmer: 495.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1681,7 +1681,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 65,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.107692307692308",
+        "match_accuracy": "0.107692307692308",
         "price_per_sqm": "17.63888888888889",
         "price_per_room": "635.0",
         "flat_cat": "S",
@@ -1693,7 +1693,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 65 qm<br>Stockwerk: 3<br>Miete: 1270 CHF/Monat<br>Miete/qm: 17.64 CHF/Monat<br>Miete/Zimmer: 635.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1270 CHF/Monat<br>Miete/qm: 17.64 CHF/Monat<br>Miete/Zimmer: 635.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1727,7 +1727,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 56,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "21.428571428571427",
         "price_per_room": "600.0",
         "flat_cat": "S",
@@ -1739,7 +1739,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 56 qm<br>Stockwerk: 2<br>Miete: 1200 CHF/Monat<br>Miete/qm: 21.43 CHF/Monat<br>Miete/Zimmer: 600.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1200 CHF/Monat<br>Miete/qm: 21.43 CHF/Monat<br>Miete/Zimmer: 600.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1773,7 +1773,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 58,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.258620689655172",
+        "match_accuracy": "0.258620689655172",
         "price_per_sqm": "18.493150684931507",
         "price_per_room": "675.0",
         "flat_cat": "S",
@@ -1785,7 +1785,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 58 qm<br>Stockwerk: 4<br>Miete: 1350 CHF/Monat<br>Miete/qm: 18.49 CHF/Monat<br>Miete/Zimmer: 675.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
+        "description": "Miete: 1350 CHF/Monat<br>Miete/qm: 18.49 CHF/Monat<br>Miete/Zimmer: 675.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1819,7 +1819,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 65,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.230769230769231",
+        "match_accuracy": "0.230769230769231",
         "price_per_sqm": "16.125",
         "price_per_room": "645.0",
         "flat_cat": "S",
@@ -1831,7 +1831,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 65 qm<br>Stockwerk: 3<br>Miete: 1290 CHF/Monat<br>Miete/qm: 16.12 CHF/Monat<br>Miete/Zimmer: 645.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+        "description": "Miete: 1290 CHF/Monat<br>Miete/qm: 16.12 CHF/Monat<br>Miete/Zimmer: 645.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1865,7 +1865,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 37,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.027027027027027",
+        "match_accuracy": "0.027027027027027",
         "price_per_sqm": "28.81578947368421",
         "price_per_room": "547.5",
         "flat_cat": "S",
@@ -1877,7 +1877,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 37 qm<br>Stockwerk: 2<br>Miete: 1095 CHF/Monat<br>Miete/qm: 28.82 CHF/Monat<br>Miete/Zimmer: 547.50 CHF/Monat<br>Nebenkosten: 100 CHF/Monat"
+        "description": "Miete: 1095 CHF/Monat<br>Miete/qm: 28.82 CHF/Monat<br>Miete/Zimmer: 547.50 CHF/Monat<br>Nebenkosten: 100 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +1911,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 77,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "17.532467532467532",
         "price_per_room": "675.0",
         "flat_cat": "S",
@@ -1923,7 +1923,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 77 qm<br>Stockwerk: 0<br>Miete: 1350 CHF/Monat<br>Miete/qm: 17.53 CHF/Monat<br>Miete/Zimmer: 675.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1350 CHF/Monat<br>Miete/qm: 17.53 CHF/Monat<br>Miete/Zimmer: 675.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -1957,7 +1957,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 50,
         "gwr_wstwk": 3402,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "17.8",
         "price_per_room": "445.0",
         "flat_cat": "S",
@@ -1969,7 +1969,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 50 qm<br>Stockwerk: 2<br>Miete: 890 CHF/Monat<br>Miete/qm: 17.80 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 890 CHF/Monat<br>Miete/qm: 17.80 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2003,7 +2003,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 44,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "25.454545454545453",
         "price_per_room": "560.0",
         "flat_cat": "S",
@@ -2015,7 +2015,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 44 qm<br>Stockwerk: 1<br>Miete: 1120 CHF/Monat<br>Miete/qm: 25.45 CHF/Monat<br>Miete/Zimmer: 560.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1120 CHF/Monat<br>Miete/qm: 25.45 CHF/Monat<br>Miete/Zimmer: 560.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2049,7 +2049,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 70,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0142857142857142",
+        "match_accuracy": "0.0142857142857142",
         "price_per_sqm": "21.971830985915492",
         "price_per_room": "780.0",
         "flat_cat": "S",
@@ -2061,7 +2061,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 70 qm<br>Stockwerk: 3<br>Miete: 1560 CHF/Monat<br>Miete/qm: 21.97 CHF/Monat<br>Miete/Zimmer: 780.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1560 CHF/Monat<br>Miete/qm: 21.97 CHF/Monat<br>Miete/Zimmer: 780.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2095,7 +2095,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 35,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "16.857142857142858",
         "price_per_room": "590.0",
         "flat_cat": "S",
@@ -2107,7 +2107,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 35 qm<br>Stockwerk: 0<br>Miete: 590 CHF/Monat<br>Miete/qm: 16.86 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 590 CHF/Monat<br>Miete/qm: 16.86 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2141,7 +2141,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 73,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "18.424657534246574",
         "price_per_room": "672.5",
         "flat_cat": "S",
@@ -2153,7 +2153,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 73 qm<br>Stockwerk: 0<br>Miete: 1345 CHF/Monat<br>Miete/qm: 18.42 CHF/Monat<br>Miete/Zimmer: 672.50 CHF/Monat<br>Nebenkosten: 195 CHF/Monat"
+        "description": "Miete: 1345 CHF/Monat<br>Miete/qm: 18.42 CHF/Monat<br>Miete/Zimmer: 672.50 CHF/Monat<br>Nebenkosten: 195 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2187,7 +2187,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 57,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0701754385964912",
+        "match_accuracy": "0.0701754385964912",
         "price_per_sqm": "23.58490566037736",
         "price_per_room": "625.0",
         "flat_cat": "S",
@@ -2199,7 +2199,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 57 qm<br>Stockwerk: 2<br>Miete: 1250 CHF/Monat<br>Miete/qm: 23.58 CHF/Monat<br>Miete/Zimmer: 625.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
+        "description": "Miete: 1250 CHF/Monat<br>Miete/qm: 23.58 CHF/Monat<br>Miete/Zimmer: 625.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2233,7 +2233,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 25,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.04",
+        "match_accuracy": "0.04",
         "price_per_sqm": "27.5",
         "price_per_room": "660.0",
         "flat_cat": "S",
@@ -2245,7 +2245,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 25 qm<br>Stockwerk: 1<br>Miete: 660 CHF/Monat<br>Miete/qm: 27.50 CHF/Monat<br>Miete/Zimmer: 660.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 660 CHF/Monat<br>Miete/qm: 27.50 CHF/Monat<br>Miete/Zimmer: 660.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2279,7 +2279,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 60,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.25",
+        "match_accuracy": "0.25",
         "price_per_sqm": "28.88888888888889",
         "price_per_room": "650.0",
         "flat_cat": "S",
@@ -2291,7 +2291,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 60 qm<br>Stockwerk: 4<br>Miete: 1300 CHF/Monat<br>Miete/qm: 28.89 CHF/Monat<br>Miete/Zimmer: 650.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
+        "description": "Miete: 1300 CHF/Monat<br>Miete/qm: 28.89 CHF/Monat<br>Miete/Zimmer: 650.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2325,7 +2325,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 50,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.04",
+        "match_accuracy": "0.04",
         "price_per_sqm": "26.041666666666668",
         "price_per_room": "625.0",
         "flat_cat": "S",
@@ -2337,7 +2337,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 50 qm<br>Stockwerk: 2<br>Miete: 1250 CHF/Monat<br>Miete/qm: 26.04 CHF/Monat<br>Miete/Zimmer: 625.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+        "description": "Miete: 1250 CHF/Monat<br>Miete/qm: 26.04 CHF/Monat<br>Miete/Zimmer: 625.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2371,7 +2371,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.111111111111111",
+        "match_accuracy": "0.111111111111111",
         "price_per_sqm": "21.0",
         "price_per_room": "525.0",
         "flat_cat": "S",
@@ -2383,7 +2383,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 1<br>Miete: 1050 CHF/Monat<br>Miete/qm: 21.00 CHF/Monat<br>Miete/Zimmer: 525.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1050 CHF/Monat<br>Miete/qm: 21.00 CHF/Monat<br>Miete/Zimmer: 525.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2417,7 +2417,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 57,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.491228070175439",
+        "match_accuracy": "0.491228070175439",
         "price_per_sqm": "18.823529411764707",
         "price_per_room": "800.0",
         "flat_cat": "S",
@@ -2429,7 +2429,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 57 qm<br>Stockwerk: 1<br>Miete: 1600 CHF/Monat<br>Miete/qm: 18.82 CHF/Monat<br>Miete/Zimmer: 800.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1600 CHF/Monat<br>Miete/qm: 18.82 CHF/Monat<br>Miete/Zimmer: 800.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2463,7 +2463,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 65,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0923076923076922",
+        "match_accuracy": "0.0923076923076922",
         "price_per_sqm": "16.338028169014084",
         "price_per_room": "580.0",
         "flat_cat": "S",
@@ -2475,7 +2475,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 65 qm<br>Stockwerk: 1<br>Miete: 1160 CHF/Monat<br>Miete/qm: 16.34 CHF/Monat<br>Miete/Zimmer: 580.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1160 CHF/Monat<br>Miete/qm: 16.34 CHF/Monat<br>Miete/Zimmer: 580.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2509,7 +2509,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 43,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.302325581395349",
+        "match_accuracy": "0.302325581395349",
         "price_per_sqm": "16.785714285714285",
         "price_per_room": "470.0",
         "flat_cat": "S",
@@ -2521,7 +2521,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 43 qm<br>Stockwerk: 2<br>Miete: 940 CHF/Monat<br>Miete/qm: 16.79 CHF/Monat<br>Miete/Zimmer: 470.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+        "description": "Miete: 940 CHF/Monat<br>Miete/qm: 16.79 CHF/Monat<br>Miete/Zimmer: 470.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2555,7 +2555,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 43,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0465116279069767",
+        "match_accuracy": "0.0465116279069767",
         "price_per_sqm": "26.951219512195124",
         "price_per_room": "552.5",
         "flat_cat": "S",
@@ -2567,7 +2567,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 43 qm<br>Stockwerk: 3<br>Miete: 1105 CHF/Monat<br>Miete/qm: 26.95 CHF/Monat<br>Miete/Zimmer: 552.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1105 CHF/Monat<br>Miete/qm: 26.95 CHF/Monat<br>Miete/Zimmer: 552.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2601,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 30,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.133333333333333",
+        "match_accuracy": "0.133333333333333",
         "price_per_sqm": "32.69230769230769",
         "price_per_room": "850.0",
         "flat_cat": "S",
@@ -2613,7 +2613,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 30 qm<br>Stockwerk: 4<br>Miete: 850 CHF/Monat<br>Miete/qm: 32.69 CHF/Monat<br>Miete/Zimmer: 850.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 850 CHF/Monat<br>Miete/qm: 32.69 CHF/Monat<br>Miete/Zimmer: 850.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2647,7 +2647,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 54,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "14.444444444444445",
         "price_per_room": "390.0",
         "flat_cat": "S",
@@ -2659,7 +2659,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 54 qm<br>Stockwerk: 0<br>Miete: 780 CHF/Monat<br>Miete/qm: 14.44 CHF/Monat<br>Miete/Zimmer: 390.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 780 CHF/Monat<br>Miete/qm: 14.44 CHF/Monat<br>Miete/Zimmer: 390.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2693,7 +2693,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 101,
         "gwr_wstwk": 3105,
-        "gwr_warea_delta": "0.0693069306930694",
+        "match_accuracy": "0.0693069306930694",
         "price_per_sqm": "14.027777777777779",
         "price_per_room": "757.5",
         "flat_cat": "S",
@@ -2705,7 +2705,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 101 qm<br>Stockwerk: 5<br>Miete: 1515 CHF/Monat<br>Miete/qm: 14.03 CHF/Monat<br>Miete/Zimmer: 757.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1515 CHF/Monat<br>Miete/qm: 14.03 CHF/Monat<br>Miete/Zimmer: 757.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2739,7 +2739,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 62,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "19.677419354838708",
         "price_per_room": "610.0",
         "flat_cat": "S",
@@ -2751,7 +2751,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 62 qm<br>Stockwerk: 2<br>Miete: 1220 CHF/Monat<br>Miete/qm: 19.68 CHF/Monat<br>Miete/Zimmer: 610.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1220 CHF/Monat<br>Miete/qm: 19.68 CHF/Monat<br>Miete/Zimmer: 610.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2785,7 +2785,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 61,
         "gwr_wstwk": 3106,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "22.885245901639344",
         "price_per_room": "698.0",
         "flat_cat": "S",
@@ -2797,7 +2797,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 61 qm<br>Stockwerk: 6<br>Miete: 1396 CHF/Monat<br>Miete/qm: 22.89 CHF/Monat<br>Miete/Zimmer: 698.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
+        "description": "Miete: 1396 CHF/Monat<br>Miete/qm: 22.89 CHF/Monat<br>Miete/Zimmer: 698.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2831,7 +2831,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 61,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "21.147540983606557",
         "price_per_room": "645.0",
         "flat_cat": "S",
@@ -2843,7 +2843,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 61 qm<br>Stockwerk: 0<br>Miete: 1290 CHF/Monat<br>Miete/qm: 21.15 CHF/Monat<br>Miete/Zimmer: 645.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
+        "description": "Miete: 1290 CHF/Monat<br>Miete/qm: 21.15 CHF/Monat<br>Miete/Zimmer: 645.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2877,7 +2877,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 25,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.44",
+        "match_accuracy": "0.44",
         "price_per_sqm": "23.333333333333332",
         "price_per_room": "840.0",
         "flat_cat": "S",
@@ -2889,7 +2889,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 25 qm<br>Stockwerk: 1<br>Miete: 840 CHF/Monat<br>Miete/qm: 23.33 CHF/Monat<br>Miete/Zimmer: 840.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 840 CHF/Monat<br>Miete/qm: 23.33 CHF/Monat<br>Miete/Zimmer: 840.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2923,7 +2923,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 110,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "12.636363636363637",
         "price_per_room": "695.0",
         "flat_cat": "S",
@@ -2935,7 +2935,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 110 qm<br>Stockwerk: 3<br>Miete: 1390 CHF/Monat<br>Miete/qm: 12.64 CHF/Monat<br>Miete/Zimmer: 695.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1390 CHF/Monat<br>Miete/qm: 12.64 CHF/Monat<br>Miete/Zimmer: 695.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -2969,7 +2969,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 34,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.117647058823529",
+        "match_accuracy": "0.117647058823529",
         "price_per_sqm": "26.166666666666668",
         "price_per_room": "785.0",
         "flat_cat": "S",
@@ -2981,7 +2981,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 34 qm<br>Stockwerk: 3<br>Miete: 785 CHF/Monat<br>Miete/qm: 26.17 CHF/Monat<br>Miete/Zimmer: 785.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 785 CHF/Monat<br>Miete/qm: 26.17 CHF/Monat<br>Miete/Zimmer: 785.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3015,7 +3015,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0666666666666667",
+        "match_accuracy": "0.0666666666666667",
         "price_per_sqm": "18.69047619047619",
         "price_per_room": "392.5",
         "flat_cat": "S",
@@ -3027,7 +3027,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 1<br>Miete: 785 CHF/Monat<br>Miete/qm: 18.69 CHF/Monat<br>Miete/Zimmer: 392.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 785 CHF/Monat<br>Miete/qm: 18.69 CHF/Monat<br>Miete/Zimmer: 392.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3061,7 +3061,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 35,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "20.285714285714285",
         "price_per_room": "355.0",
         "flat_cat": "S",
@@ -3073,7 +3073,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 35 qm<br>Stockwerk: 1<br>Miete: 710 CHF/Monat<br>Miete/qm: 20.29 CHF/Monat<br>Miete/Zimmer: 355.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 710 CHF/Monat<br>Miete/qm: 20.29 CHF/Monat<br>Miete/Zimmer: 355.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3107,7 +3107,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 35,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0857142857142857",
+        "match_accuracy": "0.0857142857142857",
         "price_per_sqm": "20.3125",
         "price_per_room": "650.0",
         "flat_cat": "S",
@@ -3119,7 +3119,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 35 qm<br>Stockwerk: 2<br>Miete: 650 CHF/Monat<br>Miete/qm: 20.31 CHF/Monat<br>Miete/Zimmer: 650.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 650 CHF/Monat<br>Miete/qm: 20.31 CHF/Monat<br>Miete/Zimmer: 650.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3153,7 +3153,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 62,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.032258064516129",
+        "match_accuracy": "0.032258064516129",
         "price_per_sqm": "20.15625",
         "price_per_room": "645.0",
         "flat_cat": "S",
@@ -3165,7 +3165,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 62 qm<br>Stockwerk: 0<br>Miete: 1290 CHF/Monat<br>Miete/qm: 20.16 CHF/Monat<br>Miete/Zimmer: 645.00 CHF/Monat<br>Nebenkosten: 190 CHF/Monat"
+        "description": "Miete: 1290 CHF/Monat<br>Miete/qm: 20.16 CHF/Monat<br>Miete/Zimmer: 645.00 CHF/Monat<br>Nebenkosten: 190 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3199,7 +3199,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 40,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.15",
+        "match_accuracy": "0.15",
         "price_per_sqm": "23.91304347826087",
         "price_per_room": "550.0",
         "flat_cat": "S",
@@ -3211,7 +3211,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 0<br>Miete: 1100 CHF/Monat<br>Miete/qm: 23.91 CHF/Monat<br>Miete/Zimmer: 550.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1100 CHF/Monat<br>Miete/qm: 23.91 CHF/Monat<br>Miete/Zimmer: 550.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3245,7 +3245,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 70,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "16.428571428571427",
         "price_per_room": "575.0",
         "flat_cat": "S",
@@ -3257,7 +3257,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 70 qm<br>Stockwerk: 2<br>Miete: 1150 CHF/Monat<br>Miete/qm: 16.43 CHF/Monat<br>Miete/Zimmer: 575.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1150 CHF/Monat<br>Miete/qm: 16.43 CHF/Monat<br>Miete/Zimmer: 575.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3291,7 +3291,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 51,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0196078431372549",
+        "match_accuracy": "0.0196078431372549",
         "price_per_sqm": "24.8",
         "price_per_room": "620.0",
         "flat_cat": "S",
@@ -3303,7 +3303,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 51 qm<br>Stockwerk: 2<br>Miete: 1240 CHF/Monat<br>Miete/qm: 24.80 CHF/Monat<br>Miete/Zimmer: 620.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+        "description": "Miete: 1240 CHF/Monat<br>Miete/qm: 24.80 CHF/Monat<br>Miete/Zimmer: 620.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3337,7 +3337,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 85,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "20.58823529411765",
         "price_per_room": "1750.0",
         "flat_cat": "S",
@@ -3349,7 +3349,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 85 qm<br>Stockwerk: 0<br>Miete: 1750 CHF/Monat<br>Miete/qm: 20.59 CHF/Monat<br>Miete/Zimmer: 1750.00 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+        "description": "Miete: 1750 CHF/Monat<br>Miete/qm: 20.59 CHF/Monat<br>Miete/Zimmer: 1750.00 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3383,7 +3383,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 57,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "21.05263157894737",
         "price_per_room": "600.0",
         "flat_cat": "S",
@@ -3395,7 +3395,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 57 qm<br>Stockwerk: 4<br>Miete: 1200 CHF/Monat<br>Miete/qm: 21.05 CHF/Monat<br>Miete/Zimmer: 600.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
+        "description": "Miete: 1200 CHF/Monat<br>Miete/qm: 21.05 CHF/Monat<br>Miete/Zimmer: 600.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3429,7 +3429,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 58,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0344827586206897",
+        "match_accuracy": "0.0344827586206897",
         "price_per_sqm": "19.666666666666668",
         "price_per_room": "590.0",
         "flat_cat": "S",
@@ -3441,7 +3441,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 58 qm<br>Stockwerk: 2<br>Miete: 1180 CHF/Monat<br>Miete/qm: 19.67 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1180 CHF/Monat<br>Miete/qm: 19.67 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3475,7 +3475,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 38,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "1.81578947368421",
+        "match_accuracy": "1.81578947368421",
         "price_per_sqm": "14.018691588785046",
         "price_per_room": "1500.0",
         "flat_cat": "S",
@@ -3487,7 +3487,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 38 qm<br>Stockwerk: 3<br>Miete: 1500 CHF/Monat<br>Miete/qm: 14.02 CHF/Monat<br>Miete/Zimmer: 1500.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1500 CHF/Monat<br>Miete/qm: 14.02 CHF/Monat<br>Miete/Zimmer: 1500.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3521,7 +3521,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 23,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "24.782608695652176",
         "price_per_room": "570.0",
         "flat_cat": "S",
@@ -3533,7 +3533,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 23 qm<br>Stockwerk: 1<br>Miete: 570 CHF/Monat<br>Miete/qm: 24.78 CHF/Monat<br>Miete/Zimmer: 570.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 570 CHF/Monat<br>Miete/qm: 24.78 CHF/Monat<br>Miete/Zimmer: 570.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3567,7 +3567,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 23,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "25.652173913043477",
         "price_per_room": "590.0",
         "flat_cat": "S",
@@ -3579,7 +3579,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 23 qm<br>Stockwerk: 1<br>Miete: 590 CHF/Monat<br>Miete/qm: 25.65 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 590 CHF/Monat<br>Miete/qm: 25.65 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3613,7 +3613,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 32,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.03125",
+        "match_accuracy": "0.03125",
         "price_per_sqm": "22.580645161290324",
         "price_per_room": "350.0",
         "flat_cat": "S",
@@ -3625,7 +3625,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 32 qm<br>Stockwerk: 1<br>Miete: 700 CHF/Monat<br>Miete/qm: 22.58 CHF/Monat<br>Miete/Zimmer: 350.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 700 CHF/Monat<br>Miete/qm: 22.58 CHF/Monat<br>Miete/Zimmer: 350.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3659,7 +3659,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 100,
         "gwr_wstwk": 3106,
-        "gwr_warea_delta": "0.45",
+        "match_accuracy": "0.45",
         "price_per_sqm": "12.137931034482758",
         "price_per_room": "880.0",
         "flat_cat": "S",
@@ -3671,7 +3671,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 100 qm<br>Stockwerk: 6<br>Miete: 1760 CHF/Monat<br>Miete/qm: 12.14 CHF/Monat<br>Miete/Zimmer: 880.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1760 CHF/Monat<br>Miete/qm: 12.14 CHF/Monat<br>Miete/Zimmer: 880.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3705,7 +3705,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 40,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.375",
+        "match_accuracy": "0.375",
         "price_per_sqm": "27.6",
         "price_per_room": "690.0",
         "flat_cat": "S",
@@ -3717,7 +3717,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 40 qm<br>Stockwerk: 3<br>Miete: 690 CHF/Monat<br>Miete/qm: 27.60 CHF/Monat<br>Miete/Zimmer: 690.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 690 CHF/Monat<br>Miete/qm: 27.60 CHF/Monat<br>Miete/Zimmer: 690.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3751,7 +3751,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 32,
         "gwr_wstwk": 3107,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "26.71875",
         "price_per_room": "855.0",
         "flat_cat": "S",
@@ -3763,7 +3763,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 32 qm<br>Stockwerk: 7<br>Miete: 855 CHF/Monat<br>Miete/qm: 26.72 CHF/Monat<br>Miete/Zimmer: 855.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+        "description": "Miete: 855 CHF/Monat<br>Miete/qm: 26.72 CHF/Monat<br>Miete/Zimmer: 855.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3797,7 +3797,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 55,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.181818181818182",
+        "match_accuracy": "0.181818181818182",
         "price_per_sqm": "19.77777777777778",
         "price_per_room": "445.0",
         "flat_cat": "S",
@@ -3809,7 +3809,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 55 qm<br>Stockwerk: 3<br>Miete: 890 CHF/Monat<br>Miete/qm: 19.78 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
+        "description": "Miete: 890 CHF/Monat<br>Miete/qm: 19.78 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3843,7 +3843,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "19.77777777777778",
         "price_per_room": "445.0",
         "flat_cat": "S",
@@ -3855,7 +3855,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 3<br>Miete: 890 CHF/Monat<br>Miete/qm: 19.78 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 890 CHF/Monat<br>Miete/qm: 19.78 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3889,7 +3889,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 36,
         "gwr_wstwk": 3105,
-        "gwr_warea_delta": "0.222222222222222",
+        "match_accuracy": "0.222222222222222",
         "price_per_sqm": "28.392857142857142",
         "price_per_room": "795.0",
         "flat_cat": "S",
@@ -3901,7 +3901,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 36 qm<br>Stockwerk: 5<br>Miete: 795 CHF/Monat<br>Miete/qm: 28.39 CHF/Monat<br>Miete/Zimmer: 795.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 795 CHF/Monat<br>Miete/qm: 28.39 CHF/Monat<br>Miete/Zimmer: 795.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3935,7 +3935,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 26,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.153846153846154",
+        "match_accuracy": "0.153846153846154",
         "price_per_sqm": "34.04545454545455",
         "price_per_room": "749.0",
         "flat_cat": "S",
@@ -3947,7 +3947,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 26 qm<br>Stockwerk: 4<br>Miete: 749 CHF/Monat<br>Miete/qm: 34.05 CHF/Monat<br>Miete/Zimmer: 749.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 749 CHF/Monat<br>Miete/qm: 34.05 CHF/Monat<br>Miete/Zimmer: 749.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -3981,7 +3981,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 26,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.153846153846154",
+        "match_accuracy": "0.153846153846154",
         "price_per_sqm": "34.04545454545455",
         "price_per_room": "749.0",
         "flat_cat": "S",
@@ -3993,7 +3993,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 26 qm<br>Stockwerk: 3<br>Miete: 749 CHF/Monat<br>Miete/qm: 34.05 CHF/Monat<br>Miete/Zimmer: 749.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 749 CHF/Monat<br>Miete/qm: 34.05 CHF/Monat<br>Miete/Zimmer: 749.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4027,7 +4027,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 65,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.230769230769231",
+        "match_accuracy": "0.230769230769231",
         "price_per_sqm": "15.625",
         "price_per_room": "625.0",
         "flat_cat": "S",
@@ -4039,7 +4039,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 65 qm<br>Stockwerk: 3<br>Miete: 1250 CHF/Monat<br>Miete/qm: 15.62 CHF/Monat<br>Miete/Zimmer: 625.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1250 CHF/Monat<br>Miete/qm: 15.62 CHF/Monat<br>Miete/Zimmer: 625.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4073,7 +4073,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 74,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "17.16216216216216",
         "price_per_room": "635.0",
         "flat_cat": "S",
@@ -4085,7 +4085,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 74 qm<br>Stockwerk: 0<br>Miete: 1270 CHF/Monat<br>Miete/qm: 17.16 CHF/Monat<br>Miete/Zimmer: 635.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1270 CHF/Monat<br>Miete/qm: 17.16 CHF/Monat<br>Miete/Zimmer: 635.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4119,7 +4119,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 46,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0217391304347827",
+        "match_accuracy": "0.0217391304347827",
         "price_per_sqm": "17.23404255319149",
         "price_per_room": "405.0",
         "flat_cat": "S",
@@ -4131,7 +4131,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 46 qm<br>Stockwerk: 1<br>Miete: 810 CHF/Monat<br>Miete/qm: 17.23 CHF/Monat<br>Miete/Zimmer: 405.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 810 CHF/Monat<br>Miete/qm: 17.23 CHF/Monat<br>Miete/Zimmer: 405.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4165,7 +4165,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 40,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.5",
+        "match_accuracy": "0.5",
         "price_per_sqm": "14.25",
         "price_per_room": "427.5",
         "flat_cat": "S",
@@ -4177,7 +4177,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 4<br>Miete: 855 CHF/Monat<br>Miete/qm: 14.25 CHF/Monat<br>Miete/Zimmer: 427.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 855 CHF/Monat<br>Miete/qm: 14.25 CHF/Monat<br>Miete/Zimmer: 427.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4211,7 +4211,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 32,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0625",
+        "match_accuracy": "0.0625",
         "price_per_sqm": "23.0",
         "price_per_room": "345.0",
         "flat_cat": "S",
@@ -4223,7 +4223,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 32 qm<br>Stockwerk: 3<br>Miete: 690 CHF/Monat<br>Miete/qm: 23.00 CHF/Monat<br>Miete/Zimmer: 345.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 690 CHF/Monat<br>Miete/qm: 23.00 CHF/Monat<br>Miete/Zimmer: 345.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4257,7 +4257,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 57,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.56140350877193",
+        "match_accuracy": "0.56140350877193",
         "price_per_sqm": "26.0",
         "price_per_room": "325.0",
         "flat_cat": "S",
@@ -4269,7 +4269,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 57 qm<br>Stockwerk: 0<br>Miete: 650 CHF/Monat<br>Miete/qm: 26.00 CHF/Monat<br>Miete/Zimmer: 325.00 CHF/Monat<br>Nebenkosten: 125 CHF/Monat"
+        "description": "Miete: 650 CHF/Monat<br>Miete/qm: 26.00 CHF/Monat<br>Miete/Zimmer: 325.00 CHF/Monat<br>Nebenkosten: 125 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4303,7 +4303,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 46,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0217391304347826",
+        "match_accuracy": "0.0217391304347826",
         "price_per_sqm": "16.666666666666668",
         "price_per_room": "375.0",
         "flat_cat": "S",
@@ -4315,7 +4315,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 46 qm<br>Stockwerk: 2<br>Miete: 750 CHF/Monat<br>Miete/qm: 16.67 CHF/Monat<br>Miete/Zimmer: 375.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 750 CHF/Monat<br>Miete/qm: 16.67 CHF/Monat<br>Miete/Zimmer: 375.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4349,7 +4349,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 55,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "19.09090909090909",
         "price_per_room": "525.0",
         "flat_cat": "S",
@@ -4361,7 +4361,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 55 qm<br>Stockwerk: 1<br>Miete: 1050 CHF/Monat<br>Miete/qm: 19.09 CHF/Monat<br>Miete/Zimmer: 525.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 1050 CHF/Monat<br>Miete/qm: 19.09 CHF/Monat<br>Miete/Zimmer: 525.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4395,7 +4395,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 50,
         "gwr_wstwk": 3105,
-        "gwr_warea_delta": "0.5",
+        "match_accuracy": "0.5",
         "price_per_sqm": "17.866666666666667",
         "price_per_room": "670.0",
         "flat_cat": "S",
@@ -4407,7 +4407,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 50 qm<br>Stockwerk: 5<br>Miete: 1340 CHF/Monat<br>Miete/qm: 17.87 CHF/Monat<br>Miete/Zimmer: 670.00 CHF/Monat<br>Nebenkosten: 220 CHF/Monat"
+        "description": "Miete: 1340 CHF/Monat<br>Miete/qm: 17.87 CHF/Monat<br>Miete/Zimmer: 670.00 CHF/Monat<br>Nebenkosten: 220 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4441,7 +4441,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 82,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.0853658536585366",
+        "match_accuracy": "0.0853658536585366",
         "price_per_sqm": "17.666666666666668",
         "price_per_room": "662.5",
         "flat_cat": "S",
@@ -4453,7 +4453,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 82 qm<br>Stockwerk: 4<br>Miete: 1325 CHF/Monat<br>Miete/qm: 17.67 CHF/Monat<br>Miete/Zimmer: 662.50 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+        "description": "Miete: 1325 CHF/Monat<br>Miete/qm: 17.67 CHF/Monat<br>Miete/Zimmer: 662.50 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4487,7 +4487,7 @@
         "gwr_wazim": 1,
         "gwr_warea": 51,
         "gwr_wstwk": 3401,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "19.41176470588235",
         "price_per_room": "990.0",
         "flat_cat": "S",
@@ -4499,7 +4499,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 1<br>Fl\u00e4che: 51 qm<br>Stockwerk: 1<br>Miete: 990 CHF/Monat<br>Miete/qm: 19.41 CHF/Monat<br>Miete/Zimmer: 990.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 990 CHF/Monat<br>Miete/qm: 19.41 CHF/Monat<br>Miete/Zimmer: 990.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4533,7 +4533,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 40,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.125",
+        "match_accuracy": "0.125",
         "price_per_sqm": "24.333333333333332",
         "price_per_room": "547.5",
         "flat_cat": "S",
@@ -4545,7 +4545,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 3<br>Miete: 1095 CHF/Monat<br>Miete/qm: 24.33 CHF/Monat<br>Miete/Zimmer: 547.50 CHF/Monat<br>Nebenkosten: 145 CHF/Monat"
+        "description": "Miete: 1095 CHF/Monat<br>Miete/qm: 24.33 CHF/Monat<br>Miete/Zimmer: 547.50 CHF/Monat<br>Nebenkosten: 145 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4579,7 +4579,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 47,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "23.19148936170213",
         "price_per_room": "545.0",
         "flat_cat": "S",
@@ -4591,7 +4591,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 47 qm<br>Stockwerk: 0<br>Miete: 1090 CHF/Monat<br>Miete/qm: 23.19 CHF/Monat<br>Miete/Zimmer: 545.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+        "description": "Miete: 1090 CHF/Monat<br>Miete/qm: 23.19 CHF/Monat<br>Miete/Zimmer: 545.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4625,7 +4625,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 27,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0740740740740742",
+        "match_accuracy": "0.0740740740740742",
         "price_per_sqm": "30.689655172413794",
         "price_per_room": "445.0",
         "flat_cat": "S",
@@ -4637,7 +4637,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 27 qm<br>Stockwerk: 0<br>Miete: 890 CHF/Monat<br>Miete/qm: 30.69 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 100 CHF/Monat"
+        "description": "Miete: 890 CHF/Monat<br>Miete/qm: 30.69 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 100 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4671,7 +4671,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 40,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "22.25",
         "price_per_room": "445.0",
         "flat_cat": "S",
@@ -4683,7 +4683,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 1<br>Miete: 890 CHF/Monat<br>Miete/qm: 22.25 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
+        "description": "Miete: 890 CHF/Monat<br>Miete/qm: 22.25 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4717,7 +4717,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 40,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.5",
+        "match_accuracy": "0.5",
         "price_per_sqm": "14.833333333333334",
         "price_per_room": "445.0",
         "flat_cat": "S",
@@ -4729,7 +4729,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 40 qm<br>Stockwerk: 2<br>Miete: 890 CHF/Monat<br>Miete/qm: 14.83 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+        "description": "Miete: 890 CHF/Monat<br>Miete/qm: 14.83 CHF/Monat<br>Miete/Zimmer: 445.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4763,7 +4763,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 47,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0212765957446808",
+        "match_accuracy": "0.0212765957446808",
         "price_per_sqm": "20.416666666666668",
         "price_per_room": "490.0",
         "flat_cat": "S",
@@ -4775,7 +4775,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 47 qm<br>Stockwerk: 1<br>Miete: 980 CHF/Monat<br>Miete/qm: 20.42 CHF/Monat<br>Miete/Zimmer: 490.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
+        "description": "Miete: 980 CHF/Monat<br>Miete/qm: 20.42 CHF/Monat<br>Miete/Zimmer: 490.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4809,7 +4809,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 71,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "19.295774647887324",
         "price_per_room": "685.0",
         "flat_cat": "S",
@@ -4821,7 +4821,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 71 qm<br>Stockwerk: 0<br>Miete: 1370 CHF/Monat<br>Miete/qm: 19.30 CHF/Monat<br>Miete/Zimmer: 685.00 CHF/Monat<br>Nebenkosten: 240 CHF/Monat"
+        "description": "Miete: 1370 CHF/Monat<br>Miete/qm: 19.30 CHF/Monat<br>Miete/Zimmer: 685.00 CHF/Monat<br>Nebenkosten: 240 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4855,7 +4855,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 52,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.0192307692307693",
+        "match_accuracy": "0.0192307692307693",
         "price_per_sqm": "32.35294117647059",
         "price_per_room": "825.0",
         "flat_cat": "S",
@@ -4867,7 +4867,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 52 qm<br>Stockwerk: 4<br>Miete: 1650 CHF/Monat<br>Miete/qm: 32.35 CHF/Monat<br>Miete/Zimmer: 825.00 CHF/Monat<br>Nebenkosten: 160 CHF/Monat"
+        "description": "Miete: 1650 CHF/Monat<br>Miete/qm: 32.35 CHF/Monat<br>Miete/Zimmer: 825.00 CHF/Monat<br>Nebenkosten: 160 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4901,7 +4901,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0666666666666667",
+        "match_accuracy": "0.0666666666666667",
         "price_per_sqm": "23.214285714285715",
         "price_per_room": "487.5",
         "flat_cat": "S",
@@ -4913,7 +4913,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 2<br>Miete: 975 CHF/Monat<br>Miete/qm: 23.21 CHF/Monat<br>Miete/Zimmer: 487.50 CHF/Monat<br>Nebenkosten: 135 CHF/Monat"
+        "description": "Miete: 975 CHF/Monat<br>Miete/qm: 23.21 CHF/Monat<br>Miete/Zimmer: 487.50 CHF/Monat<br>Nebenkosten: 135 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4947,7 +4947,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 55,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0181818181818181",
+        "match_accuracy": "0.0181818181818181",
         "price_per_sqm": "19.642857142857142",
         "price_per_room": "550.0",
         "flat_cat": "S",
@@ -4959,7 +4959,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 55 qm<br>Stockwerk: 1<br>Miete: 1100 CHF/Monat<br>Miete/qm: 19.64 CHF/Monat<br>Miete/Zimmer: 550.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
+        "description": "Miete: 1100 CHF/Monat<br>Miete/qm: 19.64 CHF/Monat<br>Miete/Zimmer: 550.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -4993,7 +4993,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 75,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0533333333333332",
+        "match_accuracy": "0.0533333333333332",
         "price_per_sqm": "19.240506329113924",
         "price_per_room": "760.0",
         "flat_cat": "S",
@@ -5005,7 +5005,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 75 qm<br>Stockwerk: 1<br>Miete: 1520 CHF/Monat<br>Miete/qm: 19.24 CHF/Monat<br>Miete/Zimmer: 760.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+        "description": "Miete: 1520 CHF/Monat<br>Miete/qm: 19.24 CHF/Monat<br>Miete/Zimmer: 760.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -5039,7 +5039,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 69,
         "gwr_wstwk": 3402,
-        "gwr_warea_delta": "0.0579710144927537",
+        "match_accuracy": "0.0579710144927537",
         "price_per_sqm": "21.692307692307693",
         "price_per_room": "705.0",
         "flat_cat": "S",
@@ -5051,7 +5051,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 69 qm<br>Stockwerk: 2<br>Miete: 1410 CHF/Monat<br>Miete/qm: 21.69 CHF/Monat<br>Miete/Zimmer: 705.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
+        "description": "Miete: 1410 CHF/Monat<br>Miete/qm: 21.69 CHF/Monat<br>Miete/Zimmer: 705.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -5085,7 +5085,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 32,
         "gwr_wstwk": 3100,
-        "gwr_warea_delta": "0.15625",
+        "match_accuracy": "0.15625",
         "price_per_sqm": "27.77777777777778",
         "price_per_room": "375.0",
         "flat_cat": "S",
@@ -5097,13 +5097,59 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 32 qm<br>Stockwerk: 0<br>Miete: 750 CHF/Monat<br>Miete/qm: 27.78 CHF/Monat<br>Miete/Zimmer: 375.00 CHF/Monat<br>Nebenkosten: 80 CHF/Monat"
+        "description": "Miete: 750 CHF/Monat<br>Miete/qm: 27.78 CHF/Monat<br>Miete/Zimmer: 375.00 CHF/Monat<br>Nebenkosten: 80 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           9.356453895568848,
           47.41701889038086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001441668,
+        "object_ref": "08083.02.0222",
+        "category": "rent",
+        "date": "2021-10-22T09:18:29",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1285,
+        "rent_add": 195,
+        "rent_net": 1090,
+        "rooms": null,
+        "area": 77,
+        "year_built": 1988,
+        "street_number": "Langgasse 11",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4346084594727",
+        "lng": "9.38476085662842",
+        "egid": 10747610,
+        "gwr_wazim": 2,
+        "gwr_warea": 77,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "16.68831168831169",
+        "price_per_room": "642.5",
+        "flat_cat": "S",
+        "cat": "e",
+        "fillColor": "#df9848",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1285 CHF/Monat<br>Miete/qm: 16.69 CHF/Monat<br>Miete/Zimmer: 642.50 CHF/Monat<br>Nebenkosten: 195 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.384760856628418,
+          47.434608459472656
         ]
       }
     },
@@ -5131,7 +5177,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 64,
         "gwr_wstwk": 3103,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "23.59375",
         "price_per_room": "755.0",
         "flat_cat": "S",
@@ -5143,13 +5189,105 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 64 qm<br>Stockwerk: 3<br>Miete: 1510 CHF/Monat<br>Miete/qm: 23.59 CHF/Monat<br>Miete/Zimmer: 755.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
+        "description": "Miete: 1510 CHF/Monat<br>Miete/qm: 23.59 CHF/Monat<br>Miete/Zimmer: 755.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           9.304609298706055,
           47.40623092651367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001448697,
+        "object_ref": "905945.0d7740de-3635-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-10-26T11:02:13",
+        "flatType": null,
+        "floor": "2",
+        "rent": 970,
+        "rent_add": 140,
+        "rent_net": 830,
+        "rooms": null,
+        "area": 34,
+        "year_built": null,
+        "street_number": "Engelgasse 12",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.426586151123",
+        "lng": "9.37471008300781",
+        "egid": 10727110,
+        "gwr_wazim": 2,
+        "gwr_warea": 70,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.514285714285714",
+        "price_per_sqm": "28.529411764705884",
+        "price_per_room": "485.0",
+        "flat_cat": "S",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 970 CHF/Monat<br>Miete/qm: 28.53 CHF/Monat<br>Miete/Zimmer: 485.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.374710083007812,
+          47.42658615112305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001447019,
+        "object_ref": "1071.189.2203.905260.367d0825-3599-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-10-25T17:04:26",
+        "flatType": null,
+        "floor": "2",
+        "rent": 860,
+        "rent_add": 120,
+        "rent_net": 740,
+        "rooms": null,
+        "area": 27,
+        "year_built": null,
+        "street_number": "Rorschacherstrasse 218",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": null,
+        "lng": null,
+        "egid": 1076251,
+        "gwr_wazim": 1,
+        "gwr_warea": 27,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "31.85185185185185",
+        "price_per_room": "860.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 860 CHF/Monat<br>Miete/qm: 31.85 CHF/Monat<br>Miete/Zimmer: 860.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.40232082928263,
+          47.4348146315201
         ]
       }
     },
@@ -5177,7 +5315,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 47,
         "gwr_wstwk": 3101,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "15.74468085106383",
         "price_per_room": "370.0",
         "flat_cat": "S",
@@ -5189,7 +5327,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 47 qm<br>Stockwerk: 1<br>Miete: 740 CHF/Monat<br>Miete/qm: 15.74 CHF/Monat<br>Miete/Zimmer: 370.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 740 CHF/Monat<br>Miete/qm: 15.74 CHF/Monat<br>Miete/Zimmer: 370.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -5223,7 +5361,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 45,
         "gwr_wstwk": 3104,
-        "gwr_warea_delta": "0.2",
+        "match_accuracy": "0.2",
         "price_per_sqm": "23.51851851851852",
         "price_per_room": "635.0",
         "flat_cat": "S",
@@ -5235,7 +5373,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 45 qm<br>Stockwerk: 4<br>Miete: 1270 CHF/Monat<br>Miete/qm: 23.52 CHF/Monat<br>Miete/Zimmer: 635.00 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+        "description": "Miete: 1270 CHF/Monat<br>Miete/qm: 23.52 CHF/Monat<br>Miete/Zimmer: 635.00 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
       },
       "geometry": {
         "type": "Point",
@@ -5269,7 +5407,7 @@
         "gwr_wazim": 2,
         "gwr_warea": 47,
         "gwr_wstwk": 3102,
-        "gwr_warea_delta": "0.0",
+        "match_accuracy": "0.0",
         "price_per_sqm": "16.80851063829787",
         "price_per_room": "395.0",
         "flat_cat": "S",
@@ -5281,7 +5419,7 @@
         "opacity": "0.9",
         "radius": 45,
         "title": "Wohnung 'S'",
-        "description": "Anzahl Zimmer: 2<br>Fl\u00e4che: 47 qm<br>Stockwerk: 2<br>Miete: 790 CHF/Monat<br>Miete/qm: 16.81 CHF/Monat<br>Miete/Zimmer: 395.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+        "description": "Miete: 790 CHF/Monat<br>Miete/qm: 16.81 CHF/Monat<br>Miete/Zimmer: 395.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
       },
       "geometry": {
         "type": "Point",

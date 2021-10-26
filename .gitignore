@@ -132,3 +132,5 @@ dmypy.json
 macos/
 *.pid
 *.db
+
+data/homegate-styled.csv

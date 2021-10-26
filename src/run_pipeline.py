@@ -83,7 +83,7 @@ enriched = transform(
         steps.field_add(name="gwr_wazim", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[2]),
         steps.field_add(name="gwr_warea", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[3]),
         steps.field_add(name="gwr_wstwk", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[4]),
-        steps.field_add(name="gwr_warea_delta", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[5]),
+        steps.field_add(name="match_accuracy", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[5]),
         steps.table_write(path="data/price-monitoring.csv")
     ]
 )
@@ -167,15 +167,15 @@ for size in ["S","M","L"]:
             steps.field_update(name="_geom", type="string"),
             steps.row_filter(function=lambda x: x['flat_cat'] == size),
             steps.field_add(name="title", type="string", function=lambda x: f"Wohnung '{size}'"),
-            steps.field_add(name="description", type="string", function=lambda x: f"Anzahl Zimmer: {x['gwr_wazim']}<br>Fläche: {x['gwr_warea']} qm<br>Stockwerk: {str(x['gwr_wstwk'])[-1]}<br>Miete: {x['rent']} CHF/Monat<br>Miete/qm: {round(x['price_per_sqm'],2)} CHF/Monat<br>Miete/Zimmer: {round(x['price_per_room'],2)} CHF/Monat<br>Nebenkosten: {x['rent_add']} CHF/Monat"),
+            steps.field_add(name="description", type="string", function=lambda x: f"Miete: {x['rent']} CHF/Monat<br>Miete/qm: {round(x['price_per_sqm'],2)} CHF/Monat<br>Miete/Zimmer: {round(x['price_per_room'],2)} CHF/Monat<br>Nebenkosten: {x['rent_add']} CHF/Monat"),
             steps.table_normalize(),
         ]
     )
-    data.write(path=f"data/homegate-styled-{size}.geojson")
+    data.write(path=f"snapshots/geojson/homegate-styled-{size}.geojson")
 
     styled.name = "data"
     styled["mediatype"] = "application/vnd.simplestyle-extended"
-    with open(f"data/homegate-styled-{size}.geojson") as json_file:
+    with open(f"snapshots/geojson/homegate-styled-{size}.geojson") as json_file:
         styled.data = json.load(json_file)
     styled
 
@@ -307,3 +307,13 @@ for size in ["S","M","L"]:
 
     with open(f"snapshots/01-rent-prices-{size}.json", "w") as pkg_file:
         json.dump(pkg, pkg_file, indent=2)
+
+# cleanup for publication
+
+transform(
+    Resource(path="data/price-monitoring.csv"),
+    steps=[
+        steps.field_remove(names=["gwr_wazim","gwr_warea","gwr_wstwk"]),
+        steps.table_write(path="data/price-monitoring.csv"),
+    ]
+)
