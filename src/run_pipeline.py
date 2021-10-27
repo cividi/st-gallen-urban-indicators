@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 from frictionless import Resource, Package, Layout, transform, steps
 from frictionless.plugins.sql import SqlDialect
 from crawl.models import Items, Addresses, GWR_WHG, db_connect
@@ -186,24 +187,12 @@ for size in ["S","M","L"]:
         mediatype = "application/vnd.mapbox-vector-tile",
     )
 
-    wms_noise = dict(
-        name="wms-street-day-noise",
-        path = "https://wms.geo.admin.ch",
-        mediatype = "application/vnd.wms",
-        parameters = {
-            "format": "image/png",
-            "transparent": True,
-            "layers": "ch.bafu.laerm-strassenlaerm_tag",
-            "opacity": 0.5
-        }
-    )
-
     ## Built package
 
     pkg = Package(
         name=f"01-rent-prices-{size}",
         resources=[
-            styled, wms_noise, background_map
+            styled, background_map
         ],
         sources=[
             {
@@ -232,7 +221,7 @@ for size in ["S","M","L"]:
                         "geo:47.43317355684985,9.396247605270359"
                     ],
                     "title": f"Mietpreise Wohnungen {size}",
-                    "description": f"Mietpreise Stadt St. Gallen Wohnungen {size}, Sample: Ende September 2021.",
+                    "description": f"Mietpreise Stadt St. Gallen Wohnungen {size}, Daten: 12.10.2021 - {datetime.strftime(datetime.today(),'%d.%m.%Y')}.",
                     "legend": [
                         {
                             "fillColor": "#0028b8",

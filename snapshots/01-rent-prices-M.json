@@ -14582,17 +14582,6 @@
       "mediatype": "application/vnd.simplestyle-extended"
     },
     {
-      "name": "wms-street-day-noise",
-      "path": "https://wms.geo.admin.ch",
-      "mediatype": "application/vnd.wms",
-      "parameters": {
-        "format": "image/png",
-        "transparent": true,
-        "layers": "ch.bafu.laerm-strassenlaerm_tag",
-        "opacity": 0.5
-      }
-    },
-    {
       "name": "mapbox-background",
       "path": "mapbox://styles/gemeindescan/ckv9xyllc00g215o8bjnh6cmo",
       "mediatype": "application/vnd.mapbox-vector-tile"
@@ -14624,7 +14613,7 @@
           "geo:47.43317355684985,9.396247605270359"
         ],
         "title": "Mietpreise Wohnungen M",
-        "description": "Mietpreise Stadt St. Gallen Wohnungen M, Sample: Ende September 2021.",
+        "description": "Mietpreise Stadt St. Gallen Wohnungen M, Daten: 12.10.2021 - 27.10.2021.",
         "legend": [
           {
             "fillColor": "#0028b8",
