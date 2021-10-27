@@ -211,7 +211,6 @@ for size in ["S","M","L"]:
                 "name": "mapview",
                 "resources": [
                     "mapbox-background",
-                    "wms-street-day-noise",
                     "data",
                 ],
                 "spec": {

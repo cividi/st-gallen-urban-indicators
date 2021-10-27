@@ -14603,7 +14603,6 @@
       "name": "mapview",
       "resources": [
         "mapbox-background",
-        "wms-street-day-noise",
         "data"
       ],
       "spec": {
