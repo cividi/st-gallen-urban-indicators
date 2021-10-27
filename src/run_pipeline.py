@@ -146,6 +146,7 @@ styled = transform(
         steps.table_normalize(),
         steps.field_add(name="flat_cat", type="string", function=lambda x: category_mapping(x["gwr_wazim"], categories_flat)),
         steps.field_add(name="cat", type="string", function=lambda x: category_mapping(x["price_per_room"], categories)),
+        steps.table_write(path="data/price-monitoring.csv"),
         steps.table_normalize(),
         steps.field_add(name="fillColor", type="string", function=lambda x: color_mapping(x["cat"], colors, "fillColor")),
         steps.field_add(name="fillOpacity", type="number", function=lambda x: color_mapping(x["cat"], colors, "fillOpacity")),
