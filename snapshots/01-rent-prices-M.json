@@ -12324,6 +12324,53 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001452236,
+              "object_ref": "23030.03.410030",
+              "category": "rent",
+              "date": "2021-10-27T22:03:13",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1662,
+              "rent_add": 210,
+              "rent_net": 1452,
+              "rooms": null,
+              "area": 92,
+              "year_built": 1976,
+              "street_number": "Sonnrainweg 14",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": "47.4475479125977",
+              "lng": "9.39769744873047",
+              "egid": 10755290,
+              "gwr_egid": 1075529,
+              "gwr_wazim": 4,
+              "gwr_warea": 80,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.15",
+              "price_per_sqm": "18.065217391304348",
+              "price_per_room": "415.5",
+              "flat_cat": "M",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1662 CHF/Monat<br>Miete/qm: 18.07 CHF/Monat<br>Miete/Zimmer: 415.50 CHF/Monat<br>Nebenkosten: 210 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.397697448730469,
+                47.447547912597656
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001424552,
               "object_ref": "211015_4.5 Zi Whg._L2 - 1021.899019.a3e6d79c-2d86-11ec-842e-005056bdbc06",
               "category": "rent",
@@ -14547,7 +14594,7 @@
     },
     {
       "name": "mapbox-background",
-      "path": "mapbox://styles/gemeindescan/ckc4sha4310d21iszp8ri17u2",
+      "path": "mapbox://styles/gemeindescan/ckv9xyllc00g215o8bjnh6cmo",
       "mediatype": "application/vnd.mapbox-vector-tile"
     }
   ],

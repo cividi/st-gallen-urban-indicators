@@ -1,5 +1,5 @@
 import json
-from frictionless import Resource, Package, transform, steps
+from frictionless import Resource, Package, Layout, transform, steps
 from frictionless.plugins.sql import SqlDialect
 from crawl.models import Items, Addresses, GWR_WHG, db_connect
 from sqlalchemy import and_
@@ -182,7 +182,7 @@ for size in ["S","M","L"]:
 
     background_map = dict(
         name="mapbox-background",
-        path = "mapbox://styles/gemeindescan/ckc4sha4310d21iszp8ri17u2",
+        path = "mapbox://styles/gemeindescan/ckv9xyllc00g215o8bjnh6cmo",
         mediatype = "application/vnd.mapbox-vector-tile",
     )
 
@@ -318,3 +318,14 @@ transform(
         steps.table_write(path="data/price-monitoring.csv"),
     ]
 )
+
+# Adding noise and quartier columns
+
+buildings = Resource(
+    path="data/stgallen-buildings.geojson",
+    layout=Layout(pick_fields=["egid","ren_potential","quartier_nummer","quartier_kreis","quartier_quartiergr","quartier_statistisc","LR_DAY","LR_NIGHT","ES","COMM_USE_D","EXP_LIM_D","EXP_LIM_N","EXP_LIM","noise_below"])
+).to_pandas()
+
+prices = Resource(path="data/price-monitoring.csv").to_pandas()
+joined = prices.merge(buildings, left_on="gwr_egid", right_on="egid", how="left")
+joined.to_csv("data/price-monitoring-extended.csv", index=False)
