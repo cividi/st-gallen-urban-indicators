@@ -80,6 +80,7 @@ enriched = transform(
         )
     ),
     steps=[
+        steps.field_add(name="gwr_egid", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[0]),
         steps.field_add(name="gwr_wazim", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[2]),
         steps.field_add(name="gwr_warea", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[3]),
         steps.field_add(name="gwr_wstwk", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[4]),
@@ -313,7 +314,7 @@ for size in ["S","M","L"]:
 transform(
     Resource(path="data/price-monitoring.csv"),
     steps=[
-        steps.field_remove(names=["gwr_wazim","gwr_warea","gwr_wstwk"]),
+        steps.field_remove(names=["gwr_wazim","gwr_warea","gwr_wstwk", "egid"]),
         steps.table_write(path="data/price-monitoring.csv"),
     ]
 )
