@@ -162,6 +162,12 @@ styled = transform(
 
 ### 4. Export as spatial data package (see https://github.com/cividi/spatial-data-package)
 
+legend_addendum = {
+    "S": "1-2 Zimmer",
+    "M": "3-4 Zimmer",
+    "L": "5+ Zimmer",
+}
+
 for size in ["S","M","L"]:
     data = transform(
         Resource("data/homegate-styled.csv"),
@@ -221,7 +227,7 @@ for size in ["S","M","L"]:
                         "geo:47.43317355684985,9.396247605270359"
                     ],
                     "title": f"Mietpreise Wohnungen {size}",
-                    "description": f"Mietpreise Stadt St. Gallen Wohnungen {size}, Daten: 12.10.2021 - {datetime.strftime(datetime.today(),'%d.%m.%Y')}.",
+                    "description": f"Mietpreise Stadt St. Gallen Wohnungen {size} ({legend_addendum[size]}), Daten: 12.10.2021 - {datetime.strftime(datetime.today(),'%d.%m.%Y')}.",
                     "legend": [
                         {
                             "fillColor": "#0028b8",
@@ -288,6 +294,17 @@ for size in ["S","M","L"]:
                             "shape": "circle",
                             "primary": True,
                             "label": "750-1750 CHF/Zimmer",
+                        },
+                        {
+                            "fillColor": "#c51b1b",
+                            "fillOpacity": 1,
+                            "strokeColor": "#ffffff",
+                            "strokeOpacity": 0,
+                            "strokeWidth": 0,
+                            "size": 1,
+                            "shape": "square",
+                            "primary": True,
+                            "label": "Gebäude über Lärmimmissionsgrenzwert",
                         },
                     ]
                 },

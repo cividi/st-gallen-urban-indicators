@@ -2251,7 +2251,7 @@
           "geo:47.43317355684985,9.396247605270359"
         ],
         "title": "Mietpreise Wohnungen L",
-        "description": "Mietpreise Stadt St. Gallen Wohnungen L, Daten: 12.10.2021 - 27.10.2021.",
+        "description": "Mietpreise Stadt St. Gallen Wohnungen L (5+ Zimmer), Daten: 12.10.2021 - 28.10.2021.",
         "legend": [
           {
             "fillColor": "#0028b8",
@@ -2318,6 +2318,17 @@
             "shape": "circle",
             "primary": true,
             "label": "750-1750 CHF/Zimmer"
+          },
+          {
+            "fillColor": "#c51b1b",
+            "fillOpacity": 1,
+            "strokeColor": "#ffffff",
+            "strokeOpacity": 0,
+            "strokeWidth": 0,
+            "size": 1,
+            "shape": "square",
+            "primary": true,
+            "label": "Geb\u00e4ude \u00fcber L\u00e4rmimmissionsgrenzwert"
           }
         ]
       },
