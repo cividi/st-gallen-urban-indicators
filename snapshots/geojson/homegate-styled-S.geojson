@@ -5691,6 +5691,53 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001454103,
+        "object_ref": "1034.10.2021.907377.1610554a-37e9-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-10-28T14:45:37",
+        "flatType": null,
+        "floor": null,
+        "rent": 1180,
+        "rent_add": 120,
+        "rent_net": 1060,
+        "rooms": null,
+        "area": 30,
+        "year_built": null,
+        "street_number": "Langgasse 46",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4370613098145",
+        "lng": "9.38827133178711",
+        "egid": 10749380,
+        "gwr_egid": 1074938,
+        "gwr_wazim": 1,
+        "gwr_warea": 30,
+        "gwr_wstwk": 3401,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "39.333333333333336",
+        "price_per_room": "1180.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1180 CHF/Monat<br>Miete/qm: 39.33 CHF/Monat<br>Miete/Zimmer: 1180.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38827133178711,
+          47.43706130981445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3000700663,
         "object_ref": "4548.01.0101",
         "category": "rent",
