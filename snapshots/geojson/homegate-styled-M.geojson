@@ -11707,6 +11707,100 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001457042,
+        "object_ref": "00241.01.0022",
+        "category": "rent",
+        "date": "2021-10-29T17:17:31",
+        "flatType": null,
+        "floor": "4",
+        "rent": 1390,
+        "rent_add": 240,
+        "rent_net": 1150,
+        "rooms": null,
+        "area": 71,
+        "year_built": 1957,
+        "street_number": "Vonwilstrasse 51",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4194450378418",
+        "lng": "9.35537147521973",
+        "egid": 10702790,
+        "gwr_egid": 1070279,
+        "gwr_wazim": 3,
+        "gwr_warea": 71,
+        "gwr_wstwk": 3104,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "19.577464788732396",
+        "price_per_room": "463.3333333333333",
+        "flat_cat": "M",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1390 CHF/Monat<br>Miete/qm: 19.58 CHF/Monat<br>Miete/Zimmer: 463.33 CHF/Monat<br>Nebenkosten: 240 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355371475219727,
+          47.4194450378418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001457039,
+        "object_ref": "00913.02.0012",
+        "category": "rent",
+        "date": "2021-10-29T17:17:40",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1570,
+        "rent_add": 230,
+        "rent_net": 1340,
+        "rooms": null,
+        "area": 84,
+        "year_built": 1984,
+        "street_number": "Feldbachstrasse 4",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4211158752441",
+        "lng": "9.35555934906006",
+        "egid": 10708420,
+        "gwr_egid": 1070842,
+        "gwr_wazim": 3,
+        "gwr_warea": 84,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "18.69047619047619",
+        "price_per_room": "523.3333333333334",
+        "flat_cat": "M",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1570 CHF/Monat<br>Miete/qm: 18.69 CHF/Monat<br>Miete/Zimmer: 523.33 CHF/Monat<br>Nebenkosten: 230 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355559349060059,
+          47.42111587524414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001421370,
         "object_ref": "47963593",
         "category": "rent",
@@ -11748,6 +11842,53 @@
         "coordinates": [
           9.385141372680664,
           47.43540954589844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001457041,
+        "object_ref": "00241.01.0045",
+        "category": "rent",
+        "date": "2021-10-29T17:17:55",
+        "flatType": null,
+        "floor": "8",
+        "rent": 2445,
+        "rent_add": 340,
+        "rent_net": 2105,
+        "rooms": null,
+        "area": 148,
+        "year_built": 1957,
+        "street_number": "Vonwilstrasse 51",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4194450378418",
+        "lng": "9.35537147521973",
+        "egid": 10702790,
+        "gwr_egid": 1070279,
+        "gwr_wazim": 4,
+        "gwr_warea": 148,
+        "gwr_wstwk": 3108,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "16.52027027027027",
+        "price_per_room": "611.25",
+        "flat_cat": "M",
+        "cat": "e",
+        "fillColor": "#df9848",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 2445 CHF/Monat<br>Miete/qm: 16.52 CHF/Monat<br>Miete/Zimmer: 611.25 CHF/Monat<br>Nebenkosten: 340 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355371475219727,
+          47.4194450378418
         ]
       }
     },
