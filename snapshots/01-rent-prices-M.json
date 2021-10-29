@@ -12559,6 +12559,53 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001457144,
+              "object_ref": "1504.05.0301",
+              "category": "rent",
+              "date": "2021-10-29T21:54:02",
+              "flatType": null,
+              "floor": "3",
+              "rent": 1430,
+              "rent_add": 250,
+              "rent_net": 1180,
+              "rooms": null,
+              "area": 79,
+              "year_built": 1960,
+              "street_number": "Burenb\u00fcchelstr. 11",
+              "city": "St. Gallen",
+              "zip": 9016,
+              "lat": "47.4361267089844",
+              "lng": "9.41000270843506",
+              "egid": 10766530,
+              "gwr_egid": 1076653,
+              "gwr_wazim": 4,
+              "gwr_warea": 79,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "18.10126582278481",
+              "price_per_room": "357.5",
+              "flat_cat": "M",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1430 CHF/Monat<br>Miete/qm: 18.10 CHF/Monat<br>Miete/Zimmer: 357.50 CHF/Monat<br>Nebenkosten: 250 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.410002708435059,
+                47.436126708984375
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001424552,
               "object_ref": "211015_4.5 Zi Whg._L2 - 1021.899019.a3e6d79c-2d86-11ec-842e-005056bdbc06",
               "category": "rent",
