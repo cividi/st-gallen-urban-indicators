@@ -6120,6 +6120,100 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001456385,
+              "object_ref": "197301.01.00203",
+              "category": "rent",
+              "date": "2021-10-29T14:35:51",
+              "flatType": null,
+              "floor": "2",
+              "rent": 740,
+              "rent_add": 105,
+              "rent_net": 635,
+              "rooms": null,
+              "area": 22,
+              "year_built": 1971,
+              "street_number": "Rehetobelstr. 2",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4330062866211",
+              "lng": "9.39983940124512",
+              "egid": 10758180,
+              "gwr_egid": 1075818,
+              "gwr_wazim": 1,
+              "gwr_warea": 22,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "33.63636363636363",
+              "price_per_room": "740.0",
+              "flat_cat": "S",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 740 CHF/Monat<br>Miete/qm: 33.64 CHF/Monat<br>Miete/Zimmer: 740.00 CHF/Monat<br>Nebenkosten: 105 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.399839401245117,
+                47.433006286621094
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001456527,
+              "object_ref": "908182.6a12dc92-38b1-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2021-10-29T14:36:00",
+              "flatType": null,
+              "floor": "4",
+              "rent": 840,
+              "rent_add": 120,
+              "rent_net": 720,
+              "rooms": null,
+              "area": 40,
+              "year_built": null,
+              "street_number": "Rorschacher Strasse 183",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4329643249512",
+              "lng": "9.39859294891357",
+              "egid": 10761980,
+              "gwr_egid": 1076198,
+              "gwr_wazim": 2,
+              "gwr_warea": 52,
+              "gwr_wstwk": 3104,
+              "match_accuracy": "0.230769230769231",
+              "price_per_sqm": "21.0",
+              "price_per_room": "420.0",
+              "flat_cat": "S",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 840 CHF/Monat<br>Miete/qm: 21.00 CHF/Monat<br>Miete/Zimmer: 420.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.398592948913574,
+                47.43296432495117
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3000700663,
               "object_ref": "4548.01.0101",
               "category": "rent",
@@ -6255,6 +6349,53 @@
               "coordinates": [
                 9.36705650912819,
                 47.4174237001231
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001456548,
+              "object_ref": "7145.2512",
+              "category": "rent",
+              "date": "2021-10-29T14:35:39",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1430,
+              "rent_add": 180,
+              "rent_net": 1250,
+              "rooms": null,
+              "area": 61,
+              "year_built": 2018,
+              "street_number": "St. Georgenstrasse 159",
+              "city": "St. Gallen",
+              "zip": 9011,
+              "lat": null,
+              "lng": null,
+              "egid": 191606857,
+              "gwr_egid": 191606857,
+              "gwr_wazim": 2,
+              "gwr_warea": 62,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0161290322580645",
+              "price_per_sqm": "23.442622950819672",
+              "price_per_room": "715.0",
+              "flat_cat": "S",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1430 CHF/Monat<br>Miete/qm: 23.44 CHF/Monat<br>Miete/Zimmer: 715.00 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.39104272688362,
+                47.4147356928072
               ]
             }
           }

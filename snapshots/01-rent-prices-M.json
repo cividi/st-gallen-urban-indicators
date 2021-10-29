@@ -14580,6 +14580,53 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001456492,
+              "object_ref": "8904.63.0101",
+              "category": "rent",
+              "date": "2021-10-29T14:36:09",
+              "flatType": null,
+              "floor": "3",
+              "rent": 1660,
+              "rent_add": 265,
+              "rent_net": 1395,
+              "rooms": null,
+              "area": 101,
+              "year_built": 1995,
+              "street_number": "Brauerstrasse 85b",
+              "city": "St. Gallen",
+              "zip": 9016,
+              "lat": "47.4431800842285",
+              "lng": "9.4091739654541",
+              "egid": 23630680,
+              "gwr_egid": 2363068,
+              "gwr_wazim": 4,
+              "gwr_warea": 101,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "16.435643564356436",
+              "price_per_room": "415.0",
+              "flat_cat": "M",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1660 CHF/Monat<br>Miete/qm: 16.44 CHF/Monat<br>Miete/Zimmer: 415.00 CHF/Monat<br>Nebenkosten: 265 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.409173965454102,
+                47.443180084228516
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3000837488,
               "object_ref": "6065.3551",
               "category": "rent",
@@ -14715,6 +14762,53 @@
               "coordinates": [
                 9.36337702835567,
                 47.4131755625068
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001456513,
+              "object_ref": "3333092",
+              "category": "rent",
+              "date": "2021-10-29T14:36:32",
+              "flatType": null,
+              "floor": "2",
+              "rent": 1390,
+              "rent_add": 200,
+              "rent_net": 1190,
+              "rooms": null,
+              "area": 80,
+              "year_built": null,
+              "street_number": "Teufenerstrasse 55",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": null,
+              "lng": null,
+              "egid": 1072127,
+              "gwr_egid": 1072127,
+              "gwr_wazim": 4,
+              "gwr_warea": 90,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.111111111111111",
+              "price_per_sqm": "17.375",
+              "price_per_room": "347.5",
+              "flat_cat": "M",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1390 CHF/Monat<br>Miete/qm: 17.38 CHF/Monat<br>Miete/Zimmer: 347.50 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.36798685944395,
+                47.4178580121799
               ]
             }
           }
