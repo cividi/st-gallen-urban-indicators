@@ -1,9 +1,8 @@
 on:
-  schedule:
-    - cron: "55 * * * *"
   push:
     paths:
       - 'src/**.py'
+      - 'data/**.csv'
     branches:
       - "main"
   workflow_dispatch:
