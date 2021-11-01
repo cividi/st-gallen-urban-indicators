@@ -1,0 +1,34 @@
+{
+    "resources": [
+        {
+            "name": "mapbox-background",
+            "path": "mapbox://styles/gemeindescan/ckupq2yhy0pqe17oi2khezf9a",
+            "mediatype": "application/vnd.mapbox-vector-tile"
+        }
+    ],
+    "name": "03-aerial",
+    "sources": [
+        {
+            "title": "Karte: Mapbox, \u00a9 OpenStreetMap",
+            "url": "https://www.openstreetmap.org/copyright"
+        }
+    ],
+    "views": [
+        {
+            "name": "mapview",
+            "resources": [
+                "mapbox-background"
+            ],
+            "spec": {
+                "bounds": [
+                    "geo:47.41525506820663,9.352516279706524",
+                    "geo:47.43317355684985,9.396247605270359"
+                ],
+                "title": "Satelliten Bild",
+                "description": "",
+                "legend": []
+            },
+            "specType": "gemeindescanSnapshot"
+        }
+    ]
+}

@@ -22,6 +22,12 @@
     02-rent-bauzonen:
       bfsNumber: 3203
       topic: Rent
+    03-aerial:
+      bfsNumber: 3203
+      topic: Perimeter
+    'Streetwise: Safety':
+      bfsNumber: 3203
+      topic: Streetwise
     outline-map:
       bfsNumber: 3203
       topic: Perimeter
