@@ -19,50 +19,99 @@ schema:
   fields:
     - name: id
       type: integer
+      title: ID
+      description: The canonical homegate id
     - name: object_ref
       type: string
+      title: Object Reference
+      description: Reference (set by the advertiser)
     - name: category
       type: string
+      title: Category
+      description: Category (set by the advertiser)
     - name: date
       type: datetime
+      title: Date and Time
+      description: Date and time ad was first seen
+      format: any
     - name: flatType
       type: any
+      title: Flat Type
+      description: Flat type (set by the advertiser)
     - name: floor
       type: string
+      title: Floor
+      description: Floor (set by the advertiser)
     - name: rent
       type: integer
+      title: Rent
+      description: Monthly rent price including utility costs
     - name: rent_add
       type: integer
+      title: Monthly utility price
+      description: Utility 
     - name: rent_net
       type: integer
+      title: Net rent
+      description: Monthly rent price excluding utlility costs
     - name: rooms
       type: any
+      title: Number of rooms
+      description: Number of rooms (set by the advertiser)
     - name: area
       type: integer
+      title: Apartment Surface
+      description: Apartment surface in square meters (set by the advertiser)
     - name: year_built
       type: integer
+      title: Construction year
+      description: Year the building was constructed (set by the advertiser)
     - name: street_number
       type: string
+      title: Street Name and House Number
+      description: Street name and house number of apartment (set by the advertiser)
     - name: city
       type: string
+      title: City Name
+      description: City name of apartment (set by the advertiser)
     - name: zip
       type: integer
+      title: ZIP code
+      description: ZIP code of apartment (set by the advertiser)
     - name: lat
       type: number
+      title: Latitude
+      description: WGS84 (GPS) Latitude of building
     - name: lng
       type: number
+      title: Longitude
+      description: WGS84 (GPS) Longitude of building
     - name: wkt
       type: string
+      title: WKT Representation
+      description: Well Known Text representation of latitude and longitude
     - name: gwr_egid
       type: integer
+      title: GWR EGID
+      description: Matched federal building id from housing register (from address via Swisstopo/GWR)
     - name: match_accuracy
       type: number
+      title: Accuracy of GWR match
+      description: Overlap of GWR entry and homegate data
     - name: price_per_sqm
       type: number
+      title: Price per sqm
+      description: Price per square meter (square meters based on GWR match)
     - name: price_per_room
       type: number
+      title: Price per room
+      description: Price per room (rooms based on GWR match)
     - name: flat_cat
       type: string
+      title: Size class
+      description: Size class of apartment (S, M or L)
     - name: cat
       type: string
+      title: Color class
+      description: Class for coloring
 scheme: file
