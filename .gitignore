@@ -133,4 +133,4 @@ macos/
 *.pid
 *.db
 
-data/homegate-styled.csv
+data/price-monitoring/homegate-styled.csv

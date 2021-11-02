@@ -1,5 +1,5 @@
 {
-    "name": "Streetwise: Safety",
+    "name": "streetwise-safety",
     "title": "Streetwise Sicherheit",
     "description": "Die Bewertung (\u00abScore\u00bb) basiert auf Bilddaten aus Mapillary und der durch Crowdsourcing untersuchten visuellen Wahrnehmung \u00f6ffentlicher R\u00e4ume im Hinblick auf Sicherheit (\u00abwo f\u00fchlst du dich sicherer?\u00bb).",
     "version": "1.0.0",
@@ -33,8 +33,8 @@
                 "description": "Die Bewertung (\u00abScore\u00bb) basiert auf Bilddaten aus Mapillary und der durch Crowdsourcing untersuchten visuellen Wahrnehmung \u00f6ffentlicher R\u00e4ume im Hinblick auf Sicherheit (\u00abwo f\u00fchlst du dich sicherer?\u00bb).",
                 "attribution": "",
                 "bounds": [
-                    "geo:47.390000,9.290000",
-                    "geo:47.460000,9.440000"
+                    "geo:47.41525506820663,9.352516279706524",
+                    "geo:47.43317355684985,9.396247605270359"
                 ],
                 "legend": [
                     {

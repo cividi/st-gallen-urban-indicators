@@ -25,7 +25,7 @@ Python frameworks and libraries used: [scrapy](https://docs.scrapy.org/en/latest
 
 ### Data
 
-The data can be found in [`data/price-monitoring.csv`](data/price-monitoring.csv).
+The data can be found in [`data/price-monitoring/price-monitoring.csv`](data/price-monitoring/price-monitoring.csv).
 
 ### Developer
 

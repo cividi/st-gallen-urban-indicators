@@ -86,13 +86,13 @@ enriched = transform(
         steps.field_add(name="gwr_warea", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[3]),
         steps.field_add(name="gwr_wstwk", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[4]),
         steps.field_add(name="match_accuracy", function=lambda x: get_gwr_data(x["egid"], x["area"], x["floor"])[5]),
-        steps.table_write(path="data/price-monitoring.csv")
+        steps.table_write(path="data/price-monitoring/price-monitoring.csv")
     ]
 )
 
 ### 3. Classify and Style data
 
-res = Resource("data/price-monitoring.csv")
+res = Resource("data/price-monitoring/price-monitoring.csv")
 
 categories_flat = [
     { "from": 1, "to": 3, "cat": "S"},
@@ -134,7 +134,7 @@ def color_mapping(value, mapping, key):
 
 
 styled = transform(
-    "data/price-monitoring.csv",
+    "data/price-monitoring/price-monitoring.csv",
     steps=[
         steps.row_filter(formula="area is not ''"),
         steps.row_filter(formula="gwr_warea is not ''"),
@@ -146,7 +146,7 @@ styled = transform(
         steps.table_normalize(),
         steps.field_add(name="flat_cat", type="string", function=lambda x: category_mapping(x["gwr_wazim"], categories_flat)),
         steps.field_add(name="cat", type="string", function=lambda x: category_mapping(x["price_per_room"], categories)),
-        steps.table_write(path="data/price-monitoring.csv"),
+        steps.table_write(path="data/price-monitoring/price-monitoring.csv"),
         steps.table_normalize(),
         steps.field_add(name="fillColor", type="string", function=lambda x: color_mapping(x["cat"], colors, "fillColor")),
         steps.field_add(name="fillOpacity", type="number", function=lambda x: color_mapping(x["cat"], colors, "fillOpacity")),
@@ -156,7 +156,7 @@ styled = transform(
         steps.field_add(name="radius", type="integer", function=lambda x: color_mapping(x["cat"], colors, "radius")),
         steps.field_update(name="wkt", new_name="_geom"),
         steps.table_normalize(),
-        steps.table_write(path="data/homegate-styled.csv"),
+        steps.table_write(path="data/price-monitoring/homegate-styled.csv"),
     ]
 )
 
@@ -170,7 +170,7 @@ legend_addendum = {
 
 for size in ["S","M","L"]:
     data = transform(
-        Resource("data/homegate-styled.csv"),
+        Resource("data/price-monitoring/homegate-styled.csv"),
         steps = [
             steps.table_normalize(),
             steps.field_update(name="_geom", type="string"),
@@ -318,20 +318,20 @@ for size in ["S","M","L"]:
 # cleanup for publication
 
 transform(
-    Resource(path="data/price-monitoring.csv"),
+    Resource(path="data/price-monitoring/price-monitoring.csv"),
     steps=[
         steps.field_remove(names=["gwr_wazim","gwr_warea","gwr_wstwk", "egid"]),
-        steps.table_write(path="data/price-monitoring.csv"),
+        steps.table_write(path="data/price-monitoring/price-monitoring.csv"),
     ]
 )
 
 # Adding noise and quartier columns
 
 buildings = Resource(
-    path="data/stgallen-buildings.geojson",
+    path="data/price-monitoring/stgallen-buildings.geojson",
     layout=Layout(pick_fields=["egid","ren_potential","quartier_nummer","quartier_kreis","quartier_quartiergr","quartier_statistisc","LR_DAY","LR_NIGHT","ES","COMM_USE_D","EXP_LIM_D","EXP_LIM_N","EXP_LIM","noise_below"])
 ).to_pandas()
 
-prices = Resource(path="data/price-monitoring.csv").to_pandas()
+prices = Resource(path="data/price-monitoring/price-monitoring.csv").to_pandas()
 joined = prices.merge(buildings, left_on="gwr_egid", right_on="egid", how="left")
-joined.to_csv("data/price-monitoring-extended.csv", index=False)
+joined.to_csv("data/price-monitoring/price-monitoring-extended.csv", index=False)
