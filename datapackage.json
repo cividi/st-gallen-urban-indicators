@@ -1,0 +1,947 @@
+{
+  "resources": [
+    {
+      "title": "Apartment Price Monitoring",
+      "description": "Twice hourly updated rental prices of apartment listings in the city of St. Gallen on homegate.ch, enriched with official housing data to calculate prices per room and square meter.",
+      "sources": [
+        {
+          "title": "Homegate.ch",
+          "path": "https://homegate.ch"
+        },
+        {
+          "title": "Gebäude- und Wohnregister",
+          "path": "https://housing-stat.ch"
+        }
+      ],
+      "liceses": [
+        {
+          "name": "ODC-BY-1.0",
+          "path": "https://opendefinition.org/licenses/odc-by",
+          "title": "Open Data Commons Attribution License 1.0"
+        }
+      ],
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "price-monitoring",
+      "path": "data/price-monitoring/price-monitoring.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "object_ref",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          },
+          {
+            "name": "date",
+            "type": "datetime"
+          },
+          {
+            "name": "flatType",
+            "type": "any"
+          },
+          {
+            "name": "floor",
+            "type": "string"
+          },
+          {
+            "name": "rent",
+            "type": "integer"
+          },
+          {
+            "name": "rent_add",
+            "type": "integer"
+          },
+          {
+            "name": "rent_net",
+            "type": "integer"
+          },
+          {
+            "name": "rooms",
+            "type": "any"
+          },
+          {
+            "name": "area",
+            "type": "integer"
+          },
+          {
+            "name": "year_built",
+            "type": "integer"
+          },
+          {
+            "name": "street_number",
+            "type": "string"
+          },
+          {
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "name": "zip",
+            "type": "integer"
+          },
+          {
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "name": "lng",
+            "type": "number"
+          },
+          {
+            "name": "wkt",
+            "type": "string"
+          },
+          {
+            "name": "gwr_egid",
+            "type": "integer"
+          },
+          {
+            "name": "match_accuracy",
+            "type": "number"
+          },
+          {
+            "name": "price_per_sqm",
+            "type": "number"
+          },
+          {
+            "name": "price_per_room",
+            "type": "number"
+          },
+          {
+            "name": "flat_cat",
+            "type": "string"
+          },
+          {
+            "name": "cat",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file"
+    },
+    {
+      "title": "Price Monitoring Extended",
+      "description": "Price monitoring data extended by noise data and neighbourhood.",
+      "liceses": [
+        {
+          "name": "ODC-BY-1.0",
+          "path": "https://opendefinition.org/licenses/odc-by",
+          "title": "Open Data Commons Attribution License 1.0"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Homegate.ch",
+          "path": "https://homegate.ch"
+        },
+        {
+          "title": "Gebäude- und Wohnregister",
+          "path": "https://housing-stat.ch"
+        },
+        {
+          "title": "Geodatensatz \"Strassenlärmbelastungskataster\"",
+          "path": "https://metadata.geo.sg.ch/geo_records/217"
+        },
+        {
+          "title": "Wohnviertel der Stadt St.Gallen (Statistische Quartiere)",
+          "path": "https://daten.stadt.sg.ch/explore/dataset/wohnviertel/information/"
+        }
+      ],
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "price-monitoring-extended",
+      "path": "data/price-monitoring/price-monitoring-extended.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "object_ref",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          },
+          {
+            "name": "date",
+            "type": "datetime"
+          },
+          {
+            "name": "flatType",
+            "type": "any"
+          },
+          {
+            "name": "floor",
+            "type": "string"
+          },
+          {
+            "name": "rent",
+            "type": "integer"
+          },
+          {
+            "name": "rent_add",
+            "type": "number"
+          },
+          {
+            "name": "rent_net",
+            "type": "number"
+          },
+          {
+            "name": "rooms",
+            "type": "any"
+          },
+          {
+            "name": "area",
+            "type": "integer"
+          },
+          {
+            "name": "year_built",
+            "type": "number"
+          },
+          {
+            "name": "street_number",
+            "type": "string"
+          },
+          {
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "name": "zip",
+            "type": "integer"
+          },
+          {
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "name": "lng",
+            "type": "number"
+          },
+          {
+            "name": "wkt",
+            "type": "string"
+          },
+          {
+            "name": "gwr_egid",
+            "type": "integer"
+          },
+          {
+            "name": "match_accuracy",
+            "type": "number"
+          },
+          {
+            "name": "price_per_sqm",
+            "type": "number"
+          },
+          {
+            "name": "price_per_room",
+            "type": "number"
+          },
+          {
+            "name": "flat_cat",
+            "type": "string"
+          },
+          {
+            "name": "cat",
+            "type": "string"
+          },
+          {
+            "name": "egid",
+            "type": "integer"
+          },
+          {
+            "name": "ren_potential",
+            "type": "boolean"
+          },
+          {
+            "name": "LR_DAY",
+            "type": "number"
+          },
+          {
+            "name": "LR_NIGHT",
+            "type": "number"
+          },
+          {
+            "name": "ES",
+            "type": "string"
+          },
+          {
+            "name": "COMM_USE_D",
+            "type": "string"
+          },
+          {
+            "name": "EXP_LIM_D",
+            "type": "string"
+          },
+          {
+            "name": "EXP_LIM_N",
+            "type": "string"
+          },
+          {
+            "name": "EXP_LIM",
+            "type": "string"
+          },
+          {
+            "name": "noise_below",
+            "type": "boolean"
+          },
+          {
+            "name": "quartier_nummer",
+            "type": "integer"
+          },
+          {
+            "name": "quartier_kreis",
+            "type": "string"
+          },
+          {
+            "name": "quartier_quartiergr",
+            "type": "string"
+          },
+          {
+            "name": "quartier_statistisc",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file"
+    },
+    {
+      "path": "snapshots/geojson/homegate-styled-S.geojson",
+      "name": "homegate-styled-s",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "geojson",
+      "hashing": "md5",
+      "dialect": {
+        "geomRepresentation": "WKT"
+      },
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "object_ref",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          },
+          {
+            "name": "date",
+            "type": "datetime"
+          },
+          {
+            "name": "flatType",
+            "type": "yearmonth"
+          },
+          {
+            "name": "floor",
+            "type": "string"
+          },
+          {
+            "name": "rent",
+            "type": "integer"
+          },
+          {
+            "name": "rent_add",
+            "type": "integer"
+          },
+          {
+            "name": "rent_net",
+            "type": "integer"
+          },
+          {
+            "name": "rooms",
+            "type": "yearmonth"
+          },
+          {
+            "name": "area",
+            "type": "integer"
+          },
+          {
+            "name": "year_built",
+            "type": "integer"
+          },
+          {
+            "name": "street_number",
+            "type": "string"
+          },
+          {
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "name": "zip",
+            "type": "integer"
+          },
+          {
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "name": "lng",
+            "type": "number"
+          },
+          {
+            "name": "egid",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_egid",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_wazim",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_warea",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_wstwk",
+            "type": "integer"
+          },
+          {
+            "name": "match_accuracy",
+            "type": "number"
+          },
+          {
+            "name": "price_per_sqm",
+            "type": "number"
+          },
+          {
+            "name": "price_per_room",
+            "type": "number"
+          },
+          {
+            "name": "flat_cat",
+            "type": "string"
+          },
+          {
+            "name": "cat",
+            "type": "string"
+          },
+          {
+            "name": "fillColor",
+            "type": "string"
+          },
+          {
+            "name": "fillOpacity",
+            "type": "number"
+          },
+          {
+            "name": "color",
+            "type": "string"
+          },
+          {
+            "name": "weight",
+            "type": "number"
+          },
+          {
+            "name": "opacity",
+            "type": "number"
+          },
+          {
+            "name": "radius",
+            "type": "integer"
+          },
+          {
+            "name": "title",
+            "type": "string"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          },
+          {
+            "name": "_geom",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "snapshots/geojson/homegate-styled-M.geojson",
+      "name": "homegate-styled-m",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "geojson",
+      "hashing": "md5",
+      "dialect": {
+        "geomRepresentation": "WKT"
+      },
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "object_ref",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          },
+          {
+            "name": "date",
+            "type": "datetime"
+          },
+          {
+            "name": "flatType",
+            "type": "yearmonth"
+          },
+          {
+            "name": "floor",
+            "type": "string"
+          },
+          {
+            "name": "rent",
+            "type": "integer"
+          },
+          {
+            "name": "rent_add",
+            "type": "integer"
+          },
+          {
+            "name": "rent_net",
+            "type": "integer"
+          },
+          {
+            "name": "rooms",
+            "type": "yearmonth"
+          },
+          {
+            "name": "area",
+            "type": "integer"
+          },
+          {
+            "name": "year_built",
+            "type": "integer"
+          },
+          {
+            "name": "street_number",
+            "type": "string"
+          },
+          {
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "name": "zip",
+            "type": "integer"
+          },
+          {
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "name": "lng",
+            "type": "number"
+          },
+          {
+            "name": "egid",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_egid",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_wazim",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_warea",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_wstwk",
+            "type": "integer"
+          },
+          {
+            "name": "match_accuracy",
+            "type": "number"
+          },
+          {
+            "name": "price_per_sqm",
+            "type": "number"
+          },
+          {
+            "name": "price_per_room",
+            "type": "number"
+          },
+          {
+            "name": "flat_cat",
+            "type": "string"
+          },
+          {
+            "name": "cat",
+            "type": "string"
+          },
+          {
+            "name": "fillColor",
+            "type": "string"
+          },
+          {
+            "name": "fillOpacity",
+            "type": "number"
+          },
+          {
+            "name": "color",
+            "type": "string"
+          },
+          {
+            "name": "weight",
+            "type": "number"
+          },
+          {
+            "name": "opacity",
+            "type": "number"
+          },
+          {
+            "name": "radius",
+            "type": "integer"
+          },
+          {
+            "name": "title",
+            "type": "string"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          },
+          {
+            "name": "_geom",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "snapshots/geojson/homegate-styled-L.geojson",
+      "name": "homegate-styled-l",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "geojson",
+      "hashing": "md5",
+      "dialect": {
+        "geomRepresentation": "WKT"
+      },
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "object_ref",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          },
+          {
+            "name": "date",
+            "type": "datetime"
+          },
+          {
+            "name": "flatType",
+            "type": "yearmonth"
+          },
+          {
+            "name": "floor",
+            "type": "string"
+          },
+          {
+            "name": "rent",
+            "type": "integer"
+          },
+          {
+            "name": "rent_add",
+            "type": "integer"
+          },
+          {
+            "name": "rent_net",
+            "type": "integer"
+          },
+          {
+            "name": "rooms",
+            "type": "yearmonth"
+          },
+          {
+            "name": "area",
+            "type": "integer"
+          },
+          {
+            "name": "year_built",
+            "type": "integer"
+          },
+          {
+            "name": "street_number",
+            "type": "string"
+          },
+          {
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "name": "zip",
+            "type": "integer"
+          },
+          {
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "name": "lng",
+            "type": "number"
+          },
+          {
+            "name": "egid",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_egid",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_wazim",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_warea",
+            "type": "integer"
+          },
+          {
+            "name": "gwr_wstwk",
+            "type": "integer"
+          },
+          {
+            "name": "match_accuracy",
+            "type": "number"
+          },
+          {
+            "name": "price_per_sqm",
+            "type": "number"
+          },
+          {
+            "name": "price_per_room",
+            "type": "number"
+          },
+          {
+            "name": "flat_cat",
+            "type": "string"
+          },
+          {
+            "name": "cat",
+            "type": "string"
+          },
+          {
+            "name": "fillColor",
+            "type": "string"
+          },
+          {
+            "name": "fillOpacity",
+            "type": "number"
+          },
+          {
+            "name": "color",
+            "type": "string"
+          },
+          {
+            "name": "weight",
+            "type": "number"
+          },
+          {
+            "name": "opacity",
+            "type": "number"
+          },
+          {
+            "name": "radius",
+            "type": "integer"
+          },
+          {
+            "name": "title",
+            "type": "string"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          },
+          {
+            "name": "_geom",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Streetwise Safety",
+      "description": null,
+      "liceses": [
+        {
+          "name": "ODC-BY-1.0",
+          "path": "https://opendefinition.org/licenses/odc-by",
+          "title": "Open Data Commons Attribution License 1.0"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Streetwise Score",
+          "path": "https://github.com/Streetwise/streetwise-score"
+        }
+      ],
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "streetwise-safety",
+      "path": "data/streetwise/streetwise-safety.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "score",
+            "type": "number"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "integer"
+          },
+          {
+            "name": "label",
+            "type": "string"
+          },
+          {
+            "name": "_geom",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file"
+    },
+    {
+      "path": "snapshots/geojson/streetwise-safety.geojson",
+      "name": "streetwise-safety",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "geojson",
+      "hashing": "md5",
+      "dialect": {
+        "geomRepresentation": "WKT"
+      },
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "score",
+            "type": "number"
+          },
+          {
+            "name": "description",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "integer"
+          },
+          {
+            "name": "label",
+            "type": "string"
+          },
+          {
+            "name": "fill",
+            "type": "boolean"
+          },
+          {
+            "name": "fillColor",
+            "type": "string"
+          },
+          {
+            "name": "fillOpacity",
+            "type": "number"
+          },
+          {
+            "name": "stroke",
+            "type": "boolean"
+          },
+          {
+            "name": "color",
+            "type": "string"
+          },
+          {
+            "name": "opacity",
+            "type": "number"
+          },
+          {
+            "name": "weight",
+            "type": "number"
+          },
+          {
+            "name": "radius",
+            "type": "number"
+          },
+          {
+            "name": "marker-color",
+            "type": "string"
+          },
+          {
+            "name": "marker-size",
+            "type": "string"
+          },
+          {
+            "name": "stroke-width",
+            "type": "integer"
+          },
+          {
+            "name": "stroke-opacity",
+            "type": "integer"
+          },
+          {
+            "name": "_geom",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "stgallen-urban-indicators",
+  "title": "St. Gallen Urban Indicators",
+  "description": "A work in progress collection of indicators of urban life in the city of St. Gallen."
+}

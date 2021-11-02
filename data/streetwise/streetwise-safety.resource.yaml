@@ -1,0 +1,30 @@
+title: Streetwise Safety
+description:
+liceses:
+  - name: ODC-BY-1.0
+    path: https://opendefinition.org/licenses/odc-by
+    title: Open Data Commons Attribution License 1.0
+sources:
+  - title: Streetwise Score
+    path: https://github.com/Streetwise/streetwise-score
+encoding: utf-8
+format: csv
+hashing: md5
+name: streetwise-safety
+path: data/streetwise/streetwise-safety.csv
+profile: tabular-data-resource
+schema:
+  fields:
+    - name: name
+      type: string
+    - name: score
+      type: number
+    - name: description
+      type: string
+    - name: category
+      type: integer
+    - name: label
+      type: string
+    - name: _geom
+      type: string
+scheme: file

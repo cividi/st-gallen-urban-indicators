@@ -1,0 +1,100 @@
+title: Price Monitoring Extended
+description: Price monitoring data extended by noise data and neighbourhood.
+liceses:
+  - name: ODC-BY-1.0
+    path: https://opendefinition.org/licenses/odc-by
+    title: Open Data Commons Attribution License 1.0
+sources:
+  - title: Homegate.ch
+    path: https://homegate.ch
+  - title: Gebäude- und Wohnregister
+    path: https://housing-stat.ch
+  - title: Geodatensatz "Strassenlärmbelastungskataster"
+    path: https://metadata.geo.sg.ch/geo_records/217
+  - title: Wohnviertel der Stadt St.Gallen (Statistische Quartiere)
+    path: https://daten.stadt.sg.ch/explore/dataset/wohnviertel/information/
+encoding: utf-8
+format: csv
+hashing: md5
+name: price-monitoring-extended
+path: data/price-monitoring/price-monitoring-extended.csv
+profile: tabular-data-resource
+schema:
+  fields:
+    - name: id
+      type: integer
+    - name: object_ref
+      type: string
+    - name: category
+      type: string
+    - name: date
+      type: datetime
+    - name: flatType
+      type: any
+    - name: floor
+      type: string
+    - name: rent
+      type: integer
+    - name: rent_add
+      type: number
+    - name: rent_net
+      type: number
+    - name: rooms
+      type: any
+    - name: area
+      type: integer
+    - name: year_built
+      type: number
+    - name: street_number
+      type: string
+    - name: city
+      type: string
+    - name: zip
+      type: integer
+    - name: lat
+      type: number
+    - name: lng
+      type: number
+    - name: wkt
+      type: string
+    - name: gwr_egid
+      type: integer
+    - name: match_accuracy
+      type: number
+    - name: price_per_sqm
+      type: number
+    - name: price_per_room
+      type: number
+    - name: flat_cat
+      type: string
+    - name: cat
+      type: string
+    - name: egid
+      type: integer
+    - name: ren_potential
+      type: boolean
+    - name: LR_DAY
+      type: number
+    - name: LR_NIGHT
+      type: number
+    - name: ES
+      type: string
+    - name: COMM_USE_D
+      type: string
+    - name: EXP_LIM_D
+      type: string
+    - name: EXP_LIM_N
+      type: string
+    - name: EXP_LIM
+      type: string
+    - name: noise_below
+      type: boolean
+    - name: quartier_nummer
+      type: integer
+    - name: quartier_kreis
+      type: string
+    - name: quartier_quartiergr
+      type: string
+    - name: quartier_statistisc
+      type: string
+scheme: file

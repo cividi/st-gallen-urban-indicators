@@ -1,8 +1,19 @@
+title: Apartment Price Monitoring
+description: Twice hourly updated rental prices of apartment listings in the city of St. Gallen on homegate.ch, enriched with official housing data to calculate prices per room and square meter.
+sources:
+  - title: Homegate.ch
+    path: https://homegate.ch
+  - title: Gebäude- und Wohnregister
+    path: https://housing-stat.ch
+liceses:
+  - name: ODC-BY-1.0
+    path: https://opendefinition.org/licenses/odc-by
+    title: Open Data Commons Attribution License 1.0
 encoding: utf-8
 format: csv
 hashing: md5
 name: price-monitoring
-path: price-monitoring.csv
+path: data/price-monitoring/price-monitoring.csv
 profile: tabular-data-resource
 schema:
   fields:
@@ -42,8 +53,16 @@ schema:
       type: number
     - name: wkt
       type: string
-    - name: egid
+    - name: gwr_egid
       type: integer
     - name: match_accuracy
       type: number
+    - name: price_per_sqm
+      type: number
+    - name: price_per_room
+      type: number
+    - name: flat_cat
+      type: string
+    - name: cat
+      type: string
 scheme: file
