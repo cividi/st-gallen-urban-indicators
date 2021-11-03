@@ -328,7 +328,7 @@ transform(
 # Adding noise and quartier columns
 
 buildings = Resource(
-    path="data/stgallen-buildings.geojson",
+    path="data/misc/stgallen-buildings.geojson",
     layout=Layout(pick_fields=["egid","ren_potential","quartier_nummer","quartier_kreis","quartier_quartiergr","quartier_statistisc","LR_DAY","LR_NIGHT","ES","COMM_USE_D","EXP_LIM_D","EXP_LIM_N","EXP_LIM","noise_below"])
 ).to_pandas()
 
