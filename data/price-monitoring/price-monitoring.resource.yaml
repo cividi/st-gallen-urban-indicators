@@ -5,10 +5,10 @@ sources:
     path: https://homegate.ch
   - title: Gebäude- und Wohnregister
     path: https://housing-stat.ch
-liceses:
-  - name: ODC-BY-1.0
-    path: https://opendefinition.org/licenses/odc-by
-    title: Open Data Commons Attribution License 1.0
+licenses:
+  - name: CC-BY
+    path: https://opendefinition.org/licenses/cc-by
+    title: Creative Commons Attribution License 4.0
 encoding: utf-8
 format: csv
 hashing: md5

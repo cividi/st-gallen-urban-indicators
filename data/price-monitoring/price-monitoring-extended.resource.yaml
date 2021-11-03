@@ -1,9 +1,9 @@
 title: Price Monitoring Extended
 description: Price monitoring data extended by noise data and neighbourhood.
-liceses:
-  - name: ODC-BY-1.0
-    path: https://opendefinition.org/licenses/odc-by
-    title: Open Data Commons Attribution License 1.0
+licenses:
+  - name: CC-BY
+    path: https://opendefinition.org/licenses/cc-by
+    title: Creative Commons Attribution License 4.0
 sources:
   - title: Homegate.ch
     path: https://homegate.ch

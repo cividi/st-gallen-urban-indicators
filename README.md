@@ -34,6 +34,7 @@ Python frameworks and libraries used: [scrapy](https://docs.scrapy.org/en/latest
 
 #### Price Monitoring
 - 📈 CSV: [data/price-monitoring/price-monitoring.csv](data/price-monitoring/price-monitoring.csv)
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 **CSV Schema**
 
@@ -73,7 +74,7 @@ Python frameworks and libraries used: [scrapy](https://docs.scrapy.org/en/latest
 - 📦 Snapshot (S): [snapshots/01-rent-prices-S.json](snapshots/01-rent-prices-S.json)
 - 📦 Snapshot (M): [snapshots/01-rent-prices-M.json](snapshots/01-rent-prices-M.json)
 - 📦 Snapshot (L): [snapshots/01-rent-prices-L.json](snapshots/01-rent-prices-L.json)
-
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 **CSV Schema**
 
@@ -108,6 +109,7 @@ For information on Streetwise, please have a look at [streetwise.space](https://
 - 📈 CSV: [data/streetwise/streetwise-safety.csv](data/streetwise/streetwise-safety.csv)
 - 🗺 Styled GeoJSON: [snapshots/geojson/streetwise-safety.geojson](snapshots/geojson/streetwise-safety.geojson)
 - 📦 Snapshot: [snapshots/streetwise-safety.json](snapshots/streetwise-safety.json)
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 **CSV Schema**
 
@@ -154,6 +156,6 @@ cd src && python run_pipeline.py
 
 ## License
 
-This package is licensed by its maintainers under the Public Domain Attribution and License.
+This package and most data sources are licensed by its maintainers under the CC BY 2.0 license.
 
 If you intended to use these data in a public or commercial product, please check the data sources themselves for any specific restrictions, e.g. looking at the sources and licenses listed in [datapackage.json](datapackage.json).

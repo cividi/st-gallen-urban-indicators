@@ -1,9 +1,9 @@
 description: Streetwise Safety
 format: csv
 licenses:
-  - name: ODC-BY-1.0
-    path: https://opendefinition.org/licenses/odc-by
-    title: Open Data Commons Attribution License 1.0
+  - name: CC-BY
+    path: https://opendefinition.org/licenses/cc-by
+    title: Creative Commons Attribution License 4.0
 name: streetwise-safety
 path: data/streetwise/streetwise-safety.csv
 profile: tabular-data-resource
