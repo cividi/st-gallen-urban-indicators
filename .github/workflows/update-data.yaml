@@ -39,6 +39,7 @@ jobs:
         uses: actions-x/commit@v2
   publish:
     runs-on: ubuntu-latest
+    needs: update
     steps:
       - uses: actions/checkout@master
       # Upload from repo and fetch data packages in workspace (newer wins)
