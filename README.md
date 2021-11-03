@@ -9,7 +9,13 @@ Table of contents
 2. [public space qualities](#streetwise)
 3. imissions like noise
 
-Output maps: [https://sandbox.dfour.space/de/0SF96/M3JDL6/](https://sandbox.dfour.space/de/0SF96/M3JDL6/)
+compiling visual maps, automatically published to [dføur](https://dfour.space): [https://sandbox.dfour.space/de/0SF96/M3JDL6/](https://sandbox.dfour.space/de/0SF96/M3JDL6/)
+
+## Data Package
+
+All data in this repository is packaged as a [Frictionless](https://frictionlessdata.io) [Data Package](https://specs.frictionlessdata.io/data-package/). Some aspects are presented below in a human readable way. For details please check [datapackage.json](datapackage.json).
+
+All maps presented in the [output workspace](https://sandbox.dfour.space/de/0SF96/M3JDL6/) are based on the [spatial data package](https://github.com/cividi/spatial-data-package), a building block for [dføur](https://dfour.space), a spatial data collaboration platform used above and available as open source as [spatial data package platform](https://github.com/cividi/spatial-data-package-platform).
 
 ## Rental Prices
 
@@ -26,7 +32,10 @@ Python frameworks and libraries used: [scrapy](https://docs.scrapy.org/en/latest
 
 ### Data
 
-#### [data/price-monitoring/price-monitoring.csv](data/price-monitoring/price-monitoring.csv)
+#### Price Monitoring
+- 📈 CSV: [data/price-monitoring/price-monitoring.csv](data/price-monitoring/price-monitoring.csv)
+
+**CSV Schema**
 
 | name           | type     | title                        | description                                                                        | format |
 | -------------- | -------- | ---------------------------- | ---------------------------------------------------------------------------------- | ------ |
@@ -55,9 +64,21 @@ Python frameworks and libraries used: [scrapy](https://docs.scrapy.org/en/latest
 | flat_cat       | string   | Size class                   | Size class of apartment (S, M or L)                                                |        |
 | cat            | string   | Color class                  | Class for coloring                                                                 |        |
 
-#### [data/price-monitoring/price-monitoring-extended.csv](data/price-monitoring/price-monitoring-extended.csv)
+#### Price Monitoring extended
 
-additional columns (compared to `data/price-monitoring/price-monitoring.csv`)
+- 📈 CSV: [data/price-monitoring/price-monitoring-extended.csv](data/price-monitoring/price-monitoring-extended.csv)
+- 🗺 Styled GeoJSON (S): [snapshots/geojson/homegate-styled-S.geojson](snapshots/geojson/homegate-styled-S.geojson)
+- 🗺 Styled GeoJSON (M): [snapshots/geojson/homegate-styled-M.geojson](snapshots/geojson/homegate-styled-M.geojson)
+- 🗺 Styled GeoJSON (L): [snapshots/geojson/homegate-styled-L.geojson](snapshots/geojson/homegate-styled-L.geojson)
+- 📦 Snapshot (S): [snapshots/01-rent-prices-S.json](snapshots/01-rent-prices-S.json)
+- 📦 Snapshot (M): [snapshots/01-rent-prices-M.json](snapshots/01-rent-prices-M.json)
+- 📦 Snapshot (L): [snapshots/01-rent-prices-L.json](snapshots/01-rent-prices-L.json)
+
+
+**CSV Schema**
+
+⚠️ Note: only additional columns (compared to `data/price-monitoring/price-monitoring.csv`) are shown here, for additional columns see above.
+
 | name           | type     | title                        | description                                                                        | format |
 | -------------- | -------- | ---------------------------- | ---------------------------------------------------------------------------------- | ------ |
 | egid                | integer  | GWR EGID                        | Matched federal building id from housing register (from address via Swisstopo/GWR)                           |        |
@@ -82,6 +103,13 @@ additional columns (compared to `data/price-monitoring/price-monitoring.csv`)
 For information on Streetwise, please have a look at [streetwise.space](https://streetwise.space/about) or [Streetwise on GitHub](https://github.com/Streetwise).
 
 ### Data
+
+#### Safety Score
+- 📈 CSV: [data/streetwise/streetwise-safety.csv](data/streetwise/streetwise-safety.csv)
+- 🗺 Styled GeoJSON: [snapshots/geojson/streetwise-safety.geojson](snapshots/geojson/streetwise-safety.geojson)
+- 📦 Snapshot: [snapshots/streetwise-safety.json](snapshots/streetwise-safety.json)
+
+**CSV Schema**
 
 | name        | title                     | type    | description                                                   |
 | ----------- | ------------------------- | ------- | ------------------------------------------------------------- |
@@ -124,3 +152,8 @@ Run analysis and styling pipeline
 cd src && python run_pipeline.py
 ```
 
+## License
+
+This package is licensed by its maintainers under the Public Domain Attribution and License.
+
+If you intended to use these data in a public or commercial product, please check the data sources themselves for any specific restrictions, e.g. looking at the sources and licenses listed in [datapackage.json](datapackage.json).
