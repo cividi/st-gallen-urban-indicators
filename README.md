@@ -7,7 +7,7 @@ A work in progress repository collecting data, links to datasets and analysis fo
 Table of contents
 1. [rental prices](#rental-prices)
 2. [public space qualities](#streetwise)
-3. imissions like [noise]()
+3. imissions like noise
 
 Output maps: [https://sandbox.dfour.space/de/0SF96/M3JDL6/](https://sandbox.dfour.space/de/0SF96/M3JDL6/)
 
@@ -79,13 +79,20 @@ additional columns (compared to `data/price-monitoring/price-monitoring.csv`)
 
 ### Method / Source
 
-### Data
-
-## Noise
-
-### Method / Source
+For information on Streetwise, please have a look at [streetwise.space](https://streetwise.space/about) or [Streetwise on GitHub](https://github.com/Streetwise).
 
 ### Data
+
+| name        | title                     | type    | description                                                   |
+| ----------- | ------------------------- | ------- | ------------------------------------------------------------- |
+| name        | Mapillary ID              | string  |                                                               |
+| score       | Streetwise Safety Score   | number  |                                                               |
+| description | Tooltip Text              | string  |                                                               |
+| category    | Streetwise Score Category | integer |                                                               |
+| label       | Streetwise Score Label    | string  |                                                               |
+| _geom       | WKT geolocation           | string  | WKT representation of geo location                            |
+| lat         | Latitude                  | string  | Latitude of source image rated with Streetwise Safety Score.  |
+| lng         | Longitude                 | string  | Longitude of source image rated with Streetwise Safety Score. |
 
 ## For developers
 

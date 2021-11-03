@@ -447,24 +447,15 @@
       "scheme": "file"
     },
     {
-      "title": "Streetwise Safety",
-      "description": "Streetwise scores for safety.",
-      "liceses": [
+      "description": "Streetwise Safety",
+      "format": "csv",
+      "licenses": [
         {
           "name": "ODC-BY-1.0",
           "path": "https://opendefinition.org/licenses/odc-by",
           "title": "Open Data Commons Attribution License 1.0"
         }
       ],
-      "sources": [
-        {
-          "title": "Streetwise Score",
-          "path": "https://github.com/Streetwise/streetwise-score"
-        }
-      ],
-      "encoding": "utf-8",
-      "format": "csv",
-      "hashing": "md5",
       "name": "streetwise-safety",
       "path": "data/streetwise/streetwise-safety.csv",
       "profile": "tabular-data-resource",
@@ -472,31 +463,57 @@
         "fields": [
           {
             "name": "name",
+            "title": "Mapillary ID",
             "type": "string"
           },
           {
             "name": "score",
+            "title": "Streetwise Safety Score",
             "type": "number"
           },
           {
             "name": "description",
+            "title": "Tooltip Text",
             "type": "string"
           },
           {
             "name": "category",
+            "title": "Streetwise Score Category",
             "type": "integer"
           },
           {
             "name": "label",
+            "title": "Streetwise Score Label",
             "type": "string"
           },
           {
+            "description": "WKT representation of geo location",
             "name": "_geom",
+            "title": "WKT geolocation",
+            "type": "string"
+          },
+          {
+            "description": "Latitude of source image rated with Streetwise Safety Score.",
+            "name": "lat",
+            "title": "Latitude",
+            "type": "string"
+          },
+          {
+            "description": "Longitude of source image rated with Streetwise Safety Score.",
+            "name": "lng",
+            "title": "Longitude",
             "type": "string"
           }
         ]
       },
-      "scheme": "file"
+      "scheme": "",
+      "sources": [
+        {
+          "path": "https://github.com/streetwise/streetwise-score",
+          "title": "Streetwise Safety"
+        }
+      ],
+      "title": "Streetwise Safety"
     }
   ],
   "name": "st-gallen-urban-indicators",
