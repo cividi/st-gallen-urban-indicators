@@ -4851,6 +4851,53 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001465093,
+              "object_ref": "430 / 2040.(6743447)",
+              "category": "rent",
+              "date": "2021-11-03T13:09:35",
+              "flatType": null,
+              "floor": "4",
+              "rent": 1050,
+              "rent_add": 200,
+              "rent_net": 850,
+              "rooms": null,
+              "area": 47,
+              "year_built": null,
+              "street_number": "Dietlistrasse 35",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4257621765137",
+              "lng": "9.36223983764648",
+              "egid": 10708690,
+              "gwr_egid": 1070869,
+              "gwr_wazim": 2,
+              "gwr_warea": 52,
+              "gwr_wstwk": 3104,
+              "match_accuracy": "0.0961538461538461",
+              "price_per_sqm": "22.340425531914892",
+              "price_per_room": "525.0",
+              "flat_cat": "S",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1050 CHF/Monat<br>Miete/qm: 22.34 CHF/Monat<br>Miete/Zimmer: 525.00 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.362239837646484,
+                47.42576217651367
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001315315,
               "object_ref": "874726.085bb4e6-0b0e-11ec-8c59-005056bdbc06",
               "category": "rent",
@@ -6167,6 +6214,53 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001464617,
+              "object_ref": "7715.1033",
+              "category": "rent",
+              "date": "2021-11-03T10:22:49",
+              "flatType": null,
+              "floor": "3",
+              "rent": 1070,
+              "rent_add": 110,
+              "rent_net": 960,
+              "rooms": null,
+              "area": 44,
+              "year_built": null,
+              "street_number": "Tigerbergstrasse 2",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4277496337891",
+              "lng": "9.37399578094482",
+              "egid": 10730810,
+              "gwr_egid": 1073081,
+              "gwr_wazim": 1,
+              "gwr_warea": 44,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "24.318181818181817",
+              "price_per_room": "1070.0",
+              "flat_cat": "S",
+              "cat": "f",
+              "fillColor": "#ff8800",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1070 CHF/Monat<br>Miete/qm: 24.32 CHF/Monat<br>Miete/Zimmer: 1070.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.373995780944824,
+                47.42774963378906
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001447019,
               "object_ref": "1071.189.2203.905260.367d0825-3599-11ec-842e-005056bdbc06",
               "category": "rent",
@@ -6586,6 +6680,53 @@
                 47.4147356928072
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001464767,
+              "object_ref": "16715-11.892703.1e3f9bb1-22af-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2021-11-03T10:52:07",
+              "flatType": null,
+              "floor": null,
+              "rent": 1100,
+              "rent_add": 110,
+              "rent_net": 990,
+              "rooms": null,
+              "area": 51,
+              "year_built": 2020,
+              "street_number": "Sankt Georgen-Strasse 167",
+              "city": "St. Gallen",
+              "zip": 9011,
+              "lat": null,
+              "lng": null,
+              "egid": 191690308,
+              "gwr_egid": 191690308,
+              "gwr_wazim": 1,
+              "gwr_warea": 51,
+              "gwr_wstwk": 3401,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "21.568627450980394",
+              "price_per_room": "1100.0",
+              "flat_cat": "S",
+              "cat": "f",
+              "fillColor": "#ff8800",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1100 CHF/Monat<br>Miete/qm: 21.57 CHF/Monat<br>Miete/Zimmer: 1100.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.39186202596431,
+                47.4146678644583
+              ]
+            }
           }
         ]
       },
@@ -6622,7 +6763,7 @@
           "geo:47.43317355684985,9.396247605270359"
         ],
         "title": "Mietpreise Wohnungen S",
-        "description": "Mietpreise Stadt St. Gallen Wohnungen S (1-2 Zimmer), Daten: 12.10.2021 - 01.11.2021.",
+        "description": "Mietpreise Stadt St. Gallen Wohnungen S (1-2 Zimmer), Daten: 12.10.2021 - 03.11.2021.",
         "legend": [
           {
             "fillColor": "#0028b8",

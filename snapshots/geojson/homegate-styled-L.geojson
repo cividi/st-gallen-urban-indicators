@@ -1884,6 +1884,53 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001465235,
+        "object_ref": "1811.10.2021.911002.caf1e75b-3ca0-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-11-03T14:04:39",
+        "flatType": null,
+        "floor": "2",
+        "rent": 2630,
+        "rent_add": 280,
+        "rent_net": 2350,
+        "rooms": null,
+        "area": 202,
+        "year_built": null,
+        "street_number": "Goethestrasse 44",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4369812011719",
+        "lng": "9.38311100006104",
+        "egid": 10747900,
+        "gwr_egid": 1074790,
+        "gwr_wazim": 7,
+        "gwr_warea": 220,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0818181818181818",
+        "price_per_sqm": "13.01980198019802",
+        "price_per_room": "375.7142857142857",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2630 CHF/Monat<br>Miete/qm: 13.02 CHF/Monat<br>Miete/Zimmer: 375.71 CHF/Monat<br>Nebenkosten: 280 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383111000061035,
+          47.436981201171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001418517,
         "object_ref": "35Y",
         "category": "rent",
@@ -2066,6 +2113,147 @@
         "coordinates": [
           9.384760856628418,
           47.434608459472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001462816,
+        "object_ref": "7797.09.0001",
+        "category": "rent",
+        "date": "2021-11-03T10:22:40",
+        "flatType": null,
+        "floor": "GF",
+        "rent": 1690,
+        "rent_add": 290,
+        "rent_net": 1400,
+        "rooms": null,
+        "area": 95,
+        "year_built": 1968,
+        "street_number": "Zilweg 14",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.4418754577637",
+        "lng": "9.4097900390625",
+        "egid": 10771290,
+        "gwr_egid": 1077129,
+        "gwr_wazim": 5,
+        "gwr_warea": 98,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.0306122448979592",
+        "price_per_sqm": "17.789473684210527",
+        "price_per_room": "338.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1690 CHF/Monat<br>Miete/qm: 17.79 CHF/Monat<br>Miete/Zimmer: 338.00 CHF/Monat<br>Nebenkosten: 290 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4097900390625,
+          47.44187545776367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001462510,
+        "object_ref": "A6FQP3A_23VMY59",
+        "category": "rent",
+        "date": "2021-11-03T10:23:32",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1780,
+        "rent_add": 340,
+        "rent_net": 1440,
+        "rooms": null,
+        "area": 110,
+        "year_built": null,
+        "street_number": "Sternackerstrasse 5",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4262962341309",
+        "lng": "9.38365173339844",
+        "egid": 10736250,
+        "gwr_egid": 1073625,
+        "gwr_wazim": 5,
+        "gwr_warea": 136,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.191176470588235",
+        "price_per_sqm": "16.181818181818183",
+        "price_per_room": "356.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1780 CHF/Monat<br>Miete/qm: 16.18 CHF/Monat<br>Miete/Zimmer: 356.00 CHF/Monat<br>Nebenkosten: 340 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383651733398438,
+          47.42629623413086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001464371,
+        "object_ref": "02008.03.0009",
+        "category": "rent",
+        "date": "2021-11-03T10:23:36",
+        "flatType": null,
+        "floor": null,
+        "rent": 1825,
+        "rent_add": 325,
+        "rent_net": 1500,
+        "rooms": null,
+        "area": 82,
+        "year_built": 1971,
+        "street_number": "Magniberg 4",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.429313659668",
+        "lng": "9.37764644622803",
+        "egid": 10730100,
+        "gwr_egid": 1073010,
+        "gwr_wazim": 5,
+        "gwr_warea": 82,
+        "gwr_wstwk": 3104,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "22.25609756097561",
+        "price_per_room": "365.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1825 CHF/Monat<br>Miete/qm: 22.26 CHF/Monat<br>Miete/Zimmer: 365.00 CHF/Monat<br>Nebenkosten: 325 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.377646446228027,
+          47.42931365966797
         ]
       }
     }
