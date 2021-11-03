@@ -1,0 +1,63 @@
+encoding: utf-8
+format: csv
+hashing: md5
+licenses:
+  - name: CC-BY
+    path: https://opendefinition.org/licenses/cc-by
+    title: Creative Commons Attribution License 4.0
+name: stgallen_region_choice_r5000
+path: data/spacesyntax/stgallen_region_choice_r5000.csv
+profile: tabular-data-resource
+schema:
+  fields:
+    - name: Ref
+      type: integer
+    - name: x1
+      type: number
+    - name: y1
+      type: number
+    - name: x2
+      type: number
+    - name: y2
+      type: number
+    - name: Angular Connectivity
+      type: number
+    - name: Axial Line Ref
+      type: integer
+    - name: Connectivity
+      type: integer
+    - name: Segment Length
+      type: number
+    - name: T1024 Choice R1000 metric
+      type: integer
+    - name: T1024 Choice R2500 metric
+      type: integer
+    - name: T1024 Choice R500 metric
+      type: integer
+    - name: T1024 Choice R5000 metric
+      type: integer
+    - name: T1024 Integration R1000 metric
+      type: number
+    - name: T1024 Integration R2500 metric
+      type: number
+    - name: T1024 Integration R500 metric
+      type: number
+    - name: T1024 Integration R5000 metric
+      type: number
+    - name: T1024 Node Count R1000 metric
+      type: integer
+    - name: T1024 Node Count R2500 metric
+      type: integer
+    - name: T1024 Node Count R500 metric
+      type: integer
+    - name: T1024 Node Count R5000 metric
+      type: integer
+    - name: T1024 Total Depth R1000 metric
+      type: number
+    - name: T1024 Total Depth R2500 metric
+      type: number
+    - name: T1024 Total Depth R500 metric
+      type: number
+    - name: T1024 Total Depth R5000 metric
+      type: number
+scheme: file

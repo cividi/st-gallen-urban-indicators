@@ -3,3 +3,8 @@ frictionless[json,s3,sql,pandas]
 frictionless-geojson
 sqlalchemy
 psycopg2
+numpy
+geopandas
+osmnx
+folium
+python-dotenv

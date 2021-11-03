@@ -124,6 +124,45 @@ For information on Streetwise, please have a look at [streetwise.space](https://
 | lat         | Latitude                  | string  | Latitude of source image rated with Streetwise Safety Score.  |
 | lng         | Longitude                 | string  | Longitude of source image rated with Streetwise Safety Score. |
 
+## Space Syntax
+
+Further information on [Space Syntax Methodologies](https://library.oapen.org/handle/20.500.12657/50404).
+
+### Data
+
+#### Choice, Integration
+- 📈 CSV: [data/spacesyntax/stgallen_region_choice_r5000.csv](data/spacesyntax/stgallen_region_choice_r5000.csv)
+
+**CSV Schema**
+
+| name                           | type    |
+| ------------------------------ | ------- |
+| Ref                            | integer |
+| x1                             | number  |
+| y1                             | number  |
+| x2                             | number  |
+| y2                             | number  |
+| Angular Connectivity           | number  |
+| Axial Line Ref                 | integer |
+| Connectivity                   | integer |
+| Segment Length                 | number  |
+| T1024 Choice R1000 metric      | integer |
+| T1024 Choice R2500 metric      | integer |
+| T1024 Choice R500 metric       | integer |
+| T1024 Choice R5000 metric      | integer |
+| T1024 Integration R1000 metric | number  |
+| T1024 Integration R2500 metric | number  |
+| T1024 Integration R500 metric  | number  |
+| T1024 Integration R5000 metric | number  |
+| T1024 Node Count R1000 metric  | integer |
+| T1024 Node Count R2500 metric  | integer |
+| T1024 Node Count R500 metric   | integer |
+| T1024 Node Count R5000 metric  | integer |
+| T1024 Total Depth R1000 metric | number  |
+| T1024 Total Depth R2500 metric | number  |
+| T1024 Total Depth R500 metric  | number  |
+| T1024 Total Depth R5000 metric | number  |
+
 ## For developers
 
 Basic setup
