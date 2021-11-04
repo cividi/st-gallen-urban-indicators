@@ -8,16 +8,30 @@ schema:
   fields:
     - name: ref_id
       type: integer
+      title: Reference ID
+      description: Postalcode
     - name: inward_all
       type: integer
+      title: Inward trips
+      description: All inward trips within the chosen week from ref_id.
     - name: inward_nonregular
       type: integer
+      title: Inward trips nonregular
+      description: All non regular inward trips within the chosen week from ref_id.
     - name: inward_regular
       type: integer
+      title: Inward trips regular
+      description: All regular inward trips within the chosen week from ref_id.
     - name: outward_all
       type: integer
+      title: Outward trips
+      description: All outward trips within the chosen week to ref_id.
     - name: outward_nonregular
       type: integer
+      title: Outward trips nonregular
+      description: All non regular outward trips within the chosen week to ref_id.
     - name: outward_regular
       type: integer
+      title: Outward trips regular
+      description: All regular outward trips within the chosen week to ref_id.
 scheme: file

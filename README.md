@@ -124,6 +124,49 @@ For information on Streetwise, please have a look at [streetwise.space](https://
 | lat         | Latitude                  | string  | Latitude of source image rated with Streetwise Safety Score.  |
 | lng         | Longitude                 | string  | Longitude of source image rated with Streetwise Safety Score. |
 
+## Mobility
+
+Further information on [Swisscom Mobility Insights](https://mip.swisscom.ch).
+
+### Data
+
+#### Origin-Destination Matrix
+- 📈 CSV: [data/mobility/od-mobility-matrix.csv](data/mobility/od-mobility-matrix.csv)
+- 📦 Snapshot: [snapshots/10-inward_all.json](snapshots/10-inward_all.json)
+- 📦 Snapshot: [snapshots/10-inward_regular.json](snapshots/10-inward_regular.json)
+- 📦 Snapshot: [snapshots/10-inward_nonregular.json](snapshots/10-inward_nonregular.json)
+- 📦 Snapshot: [snapshots/10-outward_all.json](snapshots/10-outward_all.json)
+- 📦 Snapshot: [snapshots/10-outward_regular.json](snapshots/10-outward_regular.json)
+- 📦 Snapshot: [snapshots/10-outward_nonregular.json](snapshots/10-outward_nonregular.json)
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+**CSV Schema**
+
+| name               | type    | title                    | description                                                      |
+| ------------------ | ------- | ------------------------ | ---------------------------------------------------------------- |
+| ref_id             | integer | Reference ID             | Postalcode                                                       |
+| inward_all         | integer | Inward trips             | All inward trips within the chosen week from ref_id.             |
+| inward_nonregular  | integer | Inward trips nonregular  | All non regular inward trips within the chosen week from ref_id. |
+| inward_regular     | integer | Inward trips regular     | All regular inward trips within the chosen week from ref_id.     |
+| outward_all        | integer | Outward trips            | All outward trips within the chosen week to ref_id.              |
+| outward_nonregular | integer | Outward trips nonregular | All non regular outward trips within the chosen week to ref_id.  |
+| outward_regular    | integer | Outward trips regular    | All regular outward trips within the chosen week to ref_id.      |
+
+#### Origin-Destination
+- 📈 CSV: [data/mobility/od-mobility.csv](data/mobility/od-mobility.csv)
+
+**CSV Schema**
+
+| name       | type    | title              | description                                                 |
+| ---------- | ------- | ------------------ | ----------------------------------------------------------- |
+| ref_id     | integer | Reference ID       | Postalcode                                                  |
+| ref        | integer | Reference          | Postalcode                                                  |
+| count      | integer | Trips              | Sum of trips to/from ref_id within week_start and week_end. |
+| week_start | date    | Week Start Date    | Date of survey start.                                       |
+| week_end   | date    | Week Start Date    | Date of survey end.                                         |
+| direction  | string  | Direction of Trips | inward (ref_id = origin) or outward (ref_id = destination)  |
+| reason     | string  | Reason of Trips    | regular, non regular or both (all).                         |
+
 ## Space Syntax
 
 Further information on [Space Syntax Methodologies](https://library.oapen.org/handle/20.500.12657/50404).

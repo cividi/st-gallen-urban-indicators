@@ -634,6 +634,116 @@
         ]
       },
       "scheme": "file"
+    },
+    {
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "od-mobility",
+      "path": "od-mobility.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "ref_id",
+            "type": "integer",
+            "title": "Reference ID",
+            "description": "Postalcode"
+          },
+          {
+            "name": "ref",
+            "type": "integer",
+            "title": "Reference",
+            "description": "Postalcode"
+          },
+          {
+            "name": "count",
+            "type": "integer",
+            "title": "Trips",
+            "description": "Sum of trips to/from ref_id within week_start and week_end."
+          },
+          {
+            "name": "week_start",
+            "type": "date",
+            "title": "Week Start Date",
+            "description": "Date of survey start."
+          },
+          {
+            "name": "week_end",
+            "type": "date",
+            "title": "Week Start Date",
+            "description": "Date of survey end."
+          },
+          {
+            "name": "direction",
+            "type": "string",
+            "title": "Direction of Trips",
+            "description": "inward (ref_id = origin) or outward (ref_id = destination)"
+          },
+          {
+            "name": "reason",
+            "type": "string",
+            "title": "Reason of Trips",
+            "description": "regular, non regular or both (all)."
+          }
+        ]
+      },
+      "scheme": "file"
+    },
+    {
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "od-mobility-matrix",
+      "path": "od-mobility-matrix.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "ref_id",
+            "type": "integer",
+            "title": "Reference ID",
+            "description": "Postalcode"
+          },
+          {
+            "name": "inward_all",
+            "type": "integer",
+            "title": "Inward trips",
+            "description": "All inward trips within the chosen week from ref_id."
+          },
+          {
+            "name": "inward_nonregular",
+            "type": "integer",
+            "title": "Inward trips nonregular",
+            "description": "All non regular inward trips within the chosen week from ref_id."
+          },
+          {
+            "name": "inward_regular",
+            "type": "integer",
+            "title": "Inward trips regular",
+            "description": "All regular inward trips within the chosen week from ref_id."
+          },
+          {
+            "name": "outward_all",
+            "type": "integer",
+            "title": "Outward trips",
+            "description": "All outward trips within the chosen week to ref_id."
+          },
+          {
+            "name": "outward_nonregular",
+            "type": "integer",
+            "title": "Outward trips nonregular",
+            "description": "All non regular outward trips within the chosen week to ref_id."
+          },
+          {
+            "name": "outward_regular",
+            "type": "integer",
+            "title": "Outward trips regular",
+            "description": "All regular outward trips within the chosen week to ref_id."
+          }
+        ]
+      },
+      "scheme": "file"
     }
   ],
   "name": "st-gallen-urban-indicators",

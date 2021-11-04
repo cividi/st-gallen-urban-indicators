@@ -8,16 +8,30 @@ schema:
   fields:
     - name: ref_id
       type: integer
+      title: Reference ID
+      description: Postalcode
     - name: ref
       type: integer
+      title: Reference
+      description: Postalcode
     - name: count
       type: integer
+      title: Trips
+      description: Sum of trips to/from ref_id within week_start and week_end.
     - name: week_start
       type: date
+      title: Week Start Date
+      description: Date of survey start.
     - name: week_end
       type: date
+      title: Week Start Date
+      description: Date of survey end.
     - name: direction
       type: string
+      title: Direction of Trips
+      description: inward (ref_id = origin) or outward (ref_id = destination)
     - name: reason
       type: string
+      title: Reason of Trips
+      description: regular, non regular or both (all).
 scheme: file
