@@ -335,3 +335,14 @@ buildings = Resource(
 prices = Resource(path="data/price-monitoring/price-monitoring.csv").to_pandas()
 joined = prices.merge(buildings, left_on="gwr_egid", right_on="egid", how="left")
 joined.to_csv("data/price-monitoring/price-monitoring-extended.csv", index=False)
+
+## Write GeoJSON version
+
+gjson = transform(
+    joined,
+    steps=[
+        steps.field_update(name="wkt", new_name="_geom"),
+    ]
+)
+
+gjson.write(path="data/price-monitoring/price-monitoring-extended.geojson")
