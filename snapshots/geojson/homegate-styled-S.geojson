@@ -5033,6 +5033,53 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001467983,
+        "object_ref": "00241.01.0038",
+        "category": "rent",
+        "date": "2021-11-04T17:01:21",
+        "flatType": null,
+        "floor": "6",
+        "rent": 830,
+        "rent_add": 120,
+        "rent_net": 710,
+        "rooms": null,
+        "area": 33,
+        "year_built": 1957,
+        "street_number": "Vonwilstrasse 51",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4194450378418",
+        "lng": "9.35537147521973",
+        "egid": 10702790,
+        "gwr_egid": 1070279,
+        "gwr_wazim": 1,
+        "gwr_warea": 33,
+        "gwr_wstwk": 3106,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "25.151515151515152",
+        "price_per_room": "830.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 830 CHF/Monat<br>Miete/qm: 25.15 CHF/Monat<br>Miete/Zimmer: 830.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355371475219727,
+          47.4194450378418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001319737,
         "object_ref": "51802.09.0003",
         "category": "rent",
