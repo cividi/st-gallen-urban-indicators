@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "data",
-      "mediatype": "application/vnd.simplestyle-extended",
+      "mediatype": "application/geo+json",
       "data": {
         "type": "FeatureCollection",
         "features": [
@@ -18,12 +18,11 @@
               "outward_nonregular": 1030,
               "outward_regular": 155,
               "cat": "f",
-              "fillColor": "#ff8800",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#ff8800",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -3050,12 +3049,11 @@
               "outward_nonregular": 732,
               "outward_regular": 65,
               "cat": "f",
-              "fillColor": "#ff8800",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#ff8800",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -4102,12 +4100,11 @@
               "outward_nonregular": 118,
               "outward_regular": null,
               "cat": "b",
-              "fillColor": "#455db5",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#455db5",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -5630,12 +5627,11 @@
               "outward_nonregular": 50,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -8274,12 +8270,11 @@
               "outward_nonregular": 59,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -9534,12 +9529,11 @@
               "outward_nonregular": 79,
               "outward_regular": 31,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -14802,12 +14796,11 @@
               "outward_nonregular": 276,
               "outward_regular": 31,
               "cat": "c",
-              "fillColor": "#8a93b2",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#8a93b2",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -16594,12 +16587,11 @@
               "outward_nonregular": 34,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -21346,12 +21338,11 @@
               "outward_nonregular": null,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -23046,12 +23037,11 @@
               "outward_nonregular": 35,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -26330,12 +26320,11 @@
               "outward_nonregular": null,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -31090,12 +31079,11 @@
               "outward_nonregular": 38,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -37498,12 +37486,11 @@
               "outward_nonregular": 58,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -42610,12 +42597,11 @@
               "outward_nonregular": null,
               "outward_regular": null,
               "cat": null,
-              "fillColor": null,
-              "fillOpacity": null,
-              "color": null,
-              "weight": null,
-              "opacity": null,
-              "radius": null
+              "fill": null,
+              "fill-opacity": null,
+              "stroke": null,
+              "stroke-width": null,
+              "stroke-opacity": null
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -47242,12 +47228,11 @@
               "outward_nonregular": 114,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -51482,12 +51467,11 @@
               "outward_nonregular": 34,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -55958,12 +55942,11 @@
               "outward_nonregular": null,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -58038,12 +58021,11 @@
               "outward_nonregular": 55,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -60322,12 +60304,11 @@
               "outward_nonregular": 60,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -63310,12 +63291,11 @@
               "outward_nonregular": 39,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -66102,12 +66082,11 @@
               "outward_nonregular": null,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -70018,12 +69997,11 @@
               "outward_nonregular": 26,
               "outward_regular": null,
               "cat": "a",
-              "fillColor": "#0028b8",
-              "fillOpacity": "0.8",
-              "color": "#ffffff",
-              "weight": "1.5",
-              "opacity": "0.9",
-              "radius": 45
+              "fill": "#0028b8",
+              "fill-opacity": "0.5",
+              "stroke": "#ffffff",
+              "stroke-width": "0.5",
+              "stroke-opacity": "0.9"
             },
             "geometry": {
               "type": "MultiPolygon",
@@ -73496,7 +73474,7 @@
     },
     {
       "name": "mapbox-background",
-      "path": "mapbox://styles/gemeindescan/ckv9xyllc00g215o8bjnh6cmo",
+      "path": "mapbox://styles/gemeindescan/ckc4sha4310d21iszp8ri17u2",
       "mediatype": "application/vnd.mapbox-vector-tile"
     }
   ],
