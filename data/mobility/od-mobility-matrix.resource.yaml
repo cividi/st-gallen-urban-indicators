@@ -1,0 +1,23 @@
+encoding: utf-8
+format: csv
+hashing: md5
+name: od-mobility-matrix
+path: od-mobility-matrix.csv
+profile: tabular-data-resource
+schema:
+  fields:
+    - name: ref_id
+      type: integer
+    - name: inward_all
+      type: integer
+    - name: inward_nonregular
+      type: integer
+    - name: inward_regular
+      type: integer
+    - name: outward_all
+      type: integer
+    - name: outward_nonregular
+      type: integer
+    - name: outward_regular
+      type: integer
+scheme: file

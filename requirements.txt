@@ -1,5 +1,5 @@
 scrapy
-frictionless[json,s3,sql,pandas]
+frictionless[json,s3,sql,pandas,excel]
 frictionless-geojson
 sqlalchemy
 psycopg2

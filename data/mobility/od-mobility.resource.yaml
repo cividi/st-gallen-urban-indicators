@@ -1,0 +1,23 @@
+encoding: utf-8
+format: csv
+hashing: md5
+name: od-mobility
+path: od-mobility.csv
+profile: tabular-data-resource
+schema:
+  fields:
+    - name: ref_id
+      type: integer
+    - name: ref
+      type: integer
+    - name: count
+      type: integer
+    - name: week_start
+      type: date
+    - name: week_end
+      type: date
+    - name: direction
+      type: string
+    - name: reason
+      type: string
+scheme: file
