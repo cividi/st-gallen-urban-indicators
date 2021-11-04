@@ -24,7 +24,7 @@ schema:
       description: Date of survey start.
     - name: week_end
       type: date
-      title: Week Start Date
+      title: Week End Date
       description: Date of survey end.
     - name: direction
       type: string

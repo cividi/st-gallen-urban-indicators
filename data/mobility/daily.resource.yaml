@@ -1,0 +1,33 @@
+encoding: utf-8
+format: csv
+hashing: md5
+name: daily
+path: daily.csv
+profile: tabular-data-resource
+schema:
+  fields:
+    - name: date
+      type: datetime
+      title: Date
+    - name: all
+      type: integer
+      title: Trips
+      description: Sum of trips within `datetime` day for `direction`
+    - name: nonregular
+      type: integer
+      title: Non Regular Trips
+      description: Sum of non regular trips within `datetime` day for `direction`
+    - name: regular
+      type: integer
+      title: Regular Trips
+      description: Sum of regular trips within `datetime` day for `direction`
+    - name: week_start
+      title: Week Start Date
+      description: Date of survey start.
+    - name: week_end
+      title: Week End Date
+      description: Date of survey end.
+    - name: direction
+      title: Direction of Trips
+      description: inward or outward
+scheme: file

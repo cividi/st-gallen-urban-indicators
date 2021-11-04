@@ -671,7 +671,7 @@
           {
             "name": "week_end",
             "type": "date",
-            "title": "Week Start Date",
+            "title": "Week End Date",
             "description": "Date of survey end."
           },
           {
@@ -740,6 +740,108 @@
             "type": "integer",
             "title": "Outward trips regular",
             "description": "All regular outward trips within the chosen week to ref_id."
+          }
+        ]
+      },
+      "scheme": "file"
+    },
+    {
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "hourly",
+      "path": "hourly.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "date",
+            "type": "datetime",
+            "title": "Date and Time"
+          },
+          {
+            "name": "all",
+            "type": "integer",
+            "title": "Trips",
+            "description": "Sum of trips within `datetime` hour for `direction`"
+          },
+          {
+            "name": "nonregular",
+            "type": "integer",
+            "title": "Non Regular Trips",
+            "description": "Sum of non regular trips within `datetime` hour for `direction`"
+          },
+          {
+            "name": "regular",
+            "type": "integer",
+            "title": "Regular Trips",
+            "description": "Sum of regular trips within `datetime` hour for `direction`"
+          },
+          {
+            "name": "week_start",
+            "title": "Week Start Date",
+            "description": "Date of survey start."
+          },
+          {
+            "name": "week_end",
+            "title": "Week End Date",
+            "description": "Date of survey end."
+          },
+          {
+            "name": "direction",
+            "title": "Direction of Trips",
+            "description": "inward or outward"
+          }
+        ]
+      },
+      "scheme": "file"
+    },
+    {
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "daily",
+      "path": "daily.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "date",
+            "type": "datetime",
+            "title": "Date"
+          },
+          {
+            "name": "all",
+            "type": "integer",
+            "title": "Trips",
+            "description": "Sum of trips within `datetime` day for `direction`"
+          },
+          {
+            "name": "nonregular",
+            "type": "integer",
+            "title": "Non Regular Trips",
+            "description": "Sum of non regular trips within `datetime` day for `direction`"
+          },
+          {
+            "name": "regular",
+            "type": "integer",
+            "title": "Regular Trips",
+            "description": "Sum of regular trips within `datetime` day for `direction`"
+          },
+          {
+            "name": "week_start",
+            "title": "Week Start Date",
+            "description": "Date of survey start."
+          },
+          {
+            "name": "week_end",
+            "title": "Week End Date",
+            "description": "Date of survey end."
+          },
+          {
+            "name": "direction",
+            "title": "Direction of Trips",
+            "description": "inward or outward"
           }
         ]
       },

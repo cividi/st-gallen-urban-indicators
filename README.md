@@ -172,6 +172,36 @@ Further background and information: [Swisscom Mobility Insights](https://mip.swi
 | direction  | string  | Direction of Trips | inward (ref_id = origin) or outward (ref_id = destination)  |
 | reason     | string  | Reason of Trips    | regular, non regular or both (all).                         |
 
+#### Hourly
+- 📈 CSV: [data/mobility/hourly.csv](data/mobility/hourly.csv)
+
+**CSV Schema**
+
+| name       | type     | title              | description                                                     |
+| ---------- | -------- | ------------------ | --------------------------------------------------------------- |
+| date       | datetime | Date and Time      |                                                                 |
+| all        | integer  | Trips              | Sum of trips within `datetime` hour for `direction`             |
+| nonregular | integer  | Non Regular Trips  | Sum of non regular trips within `datetime` hour for `direction` |
+| regular    | integer  | Regular Trips      | Sum of regular trips within `datetime` hour for `direction`     |
+| week_start |          | Week Start Date    | Date of survey start.                                           |
+| week_end   |          | Week End Date      | Date of survey end.                                             |
+| direction  |          | Direction of Trips | inward or outward                                               |
+
+#### Daily
+- 📈 CSV: [data/mobility/daily.csv](data/mobility/daily.csv)
+
+**CSV Schema**
+
+| name       | type     | title              | description                                                     |
+| ---------- | -------- | ------------------ | --------------------------------------------------------------- |
+| date       | datetime | Date               |                                                                 |
+| all        | integer  | Trips              | Sum of trips within `datetime` day for `direction`             |
+| nonregular | integer  | Non Regular Trips  | Sum of non regular trips within `datetime` day for `direction` |
+| regular    | integer  | Regular Trips      | Sum of regular trips within `datetime` day for `direction`     |
+| week_start |          | Week Start Date    | Date of survey start.                                           |
+| week_end   |          | Week End Date      | Date of survey end.                                             |
+| direction  |          | Direction of Trips | inward or outward                                               |
+
 ## Space Syntax
 
 Further information on [Space Syntax Methodologies](https://library.oapen.org/handle/20.500.12657/50404).
