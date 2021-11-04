@@ -58151,11 +58151,11 @@
       "spec": {
         "attribution": "",
         "bounds": [
-          "geo:47.41525506820663,9.352516279706524",
-          "geo:47.43317355684985,9.396247605270359"
+          "geo:47.39515506820663,9.291516279706524",
+          "geo:47.45307355684985,9.435247605270359"
         ],
-        "title": "Fussabdruck Bach Areal 14.-20. Juni 2021",
-        "description": "",
+        "title": "Mobilit\u00e4ts Fussabdruck",
+        "description": "Fahrten Bach Areal 14.-20. Juni 2021.",
         "legend": [
           {
             "fillColor": "#0028b8",
