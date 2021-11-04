@@ -7,6 +7,7 @@ A work in progress repository collecting data, links to datasets and analysis fo
 Table of contents
 1. [rental prices](#rental-prices)
 2. [public space qualities](#streetwise)
+2. [mobility](#mobility)
 3. imissions like noise
 
 compiling visual maps, automatically published to [dføur](https://dfour.space): [https://sandbox.dfour.space/de/0SF96/M3JDL6/](https://sandbox.dfour.space/de/0SF96/M3JDL6/)
@@ -126,7 +127,11 @@ For information on Streetwise, please have a look at [streetwise.space](https://
 
 ## Mobility
 
-Further information on [Swisscom Mobility Insights](https://mip.swisscom.ch).
+The following data is related to the temporary use [«Areal Bach»](https://areal-bach.ch) (Perimeter see [Snapshot](https://sandbox.dfour.space/de/0SF96/9CCGML/)) north the train station St. Fiden and shows aggregated origins and destination trips by postalcode of people coming to or from the area during the summer week of June 14–20 2021.
+
+**Regular** in this context means multiple trips from the same origin/destination in the weeks before the sample is taken.
+
+Further background and information: [Swisscom Mobility Insights](https://mip.swisscom.ch).
 
 ### Data
 
