@@ -136,3 +136,4 @@ macos/
 data/price-monitoring/homegate-styled.csv
 
 depthmapXcli*
+tmp/

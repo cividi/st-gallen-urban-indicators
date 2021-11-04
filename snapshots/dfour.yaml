@@ -25,6 +25,24 @@
     03-aerial:
       bfsNumber: 3203
       topic: Perimeter
+    10-inward_all:
+      bfsNumber: 3203
+      topic: Mobilität
+    10-inward_regular:
+      bfsNumber: 3203
+      topic: Mobilität
+    10-inward_nonregular:
+      bfsNumber: 3203
+      topic: Mobilität
+    10-outward_all:
+      bfsNumber: 3203
+      topic: Mobilität
+    10-outward_regular:
+      bfsNumber: 3203
+      topic: Mobilität
+    10-outward_nonregular:
+      bfsNumber: 3203
+      topic: Mobilität
     streetwise-safety:
       bfsNumber: 3203
       topic: Streetwise
