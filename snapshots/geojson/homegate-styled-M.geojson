@@ -11942,6 +11942,100 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001465787,
+        "object_ref": "1059.01.1031",
+        "category": "rent",
+        "date": "2021-11-03T19:30:47",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1305,
+        "rent_add": 230,
+        "rent_net": 1075,
+        "rooms": null,
+        "area": 78,
+        "year_built": null,
+        "street_number": "Spyristrasse 9",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4368362426758",
+        "lng": "9.39242649078369",
+        "egid": 10749770,
+        "gwr_egid": 1074977,
+        "gwr_wazim": 4,
+        "gwr_warea": 65,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.2",
+        "price_per_sqm": "16.73076923076923",
+        "price_per_room": "326.25",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1305 CHF/Monat<br>Miete/qm: 16.73 CHF/Monat<br>Miete/Zimmer: 326.25 CHF/Monat<br>Nebenkosten: 230 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.392426490783691,
+          47.43683624267578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001465804,
+        "object_ref": "A8687",
+        "category": "rent",
+        "date": "2021-11-03T19:31:29",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1550,
+        "rent_add": 130,
+        "rent_net": 1420,
+        "rooms": null,
+        "area": 87,
+        "year_built": 1906,
+        "street_number": "Teufener Strasse 123",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4134178161621",
+        "lng": "9.36389064788818",
+        "egid": 10715980,
+        "gwr_egid": 1071598,
+        "gwr_wazim": 4,
+        "gwr_warea": 93,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0645161290322581",
+        "price_per_sqm": "17.816091954022987",
+        "price_per_room": "387.5",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1550 CHF/Monat<br>Miete/qm: 17.82 CHF/Monat<br>Miete/Zimmer: 387.50 CHF/Monat<br>Nebenkosten: 130 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.363890647888184,
+          47.41341781616211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001413023,
         "object_ref": "963302.02.00206",
         "category": "rent",
@@ -12500,6 +12594,100 @@
         "coordinates": [
           9.410002708435059,
           47.436126708984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001466297,
+        "object_ref": "52603.02.0001",
+        "category": "rent",
+        "date": "2021-11-04T04:41:42",
+        "flatType": null,
+        "floor": "GF",
+        "rent": 1290,
+        "rent_add": 160,
+        "rent_net": 1130,
+        "rooms": null,
+        "area": 62,
+        "year_built": 1959,
+        "street_number": "Iddastrasse 60",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4403495788574",
+        "lng": "9.39087867736816",
+        "egid": 10752030,
+        "gwr_egid": 1075203,
+        "gwr_wazim": 3,
+        "gwr_warea": 55,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.127272727272727",
+        "price_per_sqm": "20.806451612903224",
+        "price_per_room": "430.0",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1290 CHF/Monat<br>Miete/qm: 20.81 CHF/Monat<br>Miete/Zimmer: 430.00 CHF/Monat<br>Nebenkosten: 160 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.390878677368164,
+          47.44034957885742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001466304,
+        "object_ref": "2200.01.1001",
+        "category": "rent",
+        "date": "2021-11-04T04:41:45",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1460,
+        "rent_add": 210,
+        "rent_net": 1250,
+        "rooms": null,
+        "area": 83,
+        "year_built": 1970,
+        "street_number": "Achslenstr. 1",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.4336280822754",
+        "lng": "9.41360855102539",
+        "egid": 10765110,
+        "gwr_egid": 1076511,
+        "gwr_wazim": 4,
+        "gwr_warea": 78,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.0641025641025641",
+        "price_per_sqm": "17.59036144578313",
+        "price_per_room": "365.0",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1460 CHF/Monat<br>Miete/qm: 17.59 CHF/Monat<br>Miete/Zimmer: 365.00 CHF/Monat<br>Nebenkosten: 210 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41360855102539,
+          47.43362808227539
         ]
       }
     },
