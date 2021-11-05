@@ -1884,6 +1884,53 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001468678,
+        "object_ref": "52416.01.0102",
+        "category": "rent",
+        "date": "2021-11-05T02:26:41",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1570,
+        "rent_add": 220,
+        "rent_net": 1350,
+        "rooms": null,
+        "area": 90,
+        "year_built": 1919,
+        "street_number": "Hubertusstr. 2",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4333152770996",
+        "lng": "9.40306282043457",
+        "egid": 10757610,
+        "gwr_egid": 1075761,
+        "gwr_wazim": 5,
+        "gwr_warea": 88,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.0227272727272727",
+        "price_per_sqm": "17.444444444444443",
+        "price_per_room": "314.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1570 CHF/Monat<br>Miete/qm: 17.44 CHF/Monat<br>Miete/Zimmer: 314.00 CHF/Monat<br>Nebenkosten: 220 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.40306282043457,
+          47.43331527709961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001426743,
         "object_ref": "899541.0e3a2eed-2d98-11ec-842e-005056bdbc06",
         "category": "rent",

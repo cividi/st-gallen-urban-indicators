@@ -12036,6 +12036,53 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001468697,
+        "object_ref": "6811.10.0201",
+        "category": "rent",
+        "date": "2021-11-05T02:25:58",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1670,
+        "rent_add": 220,
+        "rent_net": 1450,
+        "rooms": null,
+        "area": 88,
+        "year_built": 2020,
+        "street_number": "Hechtackerstrasse 14a",
+        "city": "St. Gallen",
+        "zip": 9014,
+        "lat": "47.4082489013672",
+        "lng": "9.3399715423584",
+        "egid": 1915489810,
+        "gwr_egid": 191548981,
+        "gwr_wazim": 3,
+        "gwr_warea": 87,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0114942528735633",
+        "price_per_sqm": "18.977272727272727",
+        "price_per_room": "556.6666666666666",
+        "flat_cat": "M",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1670 CHF/Monat<br>Miete/qm: 18.98 CHF/Monat<br>Miete/Zimmer: 556.67 CHF/Monat<br>Nebenkosten: 220 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.339971542358398,
+          47.40824890136719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001413023,
         "object_ref": "963302.02.00206",
         "category": "rent",
@@ -15467,6 +15514,53 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001468413,
+        "object_ref": "23037.01.400020",
+        "category": "rent",
+        "date": "2021-11-04T20:51:12",
+        "flatType": null,
+        "floor": "GF",
+        "rent": 1590,
+        "rent_add": 280,
+        "rent_net": 1310,
+        "rooms": null,
+        "area": 98,
+        "year_built": null,
+        "street_number": "Langgasse 153",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.449104309082",
+        "lng": "9.39769840240479",
+        "egid": 23635030,
+        "gwr_egid": 2363503,
+        "gwr_wazim": 3,
+        "gwr_warea": 99,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.0101010101010101",
+        "price_per_sqm": "16.224489795918366",
+        "price_per_room": "530.0",
+        "flat_cat": "M",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1590 CHF/Monat<br>Miete/qm: 16.22 CHF/Monat<br>Miete/Zimmer: 530.00 CHF/Monat<br>Nebenkosten: 280 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.397698402404785,
+          47.44910430908203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001442287,
         "object_ref": "3,5-Zi.-DWG, St. Gallen.903877.401212bf-3337-11ec-842e-005056bdbc06",
         "category": "rent",
@@ -16025,6 +16119,53 @@
         "coordinates": [
           9.379521369934082,
           47.423675537109375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001468434,
+        "object_ref": "912039.28f0a8cb-3daa-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-11-04T21:26:39",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1660,
+        "rent_add": 210,
+        "rent_net": 1450,
+        "rooms": null,
+        "area": 100,
+        "year_built": 1904,
+        "street_number": "Falkensteinstrasse 72",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4314270019531",
+        "lng": "9.39884471893311",
+        "egid": 10758750,
+        "gwr_egid": 1075875,
+        "gwr_wazim": 4,
+        "gwr_warea": 95,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0526315789473684",
+        "price_per_sqm": "16.6",
+        "price_per_room": "415.0",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1660 CHF/Monat<br>Miete/qm: 16.60 CHF/Monat<br>Miete/Zimmer: 415.00 CHF/Monat<br>Nebenkosten: 210 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.398844718933105,
+          47.431427001953125
         ]
       }
     }

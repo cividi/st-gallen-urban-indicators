@@ -4898,6 +4898,100 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001468698,
+              "object_ref": "12103.03.10006",
+              "category": "rent",
+              "date": "2021-11-05T02:25:39",
+              "flatType": null,
+              "floor": "GF",
+              "rent": 700,
+              "rent_add": 130,
+              "rent_net": 570,
+              "rooms": null,
+              "area": 26,
+              "year_built": null,
+              "street_number": "Sonnenhaldenstrasse 10b",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": "47.4414405822754",
+              "lng": "9.39097785949707",
+              "egid": 10751670,
+              "gwr_egid": 1075167,
+              "gwr_wazim": 1,
+              "gwr_warea": 40,
+              "gwr_wstwk": 3100,
+              "match_accuracy": "0.35",
+              "price_per_sqm": "26.923076923076923",
+              "price_per_room": "700.0",
+              "flat_cat": "S",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 700 CHF/Monat<br>Miete/qm: 26.92 CHF/Monat<br>Miete/Zimmer: 700.00 CHF/Monat<br>Nebenkosten: 130 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.39097785949707,
+                47.44144058227539
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001468690,
+              "object_ref": "22101.01.10002",
+              "category": "rent",
+              "date": "2021-11-05T02:26:02",
+              "flatType": null,
+              "floor": "GF",
+              "rent": 1490,
+              "rent_add": 170,
+              "rent_net": 1320,
+              "rooms": null,
+              "area": 77,
+              "year_built": null,
+              "street_number": "Sch\u00f6nb\u00fcelpark 12",
+              "city": "St. Gallen",
+              "zip": 9016,
+              "lat": "47.4396553039551",
+              "lng": "9.41220855712891",
+              "egid": 1904256990,
+              "gwr_egid": 190425699,
+              "gwr_wazim": 2,
+              "gwr_warea": 77,
+              "gwr_wstwk": 3100,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "19.350649350649352",
+              "price_per_room": "745.0",
+              "flat_cat": "S",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1490 CHF/Monat<br>Miete/qm: 19.35 CHF/Monat<br>Miete/Zimmer: 745.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.412208557128906,
+                47.43965530395508
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001315315,
               "object_ref": "874726.085bb4e6-0b0e-11ec-8c59-005056bdbc06",
               "category": "rent",
@@ -5932,6 +6026,53 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001468333,
+              "object_ref": "911837.1140f761-3d98-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2021-11-04T19:01:22",
+              "flatType": null,
+              "floor": "4",
+              "rent": 840,
+              "rent_add": 120,
+              "rent_net": 720,
+              "rooms": null,
+              "area": 40,
+              "year_built": null,
+              "street_number": "Rorschacher Strasse 183",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4329643249512",
+              "lng": "9.39859294891357",
+              "egid": 10761980,
+              "gwr_egid": 1076198,
+              "gwr_wazim": 2,
+              "gwr_warea": 52,
+              "gwr_wstwk": 3104,
+              "match_accuracy": "0.230769230769231",
+              "price_per_sqm": "21.0",
+              "price_per_room": "420.0",
+              "flat_cat": "S",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 840 CHF/Monat<br>Miete/qm: 21.00 CHF/Monat<br>Miete/Zimmer: 420.00 CHF/Monat<br>Nebenkosten: 120 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.398592948913574,
+                47.43296432495117
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001449586,
               "object_ref": "..5210.906120.3d67e10c-365f-11ec-842e-005056bdbc06",
               "category": "rent",
@@ -6904,7 +7045,7 @@
           "geo:47.43317355684985,9.396247605270359"
         ],
         "title": "Mietpreise Wohnungen S",
-        "description": "Mietpreise Stadt St. Gallen Wohnungen S (1-2 Zimmer), Daten: 12.10.2021 - 04.11.2021.",
+        "description": "Mietpreise Stadt St. Gallen Wohnungen S (1-2 Zimmer), Daten: 12.10.2021 - 05.11.2021.",
         "legend": [
           {
             "fillColor": "#0028b8",
