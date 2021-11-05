@@ -5174,6 +5174,147 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001469080,
+        "object_ref": "onjqs.s0jqn",
+        "category": "rent",
+        "date": "2021-11-05T16:26:03",
+        "flatType": null,
+        "floor": "5",
+        "rent": 642,
+        "rent_add": 65,
+        "rent_net": 577,
+        "rooms": null,
+        "area": 32,
+        "year_built": 1972,
+        "street_number": "Zwyssigstrasse 20",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4219284057617",
+        "lng": "9.34619235992432",
+        "egid": 10705600,
+        "gwr_egid": 1070560,
+        "gwr_wazim": 1,
+        "gwr_warea": 30,
+        "gwr_wstwk": 3105,
+        "match_accuracy": "0.0666666666666667",
+        "price_per_sqm": "20.0625",
+        "price_per_room": "642.0",
+        "flat_cat": "S",
+        "cat": "e",
+        "fillColor": "#df9848",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 642 CHF/Monat<br>Miete/qm: 20.06 CHF/Monat<br>Miete/Zimmer: 642.00 CHF/Monat<br>Nebenkosten: 65 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.346192359924316,
+          47.42192840576172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001469480,
+        "object_ref": "44.53.3001.912439.e967fa27-3e1b-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-11-05T16:26:20",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1660,
+        "rent_add": 220,
+        "rent_net": 1440,
+        "rooms": null,
+        "area": 69,
+        "year_built": 2017,
+        "street_number": "Heiligkreuzstrasse 53",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4404067993164",
+        "lng": "9.3939847946167",
+        "egid": 1915218710,
+        "gwr_egid": 191521871,
+        "gwr_wazim": 2,
+        "gwr_warea": 62,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.112903225806452",
+        "price_per_sqm": "24.057971014492754",
+        "price_per_room": "830.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1660 CHF/Monat<br>Miete/qm: 24.06 CHF/Monat<br>Miete/Zimmer: 830.00 CHF/Monat<br>Nebenkosten: 220 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3939847946167,
+          47.440406799316406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001469549,
+        "object_ref": "08058.01.0103",
+        "category": "rent",
+        "date": "2021-11-05T16:26:31",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1080,
+        "rent_add": 130,
+        "rent_net": 950,
+        "rooms": null,
+        "area": 45,
+        "year_built": 1920,
+        "street_number": "Br\u00fchlbleichestrasse 10",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4305038452148",
+        "lng": "9.38340282440186",
+        "egid": 10729390,
+        "gwr_egid": 1072939,
+        "gwr_wazim": 2,
+        "gwr_warea": 52,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.134615384615385",
+        "price_per_sqm": "24.0",
+        "price_per_room": "540.0",
+        "flat_cat": "S",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1080 CHF/Monat<br>Miete/qm: 24.00 CHF/Monat<br>Miete/Zimmer: 540.00 CHF/Monat<br>Nebenkosten: 130 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383402824401855,
+          47.430503845214844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001319737,
         "object_ref": "51802.09.0003",
         "category": "rent",
@@ -6860,6 +7001,100 @@
         "coordinates": [
           9.356453895568848,
           47.41701889038086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001470695,
+        "object_ref": "83565.02.0103",
+        "category": "rent",
+        "date": "2021-11-05T18:26:38",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1340,
+        "rent_add": 160,
+        "rent_net": 1180,
+        "rooms": null,
+        "area": 49,
+        "year_built": null,
+        "street_number": "H\u00f6henweg 13",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4295043945312",
+        "lng": "9.37237071990967",
+        "egid": 10730870,
+        "gwr_egid": 1073087,
+        "gwr_wazim": 2,
+        "gwr_warea": 65,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.246153846153846",
+        "price_per_sqm": "27.346938775510203",
+        "price_per_room": "670.0",
+        "flat_cat": "S",
+        "cat": "e",
+        "fillColor": "#df9848",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1340 CHF/Monat<br>Miete/qm: 27.35 CHF/Monat<br>Miete/Zimmer: 670.00 CHF/Monat<br>Nebenkosten: 160 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.372370719909668,
+          47.42950439453125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001470708,
+        "object_ref": "8902.04.0039",
+        "category": "rent",
+        "date": "2021-11-05T18:26:57",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1835,
+        "rent_add": 335,
+        "rent_net": 1500,
+        "rooms": null,
+        "area": 107,
+        "year_built": 1983,
+        "street_number": "Linseb\u00fchlstrasse 99",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4259910583496",
+        "lng": "9.38535594940186",
+        "egid": 10736390,
+        "gwr_egid": 1073639,
+        "gwr_wazim": 1,
+        "gwr_warea": 38,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "1.81578947368421",
+        "price_per_sqm": "17.149532710280372",
+        "price_per_room": "1835.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1835 CHF/Monat<br>Miete/qm: 17.15 CHF/Monat<br>Miete/Zimmer: 1835.00 CHF/Monat<br>Nebenkosten: 335 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.385355949401855,
+          47.42599105834961
         ]
       }
     }

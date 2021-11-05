@@ -2397,6 +2397,53 @@
           47.42931365966797
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001470583,
+        "object_ref": "yegk6.p64nv",
+        "category": "rent",
+        "date": "2021-11-05T17:25:44",
+        "flatType": null,
+        "floor": "3",
+        "rent": 2150,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 147,
+        "year_built": 1907,
+        "street_number": "Dufourstrasse 4",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4352416992188",
+        "lng": "9.38398742675781",
+        "egid": 10747660,
+        "gwr_egid": 1074766,
+        "gwr_wazim": 5,
+        "gwr_warea": 150,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.02",
+        "price_per_sqm": "14.625850340136054",
+        "price_per_room": "430.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2150 CHF/Monat<br>Miete/qm: 14.63 CHF/Monat<br>Miete/Zimmer: 430.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383987426757812,
+          47.43524169921875
+        ]
+      }
     }
   ]
 }

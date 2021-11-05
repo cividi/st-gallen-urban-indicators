@@ -12741,6 +12741,53 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001469403,
+        "object_ref": "1069.1001.912431.42c9880f-3e18-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-11-05T16:25:58",
+        "flatType": null,
+        "floor": "GF",
+        "rent": 990,
+        "rent_add": 170,
+        "rent_net": 820,
+        "rooms": null,
+        "area": 55,
+        "year_built": 1920,
+        "street_number": "Rorschacher Strasse 229",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.435791015625",
+        "lng": "9.40303707122803",
+        "egid": 10762550,
+        "gwr_egid": 1076255,
+        "gwr_wazim": 3,
+        "gwr_warea": 58,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.0517241379310345",
+        "price_per_sqm": "18.0",
+        "price_per_room": "330.0",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 990 CHF/Monat<br>Miete/qm: 18.00 CHF/Monat<br>Miete/Zimmer: 330.00 CHF/Monat<br>Nebenkosten: 170 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.403037071228027,
+          47.435791015625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001424552,
         "object_ref": "211015_4.5 Zi Whg._L2 - 1021.899019.a3e6d79c-2d86-11ec-842e-005056bdbc06",
         "category": "rent",
@@ -14427,6 +14474,53 @@
         "coordinates": [
           9.389349937438965,
           47.4383544921875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001469691,
+        "object_ref": "3,5-Zi.-WG 1.OG, St. Gallen.912472.cb4704c6-3e25-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-11-05T16:26:46",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1390,
+        "rent_add": 180,
+        "rent_net": 1210,
+        "rooms": null,
+        "area": 80,
+        "year_built": null,
+        "street_number": "Treuackerstrasse 34",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.415397644043",
+        "lng": "9.36264228820801",
+        "egid": 10717070,
+        "gwr_egid": 1071707,
+        "gwr_wazim": 3,
+        "gwr_warea": 72,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.111111111111111",
+        "price_per_sqm": "17.375",
+        "price_per_room": "463.3333333333333",
+        "flat_cat": "M",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1390 CHF/Monat<br>Miete/qm: 17.38 CHF/Monat<br>Miete/Zimmer: 463.33 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.362642288208008,
+          47.41539764404297
         ]
       }
     },
