@@ -27,25 +27,28 @@
       topic: Perimeter
     10-inward_all:
       bfsNumber: 3203
-      topic: Mobilität
-    10-inward_regular:
-      bfsNumber: 3203
-      topic: Mobilität
+      topic: "Mobilit\xE4t"
     10-inward_nonregular:
       bfsNumber: 3203
-      topic: Mobilität
+      topic: "Mobilit\xE4t"
+    10-inward_regular:
+      bfsNumber: 3203
+      topic: "Mobilit\xE4t"
     10-outward_all:
       bfsNumber: 3203
-      topic: Mobilität
-    10-outward_regular:
-      bfsNumber: 3203
-      topic: Mobilität
+      topic: "Mobilit\xE4t"
     10-outward_nonregular:
       bfsNumber: 3203
-      topic: Mobilität
-    streetwise-safety:
+      topic: "Mobilit\xE4t"
+    10-outward_regular:
       bfsNumber: 3203
-      topic: Streetwise
+      topic: "Mobilit\xE4t"
     outline-map:
       bfsNumber: 3203
       topic: Perimeter
+    streetwise-atmosphere:
+      bfsNumber: 3203
+      topic: Streetwise
+    streetwise-safety:
+      bfsNumber: 3203
+      topic: Streetwise

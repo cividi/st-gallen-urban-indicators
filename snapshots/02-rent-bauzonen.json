@@ -19232,7 +19232,7 @@
             "size": 1,
             "shape": "circle",
             "primary": true,
-            "label": "300-449 CHF/qm"
+            "label": "300-449 CHF/Zimmer"
           },
           {
             "fillColor": "#bfa98f",
@@ -19243,7 +19243,7 @@
             "size": 1,
             "shape": "circle",
             "primary": true,
-            "label": "450-599 CHF/qm"
+            "label": "450-599 CHF/Zimmer"
           },
           {
             "fillColor": "#df9848",
@@ -19254,7 +19254,7 @@
             "size": 1,
             "shape": "circle",
             "primary": true,
-            "label": "600-749 CHF/qm"
+            "label": "600-749 CHF/Zimmer"
           },
           {
             "fillColor": "#ff8800",
@@ -19264,7 +19264,7 @@
             "strokeWidth": 1.5,
             "shape": "circle",
             "primary": true,
-            "label": "750-1750 CHF/qm"
+            "label": "750-1750 CHF/Zimmer"
           },
           {
             "label": "Wohnzonen",
