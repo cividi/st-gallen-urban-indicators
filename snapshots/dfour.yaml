@@ -7,9 +7,6 @@
     01-rent-heatmap:
       bfsNumber: 3203
       topic: Mietmarkt
-    01-rent-prices:
-      bfsNumber: 3203
-      topic: Rent
     01-rent-prices-L:
       bfsNumber: 3203
       topic: Mietmarkt
@@ -19,9 +16,6 @@
     01-rent-prices-S:
       bfsNumber: 3203
       topic: Mietmarkt
-    02-rent-bauzonen:
-      bfsNumber: 3203
-      topic: Rent
     03-aerial:
       bfsNumber: 3203
       topic: Perimeter
