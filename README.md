@@ -33,6 +33,8 @@ Python frameworks and libraries used: [scrapy](https://docs.scrapy.org/en/latest
 
 ### Data
 
+*Note*: GWR data for the purpose of the St. Gallen Hack is available on request (find Viktoria or Thorben on the Discord).
+
 #### Price Monitoring
 - 📈 CSV: [data/price-monitoring/price-monitoring.csv](data/price-monitoring/price-monitoring.csv)
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -130,6 +132,8 @@ For information on Streetwise, please have a look at [streetwise.space](https://
 The following data is related to the temporary use [«Areal Bach»](https://areal-bach.ch) (Perimeter see [Snapshot](https://sandbox.dfour.space/de/0SF96/9CCGML/)) north the train station St. Fiden and shows aggregated origins and destination trips by postalcode of people coming to or from the area during the summer week of June 14–20 2021.
 
 **Regular** in this context means multiple trips from the same origin/destination in the weeks before the sample is taken.
+
+*Note*: Reference data for comparisons/context is available on request (find Viktoria or Thorben on the Discord).
 
 Further background and information: [Swisscom Mobility Insights](https://mip.swisscom.ch).
 
