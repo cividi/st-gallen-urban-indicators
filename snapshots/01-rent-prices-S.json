@@ -6214,6 +6214,100 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001471716,
+              "object_ref": "5590.01.0003",
+              "category": "rent",
+              "date": "2021-11-07T10:35:48",
+              "flatType": null,
+              "floor": "-1",
+              "rent": 665,
+              "rent_add": 140,
+              "rent_net": 525,
+              "rooms": null,
+              "area": 26,
+              "year_built": 1964,
+              "street_number": "Stauffacherstrasse 5",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4235572814941",
+              "lng": "9.36404323577881",
+              "egid": 10711700,
+              "gwr_egid": 1071170,
+              "gwr_wazim": 1,
+              "gwr_warea": 25,
+              "gwr_wstwk": 3401,
+              "match_accuracy": "0.04",
+              "price_per_sqm": "25.576923076923077",
+              "price_per_room": "665.0",
+              "flat_cat": "S",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 665 CHF/Monat<br>Miete/qm: 25.58 CHF/Monat<br>Miete/Zimmer: 665.00 CHF/Monat<br>Nebenkosten: 140 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.364043235778809,
+                47.42355728149414
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001471203,
+              "object_ref": "53222.01.0002",
+              "category": "rent",
+              "date": "2021-11-07T10:36:16",
+              "flatType": null,
+              "floor": "-1",
+              "rent": 2090,
+              "rent_add": 290,
+              "rent_net": 1800,
+              "rooms": null,
+              "area": 120,
+              "year_built": 2013,
+              "street_number": "Langgasse 128",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": "47.4434280395508",
+              "lng": "9.395751953125",
+              "egid": 1908838490,
+              "gwr_egid": 190883849,
+              "gwr_wazim": 2,
+              "gwr_warea": 116,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0344827586206897",
+              "price_per_sqm": "17.416666666666668",
+              "price_per_room": "1045.0",
+              "flat_cat": "S",
+              "cat": "f",
+              "fillColor": "#ff8800",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 2090 CHF/Monat<br>Miete/qm: 17.42 CHF/Monat<br>Miete/Zimmer: 1045.00 CHF/Monat<br>Nebenkosten: 290 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.395751953125,
+                47.44342803955078
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001449586,
               "object_ref": "..5210.906120.3d67e10c-365f-11ec-842e-005056bdbc06",
               "category": "rent",
@@ -7280,7 +7374,7 @@
           "geo:47.43317355684985,9.396247605270359"
         ],
         "title": "Mietpreise Wohnungen S",
-        "description": "Mietpreise Stadt St. Gallen Wohnungen S (1-2 Zimmer), Daten: 12.10.2021 - 06.11.2021.",
+        "description": "Mietpreise Stadt St. Gallen Wohnungen S (1-2 Zimmer), Daten: 12.10.2021 - 07.11.2021.",
         "legend": [
           {
             "fillColor": "#0028b8",
