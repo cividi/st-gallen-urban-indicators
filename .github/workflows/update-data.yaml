@@ -1,4 +1,6 @@
 on:
+  schedule:
+    - cron: "49 * * * *"
   push:
     paths:
       - 'src/**.py'
