@@ -8,100 +8,100 @@
       "schema": {
         "fields": [
           {
-            "name": "id",
-            "type": "integer"
+            "type": "integer",
+            "name": "id"
           },
           {
-            "name": "object_ref",
-            "type": "string"
+            "type": "string",
+            "name": "object_ref"
           },
           {
-            "name": "category",
-            "type": "string"
+            "type": "string",
+            "name": "category"
           },
           {
-            "name": "date",
-            "type": "datetime"
+            "type": "datetime",
+            "name": "date"
           },
           {
             "name": "flatType",
             "type": "any"
           },
           {
-            "name": "floor",
-            "type": "string"
+            "type": "string",
+            "name": "floor"
           },
           {
-            "name": "rent",
-            "type": "integer"
+            "type": "integer",
+            "name": "rent"
           },
           {
-            "name": "rent_add",
-            "type": "integer"
+            "type": "integer",
+            "name": "rent_add"
           },
           {
-            "name": "rent_net",
-            "type": "integer"
+            "type": "integer",
+            "name": "rent_net"
           },
           {
             "name": "rooms",
             "type": "any"
           },
           {
-            "name": "area",
-            "type": "integer"
+            "type": "integer",
+            "name": "area"
           },
           {
-            "name": "year_built",
-            "type": "integer"
+            "type": "integer",
+            "name": "year_built"
           },
           {
-            "name": "street_number",
-            "type": "string"
+            "type": "string",
+            "name": "street_number"
           },
           {
-            "name": "city",
-            "type": "string"
+            "type": "string",
+            "name": "city"
           },
           {
-            "name": "zip",
-            "type": "integer"
+            "type": "integer",
+            "name": "zip"
           },
           {
-            "name": "lat",
-            "type": "number"
+            "type": "number",
+            "name": "lat"
           },
           {
-            "name": "lng",
-            "type": "number"
+            "type": "number",
+            "name": "lng"
           },
           {
-            "name": "_geom",
-            "type": "string"
+            "type": "string",
+            "name": "_geom"
           },
           {
-            "name": "egid",
-            "type": "integer"
+            "type": "integer",
+            "name": "egid"
           },
           {
-            "name": "gwr_egid",
-            "type": "integer"
+            "type": "integer",
+            "name": "gwr_egid"
           },
           {
-            "name": "gwr_wazim",
-            "type": "integer"
+            "type": "integer",
+            "name": "gwr_wazim"
           },
           {
-            "name": "gwr_warea",
-            "type": "integer"
+            "type": "integer",
+            "name": "gwr_warea"
           },
           {
-            "name": "gwr_wstwk",
-            "type": "integer"
+            "type": "integer",
+            "name": "gwr_wstwk"
           },
           {
-            "name": "match_accuracy",
-            "type": "number"
+            "type": "number",
+            "name": "match_accuracy"
           },
           {
             "name": "price_per_sqm",
