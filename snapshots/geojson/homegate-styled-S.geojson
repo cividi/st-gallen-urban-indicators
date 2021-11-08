@@ -7191,6 +7191,53 @@
           47.42599105834961
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001472823,
+        "object_ref": "2020.02.3005",
+        "category": "rent",
+        "date": "2021-11-08T11:01:00",
+        "flatType": null,
+        "floor": "3",
+        "rent": 930,
+        "rent_add": 130,
+        "rent_net": 800,
+        "rooms": null,
+        "area": 39,
+        "year_built": null,
+        "street_number": "Rorschacherstr. 251",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": null,
+        "lng": null,
+        "egid": 1076865,
+        "gwr_egid": 1076865,
+        "gwr_wazim": 2,
+        "gwr_warea": 39,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "23.846153846153847",
+        "price_per_room": "465.0",
+        "flat_cat": "S",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 930 CHF/Monat<br>Miete/qm: 23.85 CHF/Monat<br>Miete/Zimmer: 465.00 CHF/Monat<br>Nebenkosten: 130 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.40539775847312,
+          47.4373444269496
+        ]
+      }
     }
   ]
 }

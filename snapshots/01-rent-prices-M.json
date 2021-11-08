@@ -14909,6 +14909,100 @@
           {
             "type": "Feature",
             "properties": {
+              "id": 3001473454,
+              "object_ref": "E005",
+              "category": "rent",
+              "date": "2021-11-08T11:01:06",
+              "flatType": null,
+              "floor": null,
+              "rent": 1190,
+              "rent_add": 190,
+              "rent_net": 1000,
+              "rooms": null,
+              "area": 95,
+              "year_built": null,
+              "street_number": "Kolumbanstrasse 66",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": "47.4405746459961",
+              "lng": "9.39345836639404",
+              "egid": 10750510,
+              "gwr_egid": 1075051,
+              "gwr_wazim": 4,
+              "gwr_warea": 96,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0104166666666666",
+              "price_per_sqm": "12.526315789473685",
+              "price_per_room": "297.5",
+              "flat_cat": "M",
+              "cat": "b",
+              "fillColor": "#455db5",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1190 CHF/Monat<br>Miete/qm: 12.53 CHF/Monat<br>Miete/Zimmer: 297.50 CHF/Monat<br>Nebenkosten: 190 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.393458366394043,
+                47.440574645996094
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001473285,
+              "object_ref": "39414342",
+              "category": "rent",
+              "date": "2021-11-08T11:01:34",
+              "flatType": null,
+              "floor": null,
+              "rent": 1190,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 65,
+              "year_built": null,
+              "street_number": "Langgasse 61",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": "47.4383544921875",
+              "lng": "9.38934993743896",
+              "egid": 10752110,
+              "gwr_egid": 1075211,
+              "gwr_wazim": 3,
+              "gwr_warea": 70,
+              "gwr_wstwk": 3104,
+              "match_accuracy": "0.0714285714285714",
+              "price_per_sqm": "18.307692307692307",
+              "price_per_room": "396.6666666666667",
+              "flat_cat": "M",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1190 CHF/Monat<br>Miete/qm: 18.31 CHF/Monat<br>Miete/Zimmer: 396.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.389349937438965,
+                47.4383544921875
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
               "id": 3001434052,
               "object_ref": "TG2308.TG2308.TG2308",
               "category": "rent",
@@ -16031,6 +16125,53 @@
               "coordinates": [
                 9.397698402404785,
                 47.44910430908203
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001473171,
+              "object_ref": "rkcb0.afan8",
+              "category": "rent",
+              "date": "2021-11-08T11:01:55",
+              "flatType": null,
+              "floor": "GF",
+              "rent": 1550,
+              "rent_add": 160,
+              "rent_net": 1390,
+              "rooms": null,
+              "area": 88,
+              "year_built": 1924,
+              "street_number": "Paradiesstrasse 10",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4188041687012",
+              "lng": "9.36288642883301",
+              "egid": 10710480,
+              "gwr_egid": 1071048,
+              "gwr_wazim": 3,
+              "gwr_warea": 83,
+              "gwr_wstwk": 3100,
+              "match_accuracy": "0.0602409638554218",
+              "price_per_sqm": "17.613636363636363",
+              "price_per_room": "516.6666666666666",
+              "flat_cat": "M",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1550 CHF/Monat<br>Miete/qm: 17.61 CHF/Monat<br>Miete/Zimmer: 516.67 CHF/Monat<br>Nebenkosten: 160 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.362886428833008,
+                47.41880416870117
               ]
             }
           },
