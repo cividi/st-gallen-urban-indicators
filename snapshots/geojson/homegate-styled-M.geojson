@@ -18001,6 +18001,100 @@
           47.4150500166327
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001484946,
+        "object_ref": "47613410",
+        "category": "rent",
+        "date": "2021-11-14T09:51:18",
+        "flatType": null,
+        "floor": null,
+        "rent": 1825,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 115,
+        "year_built": null,
+        "street_number": "Sch\u00f6nb\u00fcelpark 7",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.4410133361816",
+        "lng": "9.41225528717041",
+        "egid": 1904256940,
+        "gwr_egid": 190425694,
+        "gwr_wazim": 4,
+        "gwr_warea": 109,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.0550458715596329",
+        "price_per_sqm": "15.869565217391305",
+        "price_per_room": "456.25",
+        "flat_cat": "M",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1825 CHF/Monat<br>Miete/qm: 15.87 CHF/Monat<br>Miete/Zimmer: 456.25 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41225528717041,
+          47.44101333618164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001484956,
+        "object_ref": "48362664",
+        "category": "rent",
+        "date": "2021-11-14T09:51:55",
+        "flatType": null,
+        "floor": null,
+        "rent": 1220,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 55,
+        "year_built": null,
+        "street_number": "Br\u00fchlbleichestrasse",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4301338195801",
+        "lng": "9.3830680847168",
+        "egid": 10729320,
+        "gwr_egid": 1072932,
+        "gwr_wazim": 3,
+        "gwr_warea": 62,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.112903225806452",
+        "price_per_sqm": "22.181818181818183",
+        "price_per_room": "406.6666666666667",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1220 CHF/Monat<br>Miete/qm: 22.18 CHF/Monat<br>Miete/Zimmer: 406.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383068084716797,
+          47.43013381958008
+        ]
+      }
     }
   ]
 }

@@ -29939,6 +29939,104 @@
           47.4150500166327
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001484946,
+        "object_ref": "47613410",
+        "category": "rent",
+        "date": "2021-11-14T09:51:18",
+        "flatType": null,
+        "floor": null,
+        "rent": 1825,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 115,
+        "year_built": null,
+        "street_number": "Sch\u00f6nb\u00fcelpark 7",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.4410133361816",
+        "lng": "9.41225528717041",
+        "gwr_egid": 190425694,
+        "match_accuracy": "0.0550458715596329",
+        "price_per_sqm": "15.869565217391305",
+        "price_per_room": "456.25",
+        "flat_cat": "M",
+        "cat": "d",
+        "egid": 190425694,
+        "ren_potential": false,
+        "LR_DAY": "62.0",
+        "LR_NIGHT": "54.0",
+        "ES": "ES III",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": ">PW, \u2264IGW",
+        "EXP_LIM_N": ">PW, \u2264IGW",
+        "EXP_LIM": ">PW, \u2264IGW",
+        "noise_below": false,
+        "quartier_nummer": 307,
+        "quartier_kreis": "Osten",
+        "quartier_quartiergr": "Neudorf",
+        "quartier_statistisc": "Achslen-Wilen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41225528717041,
+          47.44101333618164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001484956,
+        "object_ref": "48362664",
+        "category": "rent",
+        "date": "2021-11-14T09:51:55",
+        "flatType": null,
+        "floor": null,
+        "rent": 1220,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 55,
+        "year_built": null,
+        "street_number": "Br\u00fchlbleichestrasse",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4301338195801",
+        "lng": "9.3830680847168",
+        "gwr_egid": 1072932,
+        "match_accuracy": "0.112903225806452",
+        "price_per_sqm": "22.181818181818183",
+        "price_per_room": "406.6666666666667",
+        "flat_cat": "M",
+        "cat": "c",
+        "egid": 1072932,
+        "ren_potential": false,
+        "LR_DAY": null,
+        "LR_NIGHT": null,
+        "ES": null,
+        "COMM_USE_D": null,
+        "EXP_LIM_D": null,
+        "EXP_LIM_N": null,
+        "EXP_LIM": null,
+        "noise_below": true,
+        "quartier_nummer": 207,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "St.Jakob",
+        "quartier_statistisc": "St.Jakob"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383068084716797,
+          47.43013381958008
+        ]
+      }
     }
   ]
 }
