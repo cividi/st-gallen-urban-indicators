@@ -30037,6 +30037,55 @@
           47.43013381958008
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001485076,
+        "object_ref": "a6l8y.3xx9k",
+        "category": "rent",
+        "date": "2021-11-14T14:50:45",
+        "flatType": null,
+        "floor": null,
+        "rent": 1625,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 80,
+        "year_built": null,
+        "street_number": "Sternackerstrasse 10",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4258728027344",
+        "lng": "9.38360977172852",
+        "gwr_egid": 1073744,
+        "match_accuracy": "0.0389610389610389",
+        "price_per_sqm": "20.3125",
+        "price_per_room": "541.6666666666666",
+        "flat_cat": "M",
+        "cat": "d",
+        "egid": 1073744,
+        "ren_potential": false,
+        "LR_DAY": "54.0",
+        "LR_NIGHT": "44.0",
+        "ES": "ES III",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": "\u2264PW",
+        "EXP_LIM_N": "\u2264PW",
+        "EXP_LIM": "\u2264PW",
+        "noise_below": true,
+        "quartier_nummer": 208,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "Linsenb\u00fchl-Dreilinden",
+        "quartier_statistisc": "Linsenb\u00fchl-Dreilinden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383609771728516,
+          47.425872802734375
+        ]
+      }
     }
   ]
 }
