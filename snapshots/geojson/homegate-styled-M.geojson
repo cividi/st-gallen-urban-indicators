@@ -19693,6 +19693,53 @@
           47.41456985473633
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001506669,
+        "object_ref": "5415.01.0006",
+        "category": "rent",
+        "date": "2021-11-25T16:50:59",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1820,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 49,
+        "year_built": 1959,
+        "street_number": "Achslenweg 3",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.435302734375",
+        "lng": "9.40940380096436",
+        "egid": 10766290,
+        "gwr_egid": 1076629,
+        "gwr_wazim": 3,
+        "gwr_warea": 59,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.169491525423729",
+        "price_per_sqm": "37.142857142857146",
+        "price_per_room": "606.6666666666666",
+        "flat_cat": "M",
+        "cat": "e",
+        "fillColor": "#df9848",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1820 CHF/Monat<br>Miete/qm: 37.14 CHF/Monat<br>Miete/Zimmer: 606.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.409403800964355,
+          47.435302734375
+        ]
+      }
     }
   ]
 }

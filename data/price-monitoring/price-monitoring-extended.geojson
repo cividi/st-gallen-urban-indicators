@@ -33467,6 +33467,104 @@
           47.41456985473633
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001506669,
+        "object_ref": "5415.01.0006",
+        "category": "rent",
+        "date": "2021-11-25T16:50:59",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1820,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 49,
+        "year_built": "1959.0",
+        "street_number": "Achslenweg 3",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.435302734375",
+        "lng": "9.40940380096436",
+        "gwr_egid": 1076629,
+        "match_accuracy": "0.169491525423729",
+        "price_per_sqm": "37.142857142857146",
+        "price_per_room": "606.6666666666666",
+        "flat_cat": "M",
+        "cat": "e",
+        "egid": 1076629,
+        "ren_potential": false,
+        "LR_DAY": null,
+        "LR_NIGHT": null,
+        "ES": null,
+        "COMM_USE_D": null,
+        "EXP_LIM_D": null,
+        "EXP_LIM_N": null,
+        "EXP_LIM": null,
+        "noise_below": true,
+        "quartier_nummer": 307,
+        "quartier_kreis": "Osten",
+        "quartier_quartiergr": "Neudorf",
+        "quartier_statistisc": "Achslen-Wilen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.409403800964355,
+          47.435302734375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001506672,
+        "object_ref": "5882.01.0301",
+        "category": "rent",
+        "date": "2021-11-25T16:51:19",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1630,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 33,
+        "year_built": "1961.0",
+        "street_number": "Paradiesstrasse 4",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4190406799316",
+        "lng": "9.36319065093994",
+        "gwr_egid": 1071037,
+        "match_accuracy": "0.32",
+        "price_per_sqm": "49.39393939393939",
+        "price_per_room": "1630.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "egid": 1071037,
+        "ren_potential": true,
+        "LR_DAY": null,
+        "LR_NIGHT": null,
+        "ES": null,
+        "COMM_USE_D": null,
+        "EXP_LIM_D": null,
+        "EXP_LIM_N": null,
+        "EXP_LIM": null,
+        "noise_below": true,
+        "quartier_nummer": 202,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "Rosenberg",
+        "quartier_statistisc": "Rosenberg-Kreubleiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.363190650939941,
+          47.41904067993164
+        ]
+      }
     }
   ]
 }
