@@ -1320,6 +1320,53 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001505933,
+        "object_ref": "919653.a000900000Kn448AAB",
+        "category": "rent",
+        "date": "2021-11-25T10:51:06",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1760,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 57,
+        "year_built": null,
+        "street_number": "Rosenfeldstrasse 7",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": null,
+        "lng": null,
+        "egid": 1074742,
+        "gwr_egid": 1074742,
+        "gwr_wazim": 5,
+        "gwr_warea": 130,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.561538461538462",
+        "price_per_sqm": "30.87719298245614",
+        "price_per_room": "352.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1760 CHF/Monat<br>Miete/qm: 30.88 CHF/Monat<br>Miete/Zimmer: 352.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3851836993069,
+          47.4339349039222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001390742,
         "object_ref": "Lukasstrasse 41 - 4.5 Zi-Wg 1. OG West 1.",
         "category": "rent",
@@ -3288,6 +3335,53 @@
         "coordinates": [
           9.361735343933105,
           47.4186897277832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001505625,
+        "object_ref": "SG-Hebelstrasse 17, 10.5_001.925869.32c2fdae-4dc0-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-11-25T10:26:37",
+        "flatType": null,
+        "floor": "2",
+        "rent": 6390,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 390,
+        "year_built": null,
+        "street_number": "Hebelstrasse 17",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4176368713379",
+        "lng": "9.382981300354",
+        "egid": 10740300,
+        "gwr_egid": 1074030,
+        "gwr_wazim": 6,
+        "gwr_warea": 110,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "2.54545454545455",
+        "price_per_sqm": "16.384615384615383",
+        "price_per_room": "1065.0",
+        "flat_cat": "L",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 6390 CHF/Monat<br>Miete/qm: 16.38 CHF/Monat<br>Miete/Zimmer: 1065.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.382981300354004,
+          47.41763687133789
         ]
       }
     }

@@ -14949,6 +14949,55 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3001505933,
+        "object_ref": "919653.a000900000Kn448AAB",
+        "category": "rent",
+        "date": "2021-11-25T10:51:06",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1760,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 57,
+        "year_built": null,
+        "street_number": "Rosenfeldstrasse 7",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": null,
+        "lng": null,
+        "gwr_egid": 1074742,
+        "match_accuracy": "0.561538461538462",
+        "price_per_sqm": "30.87719298245614",
+        "price_per_room": "352.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "egid": 1074742,
+        "ren_potential": false,
+        "LR_DAY": "57.0",
+        "LR_NIGHT": "50.0",
+        "ES": "ES III",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": "\u2264PW",
+        "EXP_LIM_N": "\u2264PW",
+        "EXP_LIM": "\u2264PW",
+        "noise_below": true,
+        "quartier_nummer": 302,
+        "quartier_kreis": "Osten",
+        "quartier_quartiergr": "Langgass-Heiligkreuz",
+        "quartier_statistisc": "Langgass-Heiligkreuz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3851836993069,
+          47.4339349039222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3001389165,
         "object_ref": "1033.10.2021.848779.910cc64c-d4b8-11eb-92cc-005056bdbc06",
         "category": "rent",
@@ -33269,6 +33318,55 @@
         "coordinates": [
           9.37906581129918,
           47.4265164136986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001505625,
+        "object_ref": "SG-Hebelstrasse 17, 10.5_001.925869.32c2fdae-4dc0-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-11-25T10:26:37",
+        "flatType": null,
+        "floor": "2",
+        "rent": 6390,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 390,
+        "year_built": null,
+        "street_number": "Hebelstrasse 17",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4176368713379",
+        "lng": "9.382981300354",
+        "gwr_egid": 1074030,
+        "match_accuracy": "2.54545454545455",
+        "price_per_sqm": "16.384615384615383",
+        "price_per_room": "1065.0",
+        "flat_cat": "L",
+        "cat": "f",
+        "egid": 1074030,
+        "ren_potential": false,
+        "LR_DAY": null,
+        "LR_NIGHT": null,
+        "ES": null,
+        "COMM_USE_D": null,
+        "EXP_LIM_D": null,
+        "EXP_LIM_N": null,
+        "EXP_LIM": null,
+        "noise_below": true,
+        "quartier_nummer": 209,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "St.Georgen",
+        "quartier_statistisc": "St.Georgen-Bach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.382981300354004,
+          47.41763687133789
         ]
       }
     }
