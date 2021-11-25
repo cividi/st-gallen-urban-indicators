@@ -3578,6 +3578,53 @@
                 47.4319953918457
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001506918,
+              "object_ref": "8905.03.0234",
+              "category": "rent",
+              "date": "2021-11-25T18:26:39",
+              "flatType": null,
+              "floor": "2",
+              "rent": 3070,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 180,
+              "year_built": 2005,
+              "street_number": "Falkensteinstrasse 54a",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4306259155273",
+              "lng": "9.39672088623047",
+              "egid": 1600075720,
+              "gwr_egid": 160007572,
+              "gwr_wazim": 5,
+              "gwr_warea": 144,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.25",
+              "price_per_sqm": "17.055555555555557",
+              "price_per_room": "614.0",
+              "flat_cat": "L",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 3070 CHF/Monat<br>Miete/qm: 17.06 CHF/Monat<br>Miete/Zimmer: 614.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.396720886230469,
+                47.430625915527344
+              ]
+            }
           }
         ]
       },

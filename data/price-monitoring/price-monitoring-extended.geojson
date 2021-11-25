@@ -33614,6 +33614,104 @@
           47.4189567565918
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001506921,
+        "object_ref": "0198",
+        "category": "rent",
+        "date": "2021-11-25T18:26:18",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1720,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 52,
+        "year_built": null,
+        "street_number": "Linseb\u00fchlstrasse 103",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4261894226074",
+        "lng": "9.38566780090332",
+        "gwr_egid": 1073652,
+        "match_accuracy": "0.287671232876712",
+        "price_per_sqm": "33.07692307692308",
+        "price_per_room": "573.3333333333334",
+        "flat_cat": "M",
+        "cat": "d",
+        "egid": 1073652,
+        "ren_potential": true,
+        "LR_DAY": "57.0",
+        "LR_NIGHT": "43.0",
+        "ES": "ES II",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": ">PW, \u2264IGW",
+        "EXP_LIM_N": "\u2264PW",
+        "EXP_LIM": ">PW, \u2264IGW",
+        "noise_below": false,
+        "quartier_nummer": 208,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "Linsenb\u00fchl-Dreilinden",
+        "quartier_statistisc": "Linsenb\u00fchl-Dreilinden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38566780090332,
+          47.42618942260742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001506918,
+        "object_ref": "8905.03.0234",
+        "category": "rent",
+        "date": "2021-11-25T18:26:39",
+        "flatType": null,
+        "floor": "2",
+        "rent": 3070,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 180,
+        "year_built": "2005.0",
+        "street_number": "Falkensteinstrasse 54a",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4306259155273",
+        "lng": "9.39672088623047",
+        "gwr_egid": 160007572,
+        "match_accuracy": "0.25",
+        "price_per_sqm": "17.055555555555557",
+        "price_per_room": "614.0",
+        "flat_cat": "L",
+        "cat": "e",
+        "egid": 160007572,
+        "ren_potential": false,
+        "LR_DAY": null,
+        "LR_NIGHT": null,
+        "ES": null,
+        "COMM_USE_D": null,
+        "EXP_LIM_D": null,
+        "EXP_LIM_N": null,
+        "EXP_LIM": null,
+        "noise_below": true,
+        "quartier_nummer": 303,
+        "quartier_kreis": "Osten",
+        "quartier_quartiergr": "St.Fiden",
+        "quartier_statistisc": "St.Fiden-Krontal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.396720886230469,
+          47.430625915527344
+        ]
+      }
     }
   ]
 }
