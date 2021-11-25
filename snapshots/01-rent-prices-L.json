@@ -3531,6 +3531,53 @@
                 47.41763687133789
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001506070,
+              "object_ref": "81.926139.dd3b6895-4ddc-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2021-11-25T11:51:39",
+              "flatType": null,
+              "floor": "GF",
+              "rent": 2890,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 160,
+              "year_built": null,
+              "street_number": "Falkensteinstrasse 81",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4319953918457",
+              "lng": "9.39949798583984",
+              "egid": 10758850,
+              "gwr_egid": 1075885,
+              "gwr_wazim": 5,
+              "gwr_warea": 139,
+              "gwr_wstwk": 3100,
+              "match_accuracy": "0.151079136690647",
+              "price_per_sqm": "18.0625",
+              "price_per_room": "578.0",
+              "flat_cat": "L",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 2890 CHF/Monat<br>Miete/qm: 18.06 CHF/Monat<br>Miete/Zimmer: 578.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.399497985839844,
+                47.4319953918457
+              ]
+            }
           }
         ]
       },
