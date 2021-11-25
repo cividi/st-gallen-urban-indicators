@@ -33565,6 +33565,55 @@
           47.41904067993164
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001506701,
+        "object_ref": "2850.4041",
+        "category": "rent",
+        "date": "2021-11-25T17:01:22",
+        "flatType": null,
+        "floor": "4",
+        "rent": 1690,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 58,
+        "year_built": "1910.0",
+        "street_number": "Glaserstrasse 3",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4189567565918",
+        "lng": "9.35439014434814",
+        "gwr_egid": 1070265,
+        "match_accuracy": "0.355555555555556",
+        "price_per_sqm": "29.137931034482758",
+        "price_per_room": "422.5",
+        "flat_cat": "M",
+        "cat": "c",
+        "egid": 1070265,
+        "ren_potential": false,
+        "LR_DAY": "58.0",
+        "LR_NIGHT": "51.0",
+        "ES": "ES III",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": "\u2264PW",
+        "EXP_LIM_N": ">PW, \u2264IGW",
+        "EXP_LIM": ">PW, \u2264IGW",
+        "noise_below": false,
+        "quartier_nummer": 113,
+        "quartier_kreis": "Westen",
+        "quartier_quartiergr": "Lachen",
+        "quartier_statistisc": "Vonwil-Lachen-Schoren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.354390144348145,
+          47.4189567565918
+        ]
+      }
     }
   ]
 }
