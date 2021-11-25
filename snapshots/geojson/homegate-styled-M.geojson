@@ -19646,6 +19646,53 @@
           47.4265164136986
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001506207,
+        "object_ref": "053-13.11.926221.f36ecb1c-4de7-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2021-11-25T13:25:46",
+        "flatType": null,
+        "floor": "1",
+        "rent": 2540,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 160,
+        "year_built": 1977,
+        "street_number": "Bachweidstrasse 6",
+        "city": "St. Gallen",
+        "zip": 9011,
+        "lat": "47.4145698547363",
+        "lng": "9.39673900604248",
+        "egid": 10737940,
+        "gwr_egid": 1073794,
+        "gwr_wazim": 4,
+        "gwr_warea": 130,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.230769230769231",
+        "price_per_sqm": "15.875",
+        "price_per_room": "635.0",
+        "flat_cat": "M",
+        "cat": "e",
+        "fillColor": "#df9848",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 2540 CHF/Monat<br>Miete/qm: 15.88 CHF/Monat<br>Miete/Zimmer: 635.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.39673900604248,
+          47.41456985473633
+        ]
+      }
     }
   ]
 }
