@@ -2867,6 +2867,100 @@
           47.42076110839844
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001501368,
+        "object_ref": "5055.10.0001",
+        "category": "rent",
+        "date": "2021-11-25T08:52:02",
+        "flatType": null,
+        "floor": "GF",
+        "rent": 2980,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 160,
+        "year_built": 2009,
+        "street_number": "Rosenb\u00fcchelstrasse 17",
+        "city": "St. Gallen",
+        "zip": 9014,
+        "lat": "47.4076881408691",
+        "lng": "9.3434419631958",
+        "egid": 1902561080,
+        "gwr_egid": 190256108,
+        "gwr_wazim": 5,
+        "gwr_warea": 139,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.151079136690647",
+        "price_per_sqm": "18.625",
+        "price_per_room": "596.0",
+        "flat_cat": "L",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2980 CHF/Monat<br>Miete/qm: 18.62 CHF/Monat<br>Miete/Zimmer: 596.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3434419631958,
+          47.40768814086914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001502928,
+        "object_ref": "919653.a000900000Kn448AAB",
+        "category": "rent",
+        "date": "2021-11-25T08:51:16",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1760,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 57,
+        "year_built": null,
+        "street_number": "Rosenfeldstrasse 7",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": null,
+        "lng": null,
+        "egid": 1074742,
+        "gwr_egid": 1074742,
+        "gwr_wazim": 5,
+        "gwr_warea": 130,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.561538461538462",
+        "price_per_sqm": "30.87719298245614",
+        "price_per_room": "352.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1760 CHF/Monat<br>Miete/qm: 30.88 CHF/Monat<br>Miete/Zimmer: 352.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3851836993069,
+          47.4339349039222
+        ]
+      }
     }
   ]
 }
