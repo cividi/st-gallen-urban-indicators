@@ -19834,6 +19834,53 @@
           47.42618942260742
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001507733,
+        "object_ref": "1066.01.130001",
+        "category": "rent",
+        "date": "2021-11-26T02:26:17",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1520,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 48,
+        "year_built": null,
+        "street_number": "Davidstrasse 13",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4208068847656",
+        "lng": "9.37067699432373",
+        "egid": 10723350,
+        "gwr_egid": 1072335,
+        "gwr_wazim": 3,
+        "gwr_warea": 70,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.314285714285714",
+        "price_per_sqm": "31.666666666666668",
+        "price_per_room": "506.6666666666667",
+        "flat_cat": "M",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1520 CHF/Monat<br>Miete/qm: 31.67 CHF/Monat<br>Miete/Zimmer: 506.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37067699432373,
+          47.420806884765625
+        ]
+      }
     }
   ]
 }
