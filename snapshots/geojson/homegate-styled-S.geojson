@@ -9024,6 +9024,53 @@
           47.41904067993164
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001508250,
+        "object_ref": "08083.04.0431",
+        "category": "rent",
+        "date": "2021-11-26T09:50:57",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1620,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 46,
+        "year_built": 1988,
+        "street_number": "Gerhaldenstr. 1",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4348678588867",
+        "lng": "9.38477230072021",
+        "egid": 10747470,
+        "gwr_egid": 1074747,
+        "gwr_wazim": 2,
+        "gwr_warea": 65,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.292307692307692",
+        "price_per_sqm": "35.21739130434783",
+        "price_per_room": "810.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1620 CHF/Monat<br>Miete/qm: 35.22 CHF/Monat<br>Miete/Zimmer: 810.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.384772300720215,
+          47.43486785888672
+        ]
+      }
     }
   ]
 }
