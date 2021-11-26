@@ -9118,6 +9118,53 @@
           47.43244934082031
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001509219,
+        "object_ref": "01636.01.0009",
+        "category": "rent",
+        "date": "2021-11-26T16:51:12",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1410,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 37,
+        "year_built": null,
+        "street_number": "Fellenbergstrasse 67",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4148406982422",
+        "lng": "9.36576366424561",
+        "egid": 10715830,
+        "gwr_egid": 1071583,
+        "gwr_wazim": 1,
+        "gwr_warea": 32,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.15625",
+        "price_per_sqm": "38.108108108108105",
+        "price_per_room": "1410.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1410 CHF/Monat<br>Miete/qm: 38.11 CHF/Monat<br>Miete/Zimmer: 1410.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.365763664245605,
+          47.41484069824219
+        ]
+      }
     }
   ]
 }
