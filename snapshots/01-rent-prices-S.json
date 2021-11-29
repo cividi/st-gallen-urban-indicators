@@ -9453,6 +9453,53 @@
                 47.424678802490234
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001515220,
+              "object_ref": "9705.01.0301",
+              "category": "rent",
+              "date": "2021-11-29T18:26:21",
+              "flatType": null,
+              "floor": "3",
+              "rent": 1660,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 38,
+              "year_built": null,
+              "street_number": "Multergasse 22",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4242744445801",
+              "lng": "9.37534618377686",
+              "egid": 10725270,
+              "gwr_egid": 1072527,
+              "gwr_wazim": 2,
+              "gwr_warea": 52,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.269230769230769",
+              "price_per_sqm": "43.68421052631579",
+              "price_per_room": "830.0",
+              "flat_cat": "S",
+              "cat": "f",
+              "fillColor": "#ff8800",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1660 CHF/Monat<br>Miete/qm: 43.68 CHF/Monat<br>Miete/Zimmer: 830.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.375346183776855,
+                47.42427444458008
+              ]
+            }
           }
         ]
       },

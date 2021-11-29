@@ -3478,6 +3478,53 @@
           47.430625915527344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001515208,
+        "object_ref": "57013.01.0102",
+        "category": "rent",
+        "date": "2021-11-29T18:26:01",
+        "flatType": null,
+        "floor": "1",
+        "rent": 2370,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 130,
+        "year_built": null,
+        "street_number": "Lehnstrasse 89",
+        "city": "St. Gallen",
+        "zip": 9014,
+        "lat": "47.404857635498",
+        "lng": "9.32442665100098",
+        "egid": 10691470,
+        "gwr_egid": 1069147,
+        "gwr_wazim": 5,
+        "gwr_warea": 114,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.140350877192982",
+        "price_per_sqm": "18.23076923076923",
+        "price_per_room": "474.0",
+        "flat_cat": "L",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2370 CHF/Monat<br>Miete/qm: 18.23 CHF/Monat<br>Miete/Zimmer: 474.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.324426651000977,
+          47.40485763549805
+        ]
+      }
     }
   ]
 }

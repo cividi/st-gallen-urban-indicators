@@ -20404,6 +20404,53 @@
                 47.43013381958008
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001515213,
+              "object_ref": "94167.01.0006",
+              "category": "rent",
+              "date": "2021-11-29T18:26:31",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1930,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 66,
+              "year_built": 1956,
+              "street_number": "Singenbergstrasse 12",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4273109436035",
+              "lng": "9.38480758666992",
+              "egid": 10736720,
+              "gwr_egid": 1073672,
+              "gwr_wazim": 3,
+              "gwr_warea": 69,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0434782608695652",
+              "price_per_sqm": "29.242424242424242",
+              "price_per_room": "643.3333333333334",
+              "flat_cat": "M",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1930 CHF/Monat<br>Miete/qm: 29.24 CHF/Monat<br>Miete/Zimmer: 643.33 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.384807586669922,
+                47.427310943603516
+              ]
+            }
           }
         ]
       },
