@@ -20357,6 +20357,53 @@
                 47.43275451660156
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001514774,
+              "object_ref": "48362664",
+              "category": "rent",
+              "date": "2021-11-29T14:51:41",
+              "flatType": null,
+              "floor": null,
+              "rent": 1590,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 41,
+              "year_built": null,
+              "street_number": "Br\u00fchlbleichestrasse",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4301338195801",
+              "lng": "9.3830680847168",
+              "egid": 10729320,
+              "gwr_egid": 1072932,
+              "gwr_wazim": 3,
+              "gwr_warea": 62,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.338709677419355",
+              "price_per_sqm": "38.78048780487805",
+              "price_per_room": "530.0",
+              "flat_cat": "M",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1590 CHF/Monat<br>Miete/qm: 38.78 CHF/Monat<br>Miete/Zimmer: 530.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.383068084716797,
+                47.43013381958008
+              ]
+            }
           }
         ]
       },
