@@ -9165,6 +9165,100 @@
           47.41484069824219
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001510520,
+        "object_ref": "oabvi.dz9ii",
+        "category": "rent",
+        "date": "2021-11-29T13:51:08",
+        "flatType": null,
+        "floor": "8",
+        "rent": 1160,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 42,
+        "year_built": 1972,
+        "street_number": "Zwyssigstrasse 16",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4220542907715",
+        "lng": "9.34677696228027",
+        "egid": 10705590,
+        "gwr_egid": 1070559,
+        "gwr_wazim": 2,
+        "gwr_warea": 47,
+        "gwr_wstwk": 3108,
+        "match_accuracy": "0.106382978723404",
+        "price_per_sqm": "27.61904761904762",
+        "price_per_room": "580.0",
+        "flat_cat": "S",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1160 CHF/Monat<br>Miete/qm: 27.62 CHF/Monat<br>Miete/Zimmer: 580.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.346776962280273,
+          47.422054290771484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001510823,
+        "object_ref": "16482.01.0204",
+        "category": "rent",
+        "date": "2021-11-29T13:51:35",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1840,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 49,
+        "year_built": 1966,
+        "street_number": "Hafnerstrasse 8",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4238777160645",
+        "lng": "9.38092994689941",
+        "egid": 10734980,
+        "gwr_egid": 1073498,
+        "gwr_wazim": 2,
+        "gwr_warea": 59,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.169491525423729",
+        "price_per_sqm": "37.55102040816327",
+        "price_per_room": "920.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1840 CHF/Monat<br>Miete/qm: 37.55 CHF/Monat<br>Miete/Zimmer: 920.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.380929946899414,
+          47.42387771606445
+        ]
+      }
     }
   ]
 }
