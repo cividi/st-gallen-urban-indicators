@@ -4089,6 +4089,53 @@
           47.4077462429218
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001529390,
+        "object_ref": "4i12w.de482",
+        "category": "rent",
+        "date": "2021-12-05T14:51:10",
+        "flatType": null,
+        "floor": "GF",
+        "rent": 2080,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 74,
+        "year_built": null,
+        "street_number": "Langgasse 19",
+        "city": "St. Gallen",
+        "zip": 9008,
+        "lat": "47.4352989196777",
+        "lng": "9.38554954528809",
+        "egid": 10752370,
+        "gwr_egid": 1075237,
+        "gwr_wazim": 5,
+        "gwr_warea": 100,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.26",
+        "price_per_sqm": "28.10810810810811",
+        "price_per_room": "416.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2080 CHF/Monat<br>Miete/qm: 28.11 CHF/Monat<br>Miete/Zimmer: 416.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.385549545288086,
+          47.435298919677734
+        ]
+      }
     }
   ]
 }
