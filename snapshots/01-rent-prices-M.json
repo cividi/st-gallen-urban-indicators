@@ -21485,6 +21485,53 @@
                 47.4178580121799
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001529339,
+              "object_ref": "932049.a000900000KptfXAAR",
+              "category": "rent",
+              "date": "2021-12-05T12:01:26",
+              "flatType": null,
+              "floor": "3",
+              "rent": 1820,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 63,
+              "year_built": 1962,
+              "street_number": "Gerbeweg 1",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4210968017578",
+              "lng": "9.35379028320312",
+              "egid": 10704000,
+              "gwr_egid": 1070400,
+              "gwr_wazim": 3,
+              "gwr_warea": 66,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.0454545454545454",
+              "price_per_sqm": "28.88888888888889",
+              "price_per_room": "606.6666666666666",
+              "flat_cat": "M",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1820 CHF/Monat<br>Miete/qm: 28.89 CHF/Monat<br>Miete/Zimmer: 606.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.353790283203125,
+                47.42109680175781
+              ]
+            }
           }
         ]
       },

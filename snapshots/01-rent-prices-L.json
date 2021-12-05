@@ -4142,6 +4142,100 @@
                 47.4172319477786
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001529261,
+              "object_ref": "919653.a000900000Kn448AAB",
+              "category": "rent",
+              "date": "2021-12-05T12:00:58",
+              "flatType": null,
+              "floor": "2",
+              "rent": 1770,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 64,
+              "year_built": null,
+              "street_number": "Rosenfeldstrasse 7",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": null,
+              "lng": null,
+              "egid": 1074742,
+              "gwr_egid": 1074742,
+              "gwr_wazim": 5,
+              "gwr_warea": 130,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.507692307692308",
+              "price_per_sqm": "27.65625",
+              "price_per_room": "354.0",
+              "flat_cat": "L",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 1770 CHF/Monat<br>Miete/qm: 27.66 CHF/Monat<br>Miete/Zimmer: 354.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.3851836993069,
+                47.4339349039222
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001529012,
+              "object_ref": "49039708",
+              "category": "rent",
+              "date": "2021-12-05T12:01:09",
+              "flatType": null,
+              "floor": null,
+              "rent": 2330,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 150,
+              "year_built": null,
+              "street_number": "Z\u00fcrcherstrasse",
+              "city": "St. Gallen",
+              "zip": 9014,
+              "lat": null,
+              "lng": null,
+              "egid": 2364238,
+              "gwr_egid": 2364238,
+              "gwr_wazim": 5,
+              "gwr_warea": 116,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.293103448275862",
+              "price_per_sqm": "15.533333333333333",
+              "price_per_room": "466.0",
+              "flat_cat": "L",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 2330 CHF/Monat<br>Miete/qm: 15.53 CHF/Monat<br>Miete/Zimmer: 466.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.32820685473219,
+                47.4077462429218
+              ]
+            }
           }
         ]
       },
