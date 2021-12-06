@@ -21714,6 +21714,53 @@
           47.41688919067383
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001532515,
+        "object_ref": "10198.04.0801",
+        "category": "rent",
+        "date": "2021-12-06T17:26:04",
+        "flatType": null,
+        "floor": "8",
+        "rent": 2550,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 130,
+        "year_built": 2012,
+        "street_number": "Zweibruggenm\u00fchlestrasse 13",
+        "city": "St. Gallen",
+        "zip": 9014,
+        "lat": "47.406867980957",
+        "lng": "9.32789421081543",
+        "egid": 1906083170,
+        "gwr_egid": 190608317,
+        "gwr_wazim": 4,
+        "gwr_warea": 102,
+        "gwr_wstwk": 3108,
+        "match_accuracy": "0.274509803921569",
+        "price_per_sqm": "19.615384615384617",
+        "price_per_room": "637.5",
+        "flat_cat": "M",
+        "cat": "e",
+        "fillColor": "#df9848",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 2550 CHF/Monat<br>Miete/qm: 19.62 CHF/Monat<br>Miete/Zimmer: 637.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.32789421081543,
+          47.40686798095703
+        ]
+      }
     }
   ]
 }
