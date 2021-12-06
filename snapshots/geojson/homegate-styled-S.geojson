@@ -10199,6 +10199,53 @@
           47.4146678644583
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001531712,
+        "object_ref": "z8p0u.xhxoq",
+        "category": "rent",
+        "date": "2021-12-06T12:51:34",
+        "flatType": null,
+        "floor": "2",
+        "rent": 2180,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 62,
+        "year_built": 2021,
+        "street_number": "Ahornstrasse 21",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4141235351562",
+        "lng": "9.34574317932129",
+        "egid": 1918237340,
+        "gwr_egid": 191823734,
+        "gwr_wazim": 2,
+        "gwr_warea": 63,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0158730158730159",
+        "price_per_sqm": "35.16129032258065",
+        "price_per_room": "1090.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 2180 CHF/Monat<br>Miete/qm: 35.16 CHF/Monat<br>Miete/Zimmer: 1090.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.345743179321289,
+          47.41412353515625
+        ]
+      }
     }
   ]
 }

@@ -21720,6 +21720,100 @@
                 47.43292236328125
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001531699,
+              "object_ref": "963304.02.00002",
+              "category": "rent",
+              "date": "2021-12-06T12:51:12",
+              "flatType": null,
+              "floor": "GF",
+              "rent": 1550,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 54,
+              "year_built": 1970,
+              "street_number": "Z\u00fcrcher Str. 104a",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4166603088379",
+              "lng": "9.34597587585449",
+              "egid": 10700630,
+              "gwr_egid": 1070063,
+              "gwr_wazim": 4,
+              "gwr_warea": 68,
+              "gwr_wstwk": 3100,
+              "match_accuracy": "0.205882352941177",
+              "price_per_sqm": "28.703703703703702",
+              "price_per_room": "387.5",
+              "flat_cat": "M",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1550 CHF/Monat<br>Miete/qm: 28.70 CHF/Monat<br>Miete/Zimmer: 387.50 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.345975875854492,
+                47.41666030883789
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001531697,
+              "object_ref": "116001.02.00305",
+              "category": "rent",
+              "date": "2021-12-06T12:51:24",
+              "flatType": null,
+              "floor": "3",
+              "rent": 1860,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 72,
+              "year_built": 1968,
+              "street_number": "Zschokkestr. 18",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4160919189453",
+              "lng": "9.35773181915283",
+              "egid": 10701560,
+              "gwr_egid": 1070156,
+              "gwr_wazim": 3,
+              "gwr_warea": 70,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.0285714285714285",
+              "price_per_sqm": "25.833333333333332",
+              "price_per_room": "620.0",
+              "flat_cat": "M",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1860 CHF/Monat<br>Miete/qm: 25.83 CHF/Monat<br>Miete/Zimmer: 620.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.357731819152832,
+                47.41609191894531
+              ]
+            }
           }
         ]
       },
