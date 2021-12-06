@@ -10246,6 +10246,147 @@
           47.41412353515625
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001532125,
+        "object_ref": "(6810776)",
+        "category": "rent",
+        "date": "2021-12-06T16:26:23",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1760,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 46,
+        "year_built": null,
+        "street_number": "Glaserstrasse 3A",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4188766479492",
+        "lng": "9.35424995422363",
+        "egid": 10702640,
+        "gwr_egid": 1070264,
+        "gwr_wazim": 2,
+        "gwr_warea": 60,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.233333333333333",
+        "price_per_sqm": "38.26086956521739",
+        "price_per_room": "880.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1760 CHF/Monat<br>Miete/qm: 38.26 CHF/Monat<br>Miete/Zimmer: 880.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.354249954223633,
+          47.41887664794922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001532459,
+        "object_ref": "00754.01.0010",
+        "category": "rent",
+        "date": "2021-12-06T16:50:48",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1760,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 55,
+        "year_built": 1968,
+        "street_number": "Altmannstrasse 16",
+        "city": "St. Gallen",
+        "zip": 9012,
+        "lat": "47.413272857666",
+        "lng": "9.36429595947266",
+        "egid": 10715940,
+        "gwr_egid": 1071594,
+        "gwr_wazim": 2,
+        "gwr_warea": 52,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.0576923076923077",
+        "price_per_sqm": "32.0",
+        "price_per_room": "880.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1760 CHF/Monat<br>Miete/qm: 32.00 CHF/Monat<br>Miete/Zimmer: 880.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.364295959472656,
+          47.413272857666016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001532463,
+        "object_ref": "00761.04.0004",
+        "category": "rent",
+        "date": "2021-12-06T16:51:22",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1800,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 54,
+        "year_built": 1962,
+        "street_number": "Oberstrasse 207",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.412036895752",
+        "lng": "9.35162544250488",
+        "egid": 10697400,
+        "gwr_egid": 1069740,
+        "gwr_wazim": 2,
+        "gwr_warea": 45,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.2",
+        "price_per_sqm": "33.333333333333336",
+        "price_per_room": "900.0",
+        "flat_cat": "S",
+        "cat": "f",
+        "fillColor": "#ff8800",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'S'",
+        "description": "Miete: 1800 CHF/Monat<br>Miete/qm: 33.33 CHF/Monat<br>Miete/Zimmer: 900.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.351625442504883,
+          47.41203689575195
+        ]
+      }
     }
   ]
 }
