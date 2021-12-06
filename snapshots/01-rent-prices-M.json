@@ -21579,6 +21579,100 @@
                 47.423675537109375
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001530470,
+              "object_ref": "932049.a000900000KptfXAAR",
+              "category": "rent",
+              "date": "2021-12-06T09:26:28",
+              "flatType": null,
+              "floor": "3",
+              "rent": 1820,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 63,
+              "year_built": null,
+              "street_number": "Gerbeweg 1",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4210968017578",
+              "lng": "9.35379028320312",
+              "egid": 10704000,
+              "gwr_egid": 1070400,
+              "gwr_wazim": 3,
+              "gwr_warea": 66,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.0454545454545454",
+              "price_per_sqm": "28.88888888888889",
+              "price_per_room": "606.6666666666666",
+              "flat_cat": "M",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1820 CHF/Monat<br>Miete/qm: 28.89 CHF/Monat<br>Miete/Zimmer: 606.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.353790283203125,
+                47.42109680175781
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001531214,
+              "object_ref": "Y35Y",
+              "category": "rent",
+              "date": "2021-12-06T09:26:31",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1820,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 67,
+              "year_built": null,
+              "street_number": "Hagenbuchstrasse 16",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.430835723877",
+              "lng": "9.3983907699585",
+              "egid": 10759460,
+              "gwr_egid": 1075946,
+              "gwr_wazim": 4,
+              "gwr_warea": 100,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.33",
+              "price_per_sqm": "27.16417910447761",
+              "price_per_room": "455.0",
+              "flat_cat": "M",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1820 CHF/Monat<br>Miete/qm: 27.16 CHF/Monat<br>Miete/Zimmer: 455.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.398390769958496,
+                47.43083572387695
+              ]
+            }
           }
         ]
       },
