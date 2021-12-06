@@ -37436,6 +37436,55 @@
           47.4339349039222
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001531473,
+        "object_ref": "07930.01.0012",
+        "category": "rent",
+        "date": "2021-12-06T11:26:24",
+        "flatType": null,
+        "floor": "4",
+        "rent": 1780,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 65,
+        "year_built": "1956.0",
+        "street_number": "Wiesentalstr. 12",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4329223632812",
+        "lng": "9.39637470245361",
+        "gwr_egid": 1076155,
+        "match_accuracy": "0.0845070422535211",
+        "price_per_sqm": "27.384615384615383",
+        "price_per_room": "593.3333333333334",
+        "flat_cat": "M",
+        "cat": "d",
+        "egid": 1076155,
+        "ren_potential": false,
+        "LR_DAY": null,
+        "LR_NIGHT": null,
+        "ES": null,
+        "COMM_USE_D": null,
+        "EXP_LIM_D": null,
+        "EXP_LIM_N": null,
+        "EXP_LIM": null,
+        "noise_below": true,
+        "quartier_nummer": 303,
+        "quartier_kreis": "Osten",
+        "quartier_quartiergr": "St.Fiden",
+        "quartier_statistisc": "St.Fiden-Krontal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.396374702453613,
+          47.43292236328125
+        ]
+      }
     }
   ]
 }
