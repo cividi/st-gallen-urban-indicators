@@ -21667,6 +21667,53 @@
           47.41609191894531
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001531752,
+        "object_ref": "08060.01.0108",
+        "category": "rent",
+        "date": "2021-12-06T13:26:24",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1830,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 46,
+        "year_built": 1920,
+        "street_number": "Otmarstrasse 21",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4168891906738",
+        "lng": "9.3568868637085",
+        "egid": 10701830,
+        "gwr_egid": 1070183,
+        "gwr_wazim": 3,
+        "gwr_warea": 42,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0952380952380953",
+        "price_per_sqm": "39.78260869565217",
+        "price_per_room": "610.0",
+        "flat_cat": "M",
+        "cat": "e",
+        "fillColor": "#df9848",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1830 CHF/Monat<br>Miete/qm: 39.78 CHF/Monat<br>Miete/Zimmer: 610.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.356886863708496,
+          47.41688919067383
+        ]
+      }
     }
   ]
 }
