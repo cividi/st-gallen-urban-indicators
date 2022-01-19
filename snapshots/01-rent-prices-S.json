@@ -12696,6 +12696,147 @@
                 47.4304230842969
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001631611,
+              "object_ref": "2331.ecoreal.12204.02.10206",
+              "category": "rent",
+              "date": "2022-01-19T12:31:32",
+              "flatType": null,
+              "floor": "2",
+              "rent": 1100,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 34,
+              "year_built": null,
+              "street_number": "Langgasse 43",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": "47.4370422363281",
+              "lng": "9.38792514801025",
+              "egid": 10752240,
+              "gwr_egid": 1075224,
+              "gwr_wazim": 1,
+              "gwr_warea": 39,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.128205128205128",
+              "price_per_sqm": "32.35294117647059",
+              "price_per_room": "1100.0",
+              "flat_cat": "S",
+              "cat": "f",
+              "fillColor": "#ff8800",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1100 CHF/Monat<br>Miete/qm: 32.35 CHF/Monat<br>Miete/Zimmer: 1100.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.387925148010254,
+                47.437042236328125
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001630697,
+              "object_ref": "(5760354)",
+              "category": "rent",
+              "date": "2022-01-19T12:32:43",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1055,
+              "rent_add": 215,
+              "rent_net": 840,
+              "rooms": null,
+              "area": 54,
+              "year_built": 2007,
+              "street_number": "Kr\u00fcsistrasse 6",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4254302978516",
+              "lng": "9.38894081115723",
+              "egid": 1901930760,
+              "gwr_egid": 190193076,
+              "gwr_wazim": 2,
+              "gwr_warea": 55,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0181818181818182",
+              "price_per_sqm": "19.537037037037038",
+              "price_per_room": "527.5",
+              "flat_cat": "S",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1055 CHF/Monat<br>Miete/qm: 19.54 CHF/Monat<br>Miete/Zimmer: 527.50 CHF/Monat<br>Nebenkosten: 215 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.388940811157227,
+                47.42543029785156
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001630701,
+              "object_ref": "(6810776)",
+              "category": "rent",
+              "date": "2022-01-19T12:33:19",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1340,
+              "rent_add": 200,
+              "rent_net": 1140,
+              "rooms": null,
+              "area": 56,
+              "year_built": null,
+              "street_number": "Glaserstrasse 3A",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4188766479492",
+              "lng": "9.35424995422363",
+              "egid": 10702640,
+              "gwr_egid": 1070264,
+              "gwr_wazim": 2,
+              "gwr_warea": 60,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0666666666666667",
+              "price_per_sqm": "23.928571428571427",
+              "price_per_room": "670.0",
+              "flat_cat": "S",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1340 CHF/Monat<br>Miete/qm: 23.93 CHF/Monat<br>Miete/Zimmer: 670.00 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.354249954223633,
+                47.41887664794922
+              ]
+            }
           }
         ]
       },
