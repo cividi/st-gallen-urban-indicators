@@ -27072,6 +27072,147 @@
           47.4265164136986
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001633250,
+        "object_ref": "51802.09.0202",
+        "category": "rent",
+        "date": "2022-01-20T08:46:16",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1390,
+        "rent_add": 180,
+        "rent_net": 1210,
+        "rooms": null,
+        "area": 74,
+        "year_built": 1984,
+        "street_number": "Engelwiesstr. 5c",
+        "city": "St. Gallen",
+        "zip": 9014,
+        "lat": "47.4123153686523",
+        "lng": "9.33105659484863",
+        "egid": 10691740,
+        "gwr_egid": 1069174,
+        "gwr_wazim": 4,
+        "gwr_warea": 74,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "18.783783783783782",
+        "price_per_room": "347.5",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1390 CHF/Monat<br>Miete/qm: 18.78 CHF/Monat<br>Miete/Zimmer: 347.50 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.331056594848633,
+          47.412315368652344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001632529,
+        "object_ref": "94167.01.0029",
+        "category": "rent",
+        "date": "2022-01-20T08:47:16",
+        "flatType": null,
+        "floor": "5",
+        "rent": 1260,
+        "rent_add": 240,
+        "rent_net": 1020,
+        "rooms": null,
+        "area": 61,
+        "year_built": 1956,
+        "street_number": "Singenbergstrasse 12",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4273109436035",
+        "lng": "9.38480758666992",
+        "egid": 10736720,
+        "gwr_egid": 1073672,
+        "gwr_wazim": 3,
+        "gwr_warea": 60,
+        "gwr_wstwk": 3105,
+        "match_accuracy": "0.0166666666666666",
+        "price_per_sqm": "20.65573770491803",
+        "price_per_room": "420.0",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1260 CHF/Monat<br>Miete/qm: 20.66 CHF/Monat<br>Miete/Zimmer: 420.00 CHF/Monat<br>Nebenkosten: 240 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.384807586669922,
+          47.427310943603516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001632656,
+        "object_ref": "1427",
+        "category": "rent",
+        "date": "2022-01-20T08:47:40",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1645,
+        "rent_add": 200,
+        "rent_net": 1445,
+        "rooms": null,
+        "area": 82,
+        "year_built": null,
+        "street_number": "Z\u00fcrcherstrasse 84",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": null,
+        "lng": null,
+        "egid": 190307251,
+        "gwr_egid": 190307251,
+        "gwr_wazim": 4,
+        "gwr_warea": 95,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.136842105263158",
+        "price_per_sqm": "20.0609756097561",
+        "price_per_room": "411.25",
+        "flat_cat": "M",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'M'",
+        "description": "Miete: 1645 CHF/Monat<br>Miete/qm: 20.06 CHF/Monat<br>Miete/Zimmer: 411.25 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.34881472636019,
+          47.4169799562494
+        ]
+      }
     }
   ]
 }

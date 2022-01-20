@@ -46893,6 +46893,153 @@
           47.4265164136986
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001633250,
+        "object_ref": "51802.09.0202",
+        "category": "rent",
+        "date": "2022-01-20T08:46:16",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1390,
+        "rent_add": "180.0",
+        "rent_net": "1210.0",
+        "rooms": null,
+        "area": 74,
+        "year_built": "1984.0",
+        "street_number": "Engelwiesstr. 5c",
+        "city": "St. Gallen",
+        "zip": 9014,
+        "lat": "47.4123153686523",
+        "lng": "9.33105659484863",
+        "gwr_egid": 1069174,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "18.783783783783782",
+        "price_per_room": "347.5",
+        "flat_cat": "M",
+        "cat": "c",
+        "egid": 1069174,
+        "ren_potential": true,
+        "LR_DAY": null,
+        "LR_NIGHT": null,
+        "ES": null,
+        "COMM_USE_D": null,
+        "EXP_LIM_D": null,
+        "EXP_LIM_N": null,
+        "EXP_LIM": null,
+        "noise_below": true,
+        "quartier_nummer": 109,
+        "quartier_kreis": "Westen",
+        "quartier_quartiergr": "Bruggen",
+        "quartier_statistisc": "Bruggen-Z\u00fcrcherstrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.331056594848633,
+          47.412315368652344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001632529,
+        "object_ref": "94167.01.0029",
+        "category": "rent",
+        "date": "2022-01-20T08:47:16",
+        "flatType": null,
+        "floor": "5",
+        "rent": 1260,
+        "rent_add": "240.0",
+        "rent_net": "1020.0",
+        "rooms": null,
+        "area": 61,
+        "year_built": "1956.0",
+        "street_number": "Singenbergstrasse 12",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4273109436035",
+        "lng": "9.38480758666992",
+        "gwr_egid": 1073672,
+        "match_accuracy": "0.0166666666666666",
+        "price_per_sqm": "20.65573770491803",
+        "price_per_room": "420.0",
+        "flat_cat": "M",
+        "cat": "c",
+        "egid": 1073672,
+        "ren_potential": false,
+        "LR_DAY": "63.0",
+        "LR_NIGHT": "53.0",
+        "ES": "ES III",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": ">PW, \u2264IGW",
+        "EXP_LIM_N": ">PW, \u2264IGW",
+        "EXP_LIM": ">PW, \u2264IGW",
+        "noise_below": false,
+        "quartier_nummer": 208,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "Linsenb\u00fchl-Dreilinden",
+        "quartier_statistisc": "Linsenb\u00fchl-Dreilinden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.384807586669922,
+          47.427310943603516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001632656,
+        "object_ref": "1427",
+        "category": "rent",
+        "date": "2022-01-20T08:47:40",
+        "flatType": null,
+        "floor": "3",
+        "rent": 1645,
+        "rent_add": "200.0",
+        "rent_net": "1445.0",
+        "rooms": null,
+        "area": 82,
+        "year_built": null,
+        "street_number": "Z\u00fcrcherstrasse 84",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": null,
+        "lng": null,
+        "gwr_egid": 190307251,
+        "match_accuracy": "0.136842105263158",
+        "price_per_sqm": "20.0609756097561",
+        "price_per_room": "411.25",
+        "flat_cat": "M",
+        "cat": "c",
+        "egid": 190307251,
+        "ren_potential": false,
+        "LR_DAY": "68.0",
+        "LR_NIGHT": "60.0",
+        "ES": "ES III",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": ">IGW, <AW",
+        "EXP_LIM_N": ">IGW, <AW",
+        "EXP_LIM": ">IGW, <AW",
+        "noise_below": false,
+        "quartier_nummer": 113,
+        "quartier_kreis": "Westen",
+        "quartier_quartiergr": "Lachen",
+        "quartier_statistisc": "Vonwil-Lachen-Schoren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.34881472636019,
+          47.4169799562494
+        ]
+      }
     }
   ]
 }
