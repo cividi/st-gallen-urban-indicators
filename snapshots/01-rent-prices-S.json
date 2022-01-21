@@ -12837,6 +12837,53 @@
                 47.41887664794922
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001636381,
+              "object_ref": "15122021mt",
+              "category": "rent",
+              "date": "2022-01-21T14:15:13",
+              "flatType": null,
+              "floor": "4",
+              "rent": 1080,
+              "rent_add": 100,
+              "rent_net": 980,
+              "rooms": null,
+              "area": 45,
+              "year_built": null,
+              "street_number": "Goethestrasse 20",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": "47.4339866638184",
+              "lng": "9.38093185424805",
+              "egid": 10731660,
+              "gwr_egid": 1073166,
+              "gwr_wazim": 2,
+              "gwr_warea": 60,
+              "gwr_wstwk": 3104,
+              "match_accuracy": "0.25",
+              "price_per_sqm": "24.0",
+              "price_per_room": "540.0",
+              "flat_cat": "S",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1080 CHF/Monat<br>Miete/qm: 24.00 CHF/Monat<br>Miete/Zimmer: 540.00 CHF/Monat<br>Nebenkosten: 100 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.380931854248047,
+                47.43398666381836
+              ]
+            }
           }
         ]
       },
