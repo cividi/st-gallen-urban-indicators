@@ -12884,6 +12884,53 @@
                 47.43398666381836
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001636799,
+              "object_ref": "220121_L4_2.5_2011.911499.1a040d06-3d4c-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2022-01-24T07:55:34",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1180,
+              "rent_add": 110,
+              "rent_net": 1070,
+              "rooms": null,
+              "area": 53,
+              "year_built": null,
+              "street_number": "Langweidstrasse 4",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4123268127441",
+              "lng": "9.35518360137939",
+              "egid": 10699230,
+              "gwr_egid": 1069923,
+              "gwr_wazim": 2,
+              "gwr_warea": 57,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0701754385964912",
+              "price_per_sqm": "22.264150943396228",
+              "price_per_room": "590.0",
+              "flat_cat": "S",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1180 CHF/Monat<br>Miete/qm: 22.26 CHF/Monat<br>Miete/Zimmer: 590.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.355183601379395,
+                47.41232681274414
+              ]
+            }
           }
         ]
       },

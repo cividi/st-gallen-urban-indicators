@@ -5217,6 +5217,147 @@
           47.4206954864638
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001636786,
+        "object_ref": "220121-L4-5.5 Zi Whg_2033.738826.db39930d-144c-11eb-ab2f-005056bdbc06",
+        "category": "rent",
+        "date": "2022-01-24T07:56:16",
+        "flatType": null,
+        "floor": "3",
+        "rent": 2180,
+        "rent_add": 200,
+        "rent_net": 1980,
+        "rooms": null,
+        "area": 125,
+        "year_built": null,
+        "street_number": "Langweidstrasse 4",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4123268127441",
+        "lng": "9.35518360137939",
+        "egid": 10699230,
+        "gwr_egid": 1069923,
+        "gwr_wazim": 5,
+        "gwr_warea": 116,
+        "gwr_wstwk": 3103,
+        "match_accuracy": "0.0775862068965518",
+        "price_per_sqm": "17.44",
+        "price_per_room": "436.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2180 CHF/Monat<br>Miete/qm: 17.44 CHF/Monat<br>Miete/Zimmer: 436.00 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355183601379395,
+          47.41232681274414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001636792,
+        "object_ref": "220121_5.5 Zi Whg._2023_2033.878368.6c01e583-1129-11ec-8c59-005056bdbc06",
+        "category": "rent",
+        "date": "2022-01-24T07:56:22",
+        "flatType": null,
+        "floor": "2",
+        "rent": 2340,
+        "rent_add": 270,
+        "rent_net": 2070,
+        "rooms": null,
+        "area": 123,
+        "year_built": null,
+        "street_number": "Langweidstrasse 8",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4123954772949",
+        "lng": "9.35590171813965",
+        "egid": 10699250,
+        "gwr_egid": 1069925,
+        "gwr_wazim": 5,
+        "gwr_warea": 128,
+        "gwr_wstwk": 3102,
+        "match_accuracy": "0.0390625",
+        "price_per_sqm": "19.024390243902438",
+        "price_per_room": "468.0",
+        "flat_cat": "L",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2340 CHF/Monat<br>Miete/qm: 19.02 CHF/Monat<br>Miete/Zimmer: 468.00 CHF/Monat<br>Nebenkosten: 270 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355901718139648,
+          47.41239547729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001636796,
+        "object_ref": "220121_4.5 Zi Whg._2013.843355.e09a6347-ca77-11eb-8a82-005056bdbc06",
+        "category": "rent",
+        "date": "2022-01-24T07:56:25",
+        "flatType": null,
+        "floor": "1",
+        "rent": 2190,
+        "rent_add": 270,
+        "rent_net": 1920,
+        "rooms": null,
+        "area": 123,
+        "year_built": null,
+        "street_number": "Langweidstrasse 8",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4123954772949",
+        "lng": "9.35590171813965",
+        "egid": 10699250,
+        "gwr_egid": 1069925,
+        "gwr_wazim": 5,
+        "gwr_warea": 128,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.0390625",
+        "price_per_sqm": "17.804878048780488",
+        "price_per_room": "438.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2190 CHF/Monat<br>Miete/qm: 17.80 CHF/Monat<br>Miete/Zimmer: 438.00 CHF/Monat<br>Nebenkosten: 270 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355901718139648,
+          47.41239547729492
+        ]
+      }
     }
   ]
 }
