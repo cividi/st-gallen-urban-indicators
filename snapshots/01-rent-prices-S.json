@@ -12931,6 +12931,147 @@
                 47.41232681274414
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001639361,
+              "object_ref": "SG-Sonnenstrasse 17, Whg. 2.2 -003.969173.e003e9fa-7cf1-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2022-01-25T08:09:45",
+              "flatType": null,
+              "floor": "4",
+              "rent": 1160,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 47,
+              "year_built": null,
+              "street_number": "Sonnenstrasse 17",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4300308227539",
+              "lng": "9.38085174560547",
+              "egid": 10729630,
+              "gwr_egid": 1072963,
+              "gwr_wazim": 1,
+              "gwr_warea": 27,
+              "gwr_wstwk": 3104,
+              "match_accuracy": "0.740740740740741",
+              "price_per_sqm": "24.680851063829788",
+              "price_per_room": "1160.0",
+              "flat_cat": "S",
+              "cat": "f",
+              "fillColor": "#ff8800",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1160 CHF/Monat<br>Miete/qm: 24.68 CHF/Monat<br>Miete/Zimmer: 1160.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.380851745605469,
+                47.430030822753906
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001639616,
+              "object_ref": "Linde20",
+              "category": "rent",
+              "date": "2022-01-25T08:09:54",
+              "flatType": null,
+              "floor": "4",
+              "rent": 1150,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 49,
+              "year_built": null,
+              "street_number": "Lindenstrasse 21",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4318504333496",
+              "lng": "9.38775253295898",
+              "egid": 10760770,
+              "gwr_egid": 1076077,
+              "gwr_wazim": 2,
+              "gwr_warea": 65,
+              "gwr_wstwk": 3104,
+              "match_accuracy": "0.246153846153846",
+              "price_per_sqm": "23.46938775510204",
+              "price_per_room": "575.0",
+              "flat_cat": "S",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1150 CHF/Monat<br>Miete/qm: 23.47 CHF/Monat<br>Miete/Zimmer: 575.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.387752532958984,
+                47.43185043334961
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001639494,
+              "object_ref": "A9JEV3F_24RH656",
+              "category": "rent",
+              "date": "2022-01-25T08:11:44",
+              "flatType": null,
+              "floor": "2",
+              "rent": 799,
+              "rent_add": 50,
+              "rent_net": 749,
+              "rooms": null,
+              "area": 25,
+              "year_built": null,
+              "street_number": "Spisergasse 43",
+              "city": "St.Gallen",
+              "zip": 9000,
+              "lat": "47.4244956970215",
+              "lng": "9.37917041778564",
+              "egid": 10726320,
+              "gwr_egid": 1072632,
+              "gwr_wazim": 1,
+              "gwr_warea": 26,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.0384615384615384",
+              "price_per_sqm": "31.96",
+              "price_per_room": "799.0",
+              "flat_cat": "S",
+              "cat": "f",
+              "fillColor": "#ff8800",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 799 CHF/Monat<br>Miete/qm: 31.96 CHF/Monat<br>Miete/Zimmer: 799.00 CHF/Monat<br>Nebenkosten: 50 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.379170417785645,
+                47.424495697021484
+              ]
+            }
           }
         ]
       },

@@ -27971,6 +27971,147 @@
                 47.4150606844088
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001640918,
+              "object_ref": "1061.01.130001",
+              "category": "rent",
+              "date": "2022-01-25T08:10:32",
+              "flatType": null,
+              "floor": "3",
+              "rent": 1210,
+              "rent_add": 180,
+              "rent_net": 1030,
+              "rooms": null,
+              "area": 68,
+              "year_built": null,
+              "street_number": "Davidstrasse 17",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4206848144531",
+              "lng": "9.37036895751953",
+              "egid": 10723380,
+              "gwr_egid": 1072338,
+              "gwr_wazim": 3,
+              "gwr_warea": 73,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.0684931506849316",
+              "price_per_sqm": "17.794117647058822",
+              "price_per_room": "403.3333333333333",
+              "flat_cat": "M",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1210 CHF/Monat<br>Miete/qm: 17.79 CHF/Monat<br>Miete/Zimmer: 403.33 CHF/Monat<br>Nebenkosten: 180 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.370368957519531,
+                47.420684814453125
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001640315,
+              "object_ref": "R\u00f6sli1.R\u00f6sli1",
+              "category": "rent",
+              "date": "2022-01-25T08:11:05",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1350,
+              "rent_add": 250,
+              "rent_net": 1100,
+              "rooms": null,
+              "area": 80,
+              "year_built": null,
+              "street_number": "R\u00f6schstrasse 14",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4317283630371",
+              "lng": "9.39998435974121",
+              "egid": 10758660,
+              "gwr_egid": 1075866,
+              "gwr_wazim": 4,
+              "gwr_warea": 79,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0126582278481013",
+              "price_per_sqm": "16.875",
+              "price_per_room": "337.5",
+              "flat_cat": "M",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1350 CHF/Monat<br>Miete/qm: 16.88 CHF/Monat<br>Miete/Zimmer: 337.50 CHF/Monat<br>Nebenkosten: 250 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.399984359741211,
+                47.43172836303711
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001640193,
+              "object_ref": "11501.4020.969732.4c4e89ef-7d21-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2022-01-25T08:11:35",
+              "flatType": null,
+              "floor": "2",
+              "rent": 1990,
+              "rent_add": 310,
+              "rent_net": 1680,
+              "rooms": null,
+              "area": 136,
+              "year_built": null,
+              "street_number": "R\u00f6telistrasse 4",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.422534942627",
+              "lng": "9.36049652099609",
+              "egid": 10711650,
+              "gwr_egid": 1071165,
+              "gwr_wazim": 3,
+              "gwr_warea": 136,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "14.632352941176471",
+              "price_per_room": "663.3333333333334",
+              "flat_cat": "M",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1990 CHF/Monat<br>Miete/qm: 14.63 CHF/Monat<br>Miete/Zimmer: 663.33 CHF/Monat<br>Nebenkosten: 310 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.360496520996094,
+                47.42253494262695
+              ]
+            }
           }
         ]
       },

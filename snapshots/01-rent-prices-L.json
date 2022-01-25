@@ -5505,6 +5505,147 @@
                 47.41239547729492
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001641011,
+              "object_ref": "16481.01.0301",
+              "category": "rent",
+              "date": "2022-01-25T08:10:21",
+              "flatType": null,
+              "floor": "3",
+              "rent": 3650,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 160,
+              "year_built": null,
+              "street_number": "Lessingstrasse 45",
+              "city": "St. Gallen",
+              "zip": 9008,
+              "lat": "47.4383926391602",
+              "lng": "9.38564491271973",
+              "egid": 10752870,
+              "gwr_egid": 1075287,
+              "gwr_wazim": 5,
+              "gwr_warea": 167,
+              "gwr_wstwk": 3103,
+              "match_accuracy": "0.0419161676646707",
+              "price_per_sqm": "22.8125",
+              "price_per_room": "730.0",
+              "flat_cat": "L",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 3650 CHF/Monat<br>Miete/qm: 22.81 CHF/Monat<br>Miete/Zimmer: 730.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.385644912719727,
+                47.438392639160156
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001640206,
+              "object_ref": "11501.6030.969740.ae5b49b5-7d21-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2022-01-25T08:11:40",
+              "flatType": null,
+              "floor": "1",
+              "rent": 2650,
+              "rent_add": 400,
+              "rent_net": 2250,
+              "rooms": null,
+              "area": 170,
+              "year_built": null,
+              "street_number": "R\u00f6telistrasse 6",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4227256774902",
+              "lng": "9.36085891723633",
+              "egid": 10711660,
+              "gwr_egid": 1071166,
+              "gwr_wazim": 5,
+              "gwr_warea": 130,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.307692307692308",
+              "price_per_sqm": "15.588235294117647",
+              "price_per_room": "530.0",
+              "flat_cat": "L",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 2650 CHF/Monat<br>Miete/qm: 15.59 CHF/Monat<br>Miete/Zimmer: 530.00 CHF/Monat<br>Nebenkosten: 400 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.360858917236328,
+                47.422725677490234
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001639369,
+              "object_ref": "ulyky.hlgki",
+              "category": "rent",
+              "date": "2022-01-25T08:11:50",
+              "flatType": null,
+              "floor": null,
+              "rent": 3730,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 210,
+              "year_built": 1971,
+              "street_number": "Dietlistrasse 46",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4264945983887",
+              "lng": "9.36444282531738",
+              "egid": 10709000,
+              "gwr_egid": 1070900,
+              "gwr_wazim": 6,
+              "gwr_warea": 180,
+              "gwr_wstwk": 3100,
+              "match_accuracy": "0.166666666666667",
+              "price_per_sqm": "17.761904761904763",
+              "price_per_room": "621.6666666666666",
+              "flat_cat": "L",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 3730 CHF/Monat<br>Miete/qm: 17.76 CHF/Monat<br>Miete/Zimmer: 621.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.364442825317383,
+                47.42649459838867
+              ]
+            }
           }
         ]
       },
