@@ -6210,6 +6210,100 @@
                 47.4052094366586
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001661866,
+              "object_ref": "eyrga.wbm62",
+              "category": "rent",
+              "date": "2022-02-04T08:28:57",
+              "flatType": null,
+              "floor": "2",
+              "rent": 4580,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 210,
+              "year_built": 2010,
+              "street_number": "Meienbergstrasse",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4263763427734",
+              "lng": "9.39360332489014",
+              "egid": 1905276120,
+              "gwr_egid": 190527612,
+              "gwr_wazim": 5,
+              "gwr_warea": 146,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.438356164383562",
+              "price_per_sqm": "21.80952380952381",
+              "price_per_room": "916.0",
+              "flat_cat": "L",
+              "cat": "f",
+              "fillColor": "#ff8800",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 4580 CHF/Monat<br>Miete/qm: 21.81 CHF/Monat<br>Miete/Zimmer: 916.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.393603324890137,
+                47.42637634277344
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001661975,
+              "object_ref": "010101.977600.e51eee67-850f-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2022-02-04T08:29:01",
+              "flatType": null,
+              "floor": "1",
+              "rent": 3250,
+              "rent_add": 350,
+              "rent_net": 2900,
+              "rooms": null,
+              "area": 122,
+              "year_built": null,
+              "street_number": "H\u00f6henweg 17",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4290084838867",
+              "lng": "9.37198638916016",
+              "egid": 10730910,
+              "gwr_egid": 1073091,
+              "gwr_wazim": 5,
+              "gwr_warea": 125,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.024",
+              "price_per_sqm": "26.639344262295083",
+              "price_per_room": "650.0",
+              "flat_cat": "L",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 3250 CHF/Monat<br>Miete/qm: 26.64 CHF/Monat<br>Miete/Zimmer: 650.00 CHF/Monat<br>Nebenkosten: 350 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.371986389160156,
+                47.42900848388672
+              ]
+            }
           }
         ]
       },

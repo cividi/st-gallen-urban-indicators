@@ -14858,6 +14858,100 @@
                 47.4016572905137
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001660544,
+              "object_ref": "2091-2024.976960.92b46dad-84cc-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2022-02-04T08:25:56",
+              "flatType": null,
+              "floor": "2",
+              "rent": 1010,
+              "rent_add": 150,
+              "rent_net": 860,
+              "rooms": null,
+              "area": 48,
+              "year_built": null,
+              "street_number": "Feldlistrasse 19",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4223251342773",
+              "lng": "9.35517120361328",
+              "egid": 10706270,
+              "gwr_egid": 1070627,
+              "gwr_wazim": 2,
+              "gwr_warea": 47,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.0212765957446808",
+              "price_per_sqm": "21.041666666666668",
+              "price_per_room": "505.0",
+              "flat_cat": "S",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 1010 CHF/Monat<br>Miete/qm: 21.04 CHF/Monat<br>Miete/Zimmer: 505.00 CHF/Monat<br>Nebenkosten: 150 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.355171203613281,
+                47.422325134277344
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001660366,
+              "object_ref": "16731.14.0106",
+              "category": "rent",
+              "date": "2022-02-04T08:23:38",
+              "flatType": null,
+              "floor": "1",
+              "rent": 690,
+              "rent_add": 110,
+              "rent_net": 580,
+              "rooms": null,
+              "area": 23,
+              "year_built": 1952,
+              "street_number": "St. Leonhardstrasse 51",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": null,
+              "lng": null,
+              "egid": 1072356,
+              "gwr_egid": 1072356,
+              "gwr_wazim": 1,
+              "gwr_warea": 23,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "30.0",
+              "price_per_room": "690.0",
+              "flat_cat": "S",
+              "cat": "e",
+              "fillColor": "#df9848",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'S'",
+              "description": "Miete: 690 CHF/Monat<br>Miete/qm: 30.00 CHF/Monat<br>Miete/Zimmer: 690.00 CHF/Monat<br>Nebenkosten: 110 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.36863748554197,
+                47.4215448477558
+              ]
+            }
           }
         ]
       },
