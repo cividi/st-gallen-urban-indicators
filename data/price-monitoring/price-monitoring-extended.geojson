@@ -56007,6 +56007,153 @@
           47.4205525743868
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001675262,
+        "object_ref": "0198",
+        "category": "rent",
+        "date": "2022-02-10T08:56:47",
+        "flatType": null,
+        "floor": "2",
+        "rent": 1700,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 44,
+        "year_built": null,
+        "street_number": "Linseb\u00fchlstrasse 103",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4261894226074",
+        "lng": "9.38566780090332",
+        "gwr_egid": 1073652,
+        "match_accuracy": "0.397260273972603",
+        "price_per_sqm": "38.63636363636363",
+        "price_per_room": "566.6666666666666",
+        "flat_cat": "M",
+        "cat": "d",
+        "egid": 1073652,
+        "ren_potential": true,
+        "LR_DAY": "57.0",
+        "LR_NIGHT": "43.0",
+        "ES": "ES II",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": ">PW, \u2264IGW",
+        "EXP_LIM_N": "\u2264PW",
+        "EXP_LIM": ">PW, \u2264IGW",
+        "noise_below": false,
+        "quartier_nummer": 208,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "Linsenb\u00fchl-Dreilinden",
+        "quartier_statistisc": "Linsenb\u00fchl-Dreilinden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38566780090332,
+          47.42618942260742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001675214,
+        "object_ref": "11501.2001.982155.487e1c64-8a48-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2022-02-10T08:57:15",
+        "flatType": null,
+        "floor": "GF",
+        "rent": 2620,
+        "rent_add": "430.0",
+        "rent_net": "2190.0",
+        "rooms": null,
+        "area": 151,
+        "year_built": "1989.0",
+        "street_number": "R\u00f6telistrasse 2",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.422924041748",
+        "lng": "9.3603687286377",
+        "gwr_egid": 1071164,
+        "match_accuracy": "0.0",
+        "price_per_sqm": "17.350993377483444",
+        "price_per_room": "524.0",
+        "flat_cat": "L",
+        "cat": "d",
+        "egid": 1071164,
+        "ren_potential": true,
+        "LR_DAY": "57.0",
+        "LR_NIGHT": "44.0",
+        "ES": "ES II",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": ">PW, \u2264IGW",
+        "EXP_LIM_N": "\u2264PW",
+        "EXP_LIM": ">PW, \u2264IGW",
+        "noise_below": false,
+        "quartier_nummer": 202,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "Rosenberg",
+        "quartier_statistisc": "Rosenberg-Kreubleiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.360368728637695,
+          47.42292404174805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001675249,
+        "object_ref": "11501.6030.982169.8af0722d-8a4b-11ec-842e-005056bdbc06",
+        "category": "rent",
+        "date": "2022-02-10T08:57:18",
+        "flatType": null,
+        "floor": "1",
+        "rent": 2550,
+        "rent_add": "350.0",
+        "rent_net": "2200.0",
+        "rooms": null,
+        "area": 170,
+        "year_built": null,
+        "street_number": "R\u00f6telistrasse 6",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4227256774902",
+        "lng": "9.36085891723633",
+        "gwr_egid": 1071166,
+        "match_accuracy": "0.307692307692308",
+        "price_per_sqm": "15.0",
+        "price_per_room": "510.0",
+        "flat_cat": "L",
+        "cat": "d",
+        "egid": 1071166,
+        "ren_potential": true,
+        "LR_DAY": "52.0",
+        "LR_NIGHT": "45.0",
+        "ES": "ES II",
+        "COMM_USE_D": "Wohnen",
+        "EXP_LIM_D": "\u2264PW",
+        "EXP_LIM_N": "\u2264PW",
+        "EXP_LIM": "\u2264PW",
+        "noise_below": true,
+        "quartier_nummer": 202,
+        "quartier_kreis": "Centrum",
+        "quartier_quartiergr": "Rosenberg",
+        "quartier_statistisc": "Rosenberg-Kreubleiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.360858917236328,
+          47.422725677490234
+        ]
+      }
     }
   ]
 }

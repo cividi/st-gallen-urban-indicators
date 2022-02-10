@@ -6351,6 +6351,100 @@
                 47.40639114379883
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001675214,
+              "object_ref": "11501.2001.982155.487e1c64-8a48-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2022-02-10T08:57:15",
+              "flatType": null,
+              "floor": "GF",
+              "rent": 2620,
+              "rent_add": 430,
+              "rent_net": 2190,
+              "rooms": null,
+              "area": 151,
+              "year_built": 1989,
+              "street_number": "R\u00f6telistrasse 2",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.422924041748",
+              "lng": "9.3603687286377",
+              "egid": 10711640,
+              "gwr_egid": 1071164,
+              "gwr_wazim": 5,
+              "gwr_warea": 151,
+              "gwr_wstwk": 3100,
+              "match_accuracy": "0.0",
+              "price_per_sqm": "17.350993377483444",
+              "price_per_room": "524.0",
+              "flat_cat": "L",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 2620 CHF/Monat<br>Miete/qm: 17.35 CHF/Monat<br>Miete/Zimmer: 524.00 CHF/Monat<br>Nebenkosten: 430 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.360368728637695,
+                47.42292404174805
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001675249,
+              "object_ref": "11501.6030.982169.8af0722d-8a4b-11ec-842e-005056bdbc06",
+              "category": "rent",
+              "date": "2022-02-10T08:57:18",
+              "flatType": null,
+              "floor": "1",
+              "rent": 2550,
+              "rent_add": 350,
+              "rent_net": 2200,
+              "rooms": null,
+              "area": 170,
+              "year_built": null,
+              "street_number": "R\u00f6telistrasse 6",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4227256774902",
+              "lng": "9.36085891723633",
+              "egid": 10711660,
+              "gwr_egid": 1071166,
+              "gwr_wazim": 5,
+              "gwr_warea": 130,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.307692307692308",
+              "price_per_sqm": "15.0",
+              "price_per_room": "510.0",
+              "flat_cat": "L",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 2550 CHF/Monat<br>Miete/qm: 15.00 CHF/Monat<br>Miete/Zimmer: 510.00 CHF/Monat<br>Nebenkosten: 350 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.360858917236328,
+                47.422725677490234
+              ]
+            }
           }
         ]
       },

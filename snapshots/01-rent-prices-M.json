@@ -31966,6 +31966,53 @@
                 47.4205525743868
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001675262,
+              "object_ref": "0198",
+              "category": "rent",
+              "date": "2022-02-10T08:56:47",
+              "flatType": null,
+              "floor": "2",
+              "rent": 1700,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 44,
+              "year_built": null,
+              "street_number": "Linseb\u00fchlstrasse 103",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4261894226074",
+              "lng": "9.38566780090332",
+              "egid": 10736520,
+              "gwr_egid": 1073652,
+              "gwr_wazim": 3,
+              "gwr_warea": 73,
+              "gwr_wstwk": 3102,
+              "match_accuracy": "0.397260273972603",
+              "price_per_sqm": "38.63636363636363",
+              "price_per_room": "566.6666666666666",
+              "flat_cat": "M",
+              "cat": "d",
+              "fillColor": "#bfa98f",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'M'",
+              "description": "Miete: 1700 CHF/Monat<br>Miete/qm: 38.64 CHF/Monat<br>Miete/Zimmer: 566.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.38566780090332,
+                47.42618942260742
+              ]
+            }
           }
         ]
       },
