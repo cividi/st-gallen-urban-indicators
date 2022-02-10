@@ -6304,6 +6304,53 @@
                 47.42900848388672
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001666458,
+              "object_ref": "32apa.6tovo",
+              "category": "rent",
+              "date": "2022-02-10T00:08:22",
+              "flatType": null,
+              "floor": null,
+              "rent": 2490,
+              "rent_add": null,
+              "rent_net": null,
+              "rooms": null,
+              "area": 200,
+              "year_built": null,
+              "street_number": "Lehnstrasse 31",
+              "city": "St. Gallen",
+              "zip": 9014,
+              "lat": "47.4063911437988",
+              "lng": "9.33104419708252",
+              "egid": 10693150,
+              "gwr_egid": 1069315,
+              "gwr_wazim": 9,
+              "gwr_warea": 174,
+              "gwr_wstwk": 3100,
+              "match_accuracy": "0.149425287356322",
+              "price_per_sqm": "12.45",
+              "price_per_room": "276.6666666666667",
+              "flat_cat": "L",
+              "cat": "b",
+              "fillColor": "#455db5",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 2490 CHF/Monat<br>Miete/qm: 12.45 CHF/Monat<br>Miete/Zimmer: 276.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.33104419708252,
+                47.40639114379883
+              ]
+            }
           }
         ]
       },
