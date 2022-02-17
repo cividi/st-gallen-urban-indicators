@@ -6298,6 +6298,147 @@
           47.422725677490234
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001685485,
+        "object_ref": "180.88.65im4DG",
+        "category": "rent",
+        "date": "2022-02-17T13:46:16",
+        "flatType": null,
+        "floor": "4",
+        "rent": 2860,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 180,
+        "year_built": null,
+        "street_number": "Herisauerstrasse 88",
+        "city": "St. Gallen",
+        "zip": 9015,
+        "lat": null,
+        "lng": null,
+        "egid": 1068659,
+        "gwr_egid": 1068659,
+        "gwr_wazim": 6,
+        "gwr_warea": 143,
+        "gwr_wstwk": 3104,
+        "match_accuracy": "0.258741258741259",
+        "price_per_sqm": "15.88888888888889",
+        "price_per_room": "476.6666666666667",
+        "flat_cat": "L",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2860 CHF/Monat<br>Miete/qm: 15.89 CHF/Monat<br>Miete/Zimmer: 476.67 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.30094535853162,
+          47.4016572905137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001685480,
+        "object_ref": "180.88.65imDG4ogsll",
+        "category": "rent",
+        "date": "2022-02-17T13:46:18",
+        "flatType": null,
+        "floor": "4",
+        "rent": 1980,
+        "rent_add": 160,
+        "rent_net": 1820,
+        "rooms": null,
+        "area": 133,
+        "year_built": null,
+        "street_number": "Herisauerstrasse 88",
+        "city": "St. Gallen",
+        "zip": 9015,
+        "lat": null,
+        "lng": null,
+        "egid": 1068659,
+        "gwr_egid": 1068659,
+        "gwr_wazim": 6,
+        "gwr_warea": 143,
+        "gwr_wstwk": 3104,
+        "match_accuracy": "0.0699300699300699",
+        "price_per_sqm": "14.887218045112782",
+        "price_per_room": "330.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1980 CHF/Monat<br>Miete/qm: 14.89 CHF/Monat<br>Miete/Zimmer: 330.00 CHF/Monat<br>Nebenkosten: 160 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.30094535853162,
+          47.4016572905137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001683969,
+        "object_ref": "9029.01.0102",
+        "category": "rent",
+        "date": "2022-02-17T13:47:29",
+        "flatType": null,
+        "floor": "1",
+        "rent": 2260,
+        "rent_add": 340,
+        "rent_net": 1920,
+        "rooms": null,
+        "area": 142,
+        "year_built": 2011,
+        "street_number": "Sch\u00f6nb\u00fcelpark 1",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.4403915405273",
+        "lng": "9.41135501861572",
+        "egid": 1904256950,
+        "gwr_egid": 190425695,
+        "gwr_wazim": 5,
+        "gwr_warea": 132,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.0757575757575757",
+        "price_per_sqm": "15.915492957746478",
+        "price_per_room": "452.0",
+        "flat_cat": "L",
+        "cat": "d",
+        "fillColor": "#bfa98f",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 2260 CHF/Monat<br>Miete/qm: 15.92 CHF/Monat<br>Miete/Zimmer: 452.00 CHF/Monat<br>Nebenkosten: 340 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.411355018615723,
+          47.440391540527344
+        ]
+      }
     }
   ]
 }
