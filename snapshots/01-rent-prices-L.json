@@ -6774,6 +6774,100 @@
                 47.44114303588867
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001702855,
+              "object_ref": "A998L3T_24QZW5G",
+              "category": "rent",
+              "date": "2022-02-28T15:55:56",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1820,
+              "rent_add": 220,
+              "rent_net": 1600,
+              "rooms": null,
+              "area": 120,
+              "year_built": null,
+              "street_number": "Teufener strasse 60",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": "47.4176025390625",
+              "lng": "9.36727428436279",
+              "egid": 10716870,
+              "gwr_egid": 1071687,
+              "gwr_wazim": 5,
+              "gwr_warea": 110,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.0909090909090908",
+              "price_per_sqm": "15.166666666666666",
+              "price_per_room": "364.0",
+              "flat_cat": "L",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 1820 CHF/Monat<br>Miete/qm: 15.17 CHF/Monat<br>Miete/Zimmer: 364.00 CHF/Monat<br>Nebenkosten: 220 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.367274284362793,
+                47.4176025390625
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3001703818,
+              "object_ref": "5709.01.0101",
+              "category": "rent",
+              "date": "2022-02-28T15:56:12",
+              "flatType": null,
+              "floor": "1",
+              "rent": 1950,
+              "rent_add": 200,
+              "rent_net": 1750,
+              "rooms": null,
+              "area": 114,
+              "year_built": 1920,
+              "street_number": "Rorschacherstrasse 116",
+              "city": "St. Gallen",
+              "zip": 9000,
+              "lat": null,
+              "lng": null,
+              "egid": 1076041,
+              "gwr_egid": 1076041,
+              "gwr_wazim": 5,
+              "gwr_warea": 98,
+              "gwr_wstwk": 3101,
+              "match_accuracy": "0.163265306122449",
+              "price_per_sqm": "17.105263157894736",
+              "price_per_room": "390.0",
+              "flat_cat": "L",
+              "cat": "c",
+              "fillColor": "#8a93b2",
+              "fillOpacity": "0.8",
+              "color": "#ffffff",
+              "weight": "1.5",
+              "opacity": "0.9",
+              "radius": 45,
+              "title": "Wohnung 'L'",
+              "description": "Miete: 1950 CHF/Monat<br>Miete/qm: 17.11 CHF/Monat<br>Miete/Zimmer: 390.00 CHF/Monat<br>Nebenkosten: 200 CHF/Monat"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                9.39176407139537,
+                47.4304230842969
+              ]
+            }
           }
         ]
       },
