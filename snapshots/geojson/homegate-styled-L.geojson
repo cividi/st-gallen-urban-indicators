@@ -6439,6 +6439,194 @@
           47.440391540527344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001700115,
+        "object_ref": "lxrza.a5gwc",
+        "category": "rent",
+        "date": "2022-02-28T15:48:03",
+        "flatType": null,
+        "floor": null,
+        "rent": 630,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 28,
+        "year_built": null,
+        "street_number": "Dianastrasse",
+        "city": "St. Gallen",
+        "zip": 9000,
+        "lat": "47.4322395324707",
+        "lng": "9.3812141418457",
+        "egid": 10729440,
+        "gwr_egid": 1072944,
+        "gwr_wazim": 7,
+        "gwr_warea": 160,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.825",
+        "price_per_sqm": "22.5",
+        "price_per_room": "90.0",
+        "flat_cat": "L",
+        "cat": "a",
+        "fillColor": "#0028b8",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 630 CHF/Monat<br>Miete/qm: 22.50 CHF/Monat<br>Miete/Zimmer: 90.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.381214141845703,
+          47.4322395324707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001708719,
+        "object_ref": "50740156",
+        "category": "rent",
+        "date": "2022-02-28T15:47:26",
+        "flatType": null,
+        "floor": null,
+        "rent": 1980,
+        "rent_add": null,
+        "rent_net": null,
+        "rooms": null,
+        "area": 133,
+        "year_built": null,
+        "street_number": "Herisauerstrasse 88",
+        "city": "St. Gallen",
+        "zip": 9015,
+        "lat": null,
+        "lng": null,
+        "egid": 1068659,
+        "gwr_egid": 1068659,
+        "gwr_wazim": 6,
+        "gwr_warea": 143,
+        "gwr_wstwk": 3104,
+        "match_accuracy": "0.0699300699300699",
+        "price_per_sqm": "14.887218045112782",
+        "price_per_room": "330.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1980 CHF/Monat<br>Miete/qm: 14.89 CHF/Monat<br>Miete/Zimmer: 330.00 CHF/Monat<br>Nebenkosten: None CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.30094535853162,
+          47.4016572905137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001704066,
+        "object_ref": "7797.07.0101",
+        "category": "rent",
+        "date": "2022-02-28T15:50:09",
+        "flatType": null,
+        "floor": "1",
+        "rent": 1690,
+        "rent_add": 280,
+        "rent_net": 1410,
+        "rooms": null,
+        "area": 95,
+        "year_built": 1968,
+        "street_number": "Zilweg 10",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.4417991638184",
+        "lng": "9.40919876098633",
+        "egid": 10771300,
+        "gwr_egid": 1077130,
+        "gwr_wazim": 5,
+        "gwr_warea": 98,
+        "gwr_wstwk": 3101,
+        "match_accuracy": "0.0306122448979592",
+        "price_per_sqm": "17.789473684210527",
+        "price_per_room": "338.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1690 CHF/Monat<br>Miete/qm: 17.79 CHF/Monat<br>Miete/Zimmer: 338.00 CHF/Monat<br>Nebenkosten: 280 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.409198760986328,
+          47.44179916381836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3001704065,
+        "object_ref": "7797.02.0002",
+        "category": "rent",
+        "date": "2022-02-28T15:50:18",
+        "flatType": null,
+        "floor": "GF",
+        "rent": 1640,
+        "rent_add": 240,
+        "rent_net": 1400,
+        "rooms": null,
+        "area": 95,
+        "year_built": 1968,
+        "street_number": "Oberzilstrasse 4",
+        "city": "St. Gallen",
+        "zip": 9016,
+        "lat": "47.4411430358887",
+        "lng": "9.40926456451416",
+        "egid": 10771180,
+        "gwr_egid": 1077118,
+        "gwr_wazim": 5,
+        "gwr_warea": 98,
+        "gwr_wstwk": 3100,
+        "match_accuracy": "0.0306122448979592",
+        "price_per_sqm": "17.263157894736842",
+        "price_per_room": "328.0",
+        "flat_cat": "L",
+        "cat": "c",
+        "fillColor": "#8a93b2",
+        "fillOpacity": "0.8",
+        "color": "#ffffff",
+        "weight": "1.5",
+        "opacity": "0.9",
+        "radius": 45,
+        "title": "Wohnung 'L'",
+        "description": "Miete: 1640 CHF/Monat<br>Miete/qm: 17.26 CHF/Monat<br>Miete/Zimmer: 328.00 CHF/Monat<br>Nebenkosten: 240 CHF/Monat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.40926456451416,
+          47.44114303588867
+        ]
+      }
     }
   ]
 }
